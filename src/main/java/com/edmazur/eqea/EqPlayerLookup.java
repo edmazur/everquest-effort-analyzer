@@ -8,11 +8,11 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 
-public class EqClassLookup {
+public class EqPlayerLookup {
 
   private static Map<String, String> NAMES_TO_EQ_CLASSES;
 
-  public EqClassLookup() {
+  public EqPlayerLookup() {
     List<String> lines = null;
     try {
       lines = Files.readAllLines(Path.of(
@@ -29,6 +29,10 @@ public class EqClassLookup {
       String[] parts = line.split(",");
       NAMES_TO_EQ_CLASSES.put(parts[0], parts[1]);
     }
+  }
+
+  public boolean isKnownPlayer(String name) {
+    return NAMES_TO_EQ_CLASSES.keySet().contains(name);
   }
 
   public Optional<String> getEqClass(String name) {
