@@ -1,5 +1,8 @@
 package com.edmazur.eqea;
 
+import com.edmazur.eqea.printer.Column;
+import com.edmazur.eqea.printer.MultiTablePrinter;
+import com.edmazur.eqea.printer.Table;
 import java.time.Instant;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
@@ -12,10 +15,6 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.Set;
 import java.util.TreeMap;
-
-import com.edmazur.eqea.printer.MultiTablePrinter;
-import com.edmazur.eqea.printer.Table;
-import com.edmazur.eqea.printer.Column;
 
 public class EqEffortPrinter {
 
@@ -37,8 +36,8 @@ public class EqEffortPrinter {
       Optional<String> maybeEqClass =
           eqClassLookup.getEqClass(eqEffort.getName());
       // TODO: This is a gruesome hack to put UNKNOWN at the end.
-      String eqClass = maybeEqClass.get().equals("UNKNOWN") ?
-          "zzzUNKNOWN" : maybeEqClass.get();
+      String eqClass = maybeEqClass.get().equals("UNKNOWN")
+          ? "zzzUNKNOWN" : maybeEqClass.get();
 
       List<EqEffort> eqEffortsForClass = classesToEqEfforts.get(eqClass);
       if (eqEffortsForClass == null) {
@@ -68,8 +67,8 @@ public class EqEffortPrinter {
     System.out.println("           Logs: " + character);
     System.out.println();
     MultiTablePrinter.print(tables);
-    System.out.println("Names not recognized as players: " +
-        String.join(", ", unrecognizedNames));
+    System.out.println("Names not recognized as players: "
+        + String.join(", ", unrecognizedNames));
   }
 
   private static Table getTableForClass(String eqClass, List<EqEffort> eqEfforts) {

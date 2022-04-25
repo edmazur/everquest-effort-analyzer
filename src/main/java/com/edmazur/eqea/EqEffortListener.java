@@ -1,12 +1,11 @@
 package com.edmazur.eqea;
 
+import com.edmazur.eqlp.EqLogEvent;
+import com.edmazur.eqlp.EqLogListener;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
-import com.edmazur.eqlp.EqLogEvent;
-import com.edmazur.eqlp.EqLogListener;
 
 public class EqEffortListener implements EqLogListener {
 

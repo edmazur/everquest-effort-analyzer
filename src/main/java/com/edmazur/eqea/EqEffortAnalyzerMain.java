@@ -1,12 +1,11 @@
 package com.edmazur.eqea;
 
+import com.edmazur.eqlp.EqLog;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.time.Instant;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
-
-import com.edmazur.eqlp.EqLog;
 
 public class EqEffortAnalyzerMain {
 

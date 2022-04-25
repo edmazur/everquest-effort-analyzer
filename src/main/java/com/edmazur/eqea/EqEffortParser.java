@@ -1,5 +1,6 @@
 package com.edmazur.eqea;
 
+import com.edmazur.eqlp.EqLogEvent;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -7,8 +8,6 @@ import java.util.Set;
 import java.util.TreeSet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-import com.edmazur.eqlp.EqLogEvent;
 
 public class EqEffortParser {
 
@@ -19,10 +18,12 @@ public class EqEffortParser {
       "You begin casting .+\\.");
 
   private static final Pattern DAMAGE = Pattern.compile(
-      "(?<attacker>\\p{Alpha}+) .+ (?<defender>\\p{Alpha}+) for (?<damage>\\d+) points of damage\\.");
+      "(?<attacker>\\p{Alpha}+) .+ (?<defender>\\p{Alpha}+) "
+          + "for (?<damage>\\d+) points of damage\\.");
 
   private static final Pattern CHAT_OTHER = Pattern.compile(
-      "(?<name>\\p{Upper}\\p{Lower}+) (?:tells the guild|says out of character|shouts|auctions|says), '.*");
+      "(?<name>\\p{Upper}\\p{Lower}+) "
+          + "(?:tells the guild|says out of character|shouts|auctions|says), '.*");
 
   private static final Pattern CHAT_SELF = Pattern.compile(
       "(?<name>You) (?:say to your guild|say out of character|shout|auction|say), '.*");
