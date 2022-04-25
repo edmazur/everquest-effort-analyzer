@@ -36,7 +36,7 @@ public class EqEffortAnalyzerMain {
         parseEnd);
 
     EqPlayerLookup eqPlayerLookup = new EqPlayerLookup();
-    EqEffortParser eqEffortParser = new EqEffortParser(eqPlayerLookup);
+    EqEffortParser eqEffortParser = new EqEffortParser(eqPlayerLookup, character);
     EqEffortListener eqEffortListener = new EqEffortListener(eqEffortParser);
     eqLog.addListener(eqEffortListener);
     eqLog.run();

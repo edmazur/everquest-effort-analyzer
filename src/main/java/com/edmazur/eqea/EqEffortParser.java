@@ -29,10 +29,12 @@ public class EqEffortParser {
       "(?<name>You) (?:say to your guild|say out of character|shout|auction|say), '.*");
 
   private final EqPlayerLookup eqPlayerLookup;
+  private final String character;
   private final Set<String> unrecognizedNames;
 
-  public EqEffortParser(EqPlayerLookup eqPlayerLookup) {
+  public EqEffortParser(EqPlayerLookup eqPlayerLookup, String character) {
     this.eqPlayerLookup = eqPlayerLookup;
+    this.character = character;
     this.unrecognizedNames = new TreeSet<>();
   }
 
@@ -48,9 +50,7 @@ public class EqEffortParser {
 
     matcher = SELF_CAST.matcher(eqLogEvent.getPayload());
     if (matcher.matches()) {
-      // TODO: Get this dynamically from the name of the file being parsed.
-      String name = "Stanvern";
-      return Collections.singletonList(new EqEffort(name, 1, 0, 0, 0));
+      return Collections.singletonList(new EqEffort(character, 1, 0, 0, 0));
     }
 
     matcher = DAMAGE.matcher(eqLogEvent.getPayload());
@@ -61,12 +61,10 @@ public class EqEffortParser {
       String defender = matcher.group("defender");
       boolean hasDefender = defender != null;
       if (hasAttacker && attacker.equals("You")) {
-        // TODO: Get this dynamically from the name of the file being parsed.
-        attacker = "Stanvern";
+        attacker = character;
       }
       if (hasDefender && defender.equals("YOU")) {
-        // TODO: Get this dynamically from the name of the file being parsed.
-        defender = "Stanvern";
+        defender = character;
       }
       int damage = Integer.parseInt(matcher.group("damage"));
       if (hasAttacker && isKnownPlayer(attacker)) {
@@ -90,8 +88,7 @@ public class EqEffortParser {
 
       matcher = CHAT_SELF.matcher(eqLogEvent.getPayload());
       if (matcher.matches()) {
-        // TODO: Get this dynamically from the name of the file being parsed.
-        String name = "Stanvern";
+        String name = character;
         return Collections.singletonList(new EqEffort(name, 0, 0, 0, 1));
       }
     }
