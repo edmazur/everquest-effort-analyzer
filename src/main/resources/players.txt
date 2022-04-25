@@ -7,6 +7,7 @@ Aadot,Necromancer
 Aaeelin,Enchanter
 Aaeerian,Druid
 Aaeien,Enchanter
+Aaele,UNKNOWN
 Aaenayyan,Enchanter
 Aaeolen,Enchanter
 Aaesop,UNKNOWN
@@ -69,6 +70,7 @@ Abartig,Shadow Knight
 Abbadox,Paladin
 Abban,UNKNOWN
 Abbey,Magician
+Abbici,Cleric
 Abbitty,UNKNOWN
 Abbydawgsffffff,Ranger
 Abductions,Warrior
@@ -76,8 +78,8 @@ Abeil,Cleric
 Abelour,Magician
 Abely,Ranger
 Aber,Cleric
-Abern,Magician
 Abernathy,Paladin
+Abern,Magician
 Aberon,Cleric
 Abetoc,Wizard
 Abhay,Magician
@@ -91,9 +93,9 @@ Aborebard,Necromancer
 Abored,Bard
 Abou,Druid
 Abower,Ranger
-Abraca,Enchanter
 Abracadaniel,Necromancer
 Abracadavre,Ranger
+Abraca,Enchanter
 Abradolf,Cleric
 Abrakadavar,Necromancer
 Abrakdabra,Magician
@@ -206,9 +208,9 @@ Adrik,Cleric
 Adrina,Rogue
 Adrith,Paladin
 Adros,Necromancer
-Adry,UNKNOWN
 Adrya,Magician
 Adryan,Monk
+Adry,UNKNOWN
 Adundas,Cleric
 Advaita,Warrior
 Advent,Rogue
@@ -218,6 +220,7 @@ Adyl,Enchanter
 Aecus,Druid
 Aedamus,Wizard
 Aedis,Warrior
+Aedwyn,Rogue
 Aefir,Druid
 Aegadin,Ranger
 Aegerin,Druid
@@ -234,8 +237,9 @@ Aelfdane,Enchanter
 Aelgir,Bard
 Aelinbar,Druid
 Aelister,Magician
-Aelithas,UNKNOWN
+Aelithas,Ranger
 Aelli,Druid
+Aelnara,Druid
 Aelorauk,Shaman
 Aelrun,Druid
 Aelthalas,Enchanter
@@ -250,6 +254,7 @@ Aenfule,Druid
 Aenia,Druid
 Aennia,Cleric
 Aentropic,Enchanter
+Aeomyn,Ranger
 Aeonar,Bard
 Aeonth,Wizard
 Aeowyn,Cleric
@@ -311,10 +316,11 @@ Agilly,Bard
 Agio,Druid
 Agitos,Magician
 Aglavale,Ranger
+Aglaya,UNKNOWN
 Agna,Cleric
 Agonn,Cleric
-Agorn,Necromancer
 Agorne,Shaman
+Agorn,Necromancer
 Agpeya,Bard
 Agrabald,Paladin
 Agraia,Ranger
@@ -333,8 +339,8 @@ Ahkeem,Enchanter
 Ahlenir,Enchanter
 Ahlor,Magician
 Ahlysa,Druid
-Ahman,Shaman
 Ahmane,Shaman
+Ahman,Shaman
 Ahnauld,Monk
 Ahnk,Shaman
 Ahrya,Druid
@@ -370,6 +376,7 @@ Ailwen,Druid
 Ailya,Necromancer
 Aimery,Warrior
 Aimina,Enchanter
+Aimy,Enchanter
 Ainad,Enchanter
 Ainamil,Cleric
 Aindar,Necromancer
@@ -433,9 +440,9 @@ Akkera,Necromancer
 Akkuji,Shaman
 Akleja,Monk
 Akoja,Shadow Knight
-Akool,UNKNOWN
 Akoolin,Cleric
 Akooling,Monk
+Akool,UNKNOWN
 Akoustic,Bard
 Akpla,Bard
 Akross,Paladin
@@ -449,8 +456,8 @@ Alahadin,Paladin
 Alalim,Druid
 Alalta,Enchanter
 Alamgir,Paladin
-Alana,Ranger
 Alanah,Enchanter
+Alana,Ranger
 Alandia,Druid
 Alando,Ranger
 Alanni,Druid
@@ -483,6 +490,7 @@ Aldaria,Druid
 Aldin,Cleric
 Aldmare,UNKNOWN
 Aldo,Cleric
+Aldrus,Shaman
 Aldukar,Enchanter
 Aldune,Wizard
 Alduron,Paladin
@@ -493,19 +501,21 @@ Alehood,Rogue
 Aleile,UNKNOWN
 Aleinstein,UNKNOWN
 Aleion,Magician
+Aleistar,UNKNOWN
 Aleisterr,Enchanter
 Aleisture,Magician
+Alekin,Enchanter
 Alekzander,Monk
 Alekzandr,Cleric
 Alendarr,Ranger
 Alerts,Ranger
 Aleryon,Druid
-Ales,Rogue
-Alesh,Shaman
 Aleshak,Wizard
+Alesh,Shaman
 Alesii,Necromancer
 Aleslammer,Shaman
 Aleslip,Bard
+Ales,Rogue
 Alessandra,Cleric
 Alessandro,Druid
 Alestabber,Rogue
@@ -520,13 +530,14 @@ Alexissa,Warrior
 Alfie,Bard
 Alfred,Cleric
 Alfredo,Druid
+Alfredopasta,Paladin
 Alhoon,Necromancer
 Aliamina,Druid
 Alibeth,Enchanter
 Alidaine,Enchanter
-Alie,Warrior
 Alienistic,Shaman
 Alienprobe,Cleric
+Alie,Warrior
 Aliia,Bard
 Aliisza,Cleric
 Alikhat,Wizard
@@ -572,6 +583,7 @@ Allmight,Monk
 Allmyfriends,Necromancer
 Allneed,Enchanter
 Allofit,Druid
+Allosaurus,Necromancer
 Allotek,Rogue
 Allpointsincha,Warrior
 Allports,Druid
@@ -600,12 +612,12 @@ Alotekk,Enchanter
 Alou,Monk
 Alowishuss,Druid
 Alpacka,Cleric
-Alph,Magician
 Alphaa,Enchanter
 Alphabank,Bard
 Alphamale,Cleric
-Alphan,Necromancer
 Alphaniac,Rogue
+Alphan,Necromancer
+Alph,Magician
 Alport,Druid
 Alqui,Enchanter
 Alren,Enchanter
@@ -635,8 +647,8 @@ Altinea,Druid
 Altpoe,UNKNOWN
 Altrimus,UNKNOWN
 Altwight,Druid
-Aluas,Ranger
 Aluasil,Paladin
+Aluas,Ranger
 Alubard,Bard
 Aludiin,Druid
 Alueren,Ranger
@@ -679,10 +691,11 @@ Amancia,Bard
 Amandafaye,Enchanter
 Amandalee,Bard
 Amannuel,Necromancer
+Amans,Bard
 Amantia,Monk
 Amarin,UNKNOWN
 Amarion,Magician
-Amarr,UNKNOWN
+Amarr,Druid
 Amarrow,Necromancer
 Amaryllis,Druid
 Amaryn,Bard
@@ -694,8 +707,10 @@ Amayajo,Ranger
 Amayo,Enchanter
 Amazn,Enchanter
 Amberfield,Druid
+Amberheart,Cleric
 Amberle,UNKNOWN
 Ambientwarmth,Necromancer
+Ambrogioooo,Wizard
 Ambulo,Druid
 Amdoh,UNKNOWN
 Ameliafd,Magician
@@ -704,9 +719,11 @@ Amelyssan,Cleric
 Amendia,Wizard
 Amenity,Wizard
 Amga,Enchanter
+Amgalad,Rogue
 Amided,Enchanter
-Amie,UNKNOWN
 Amielee,Bard
+Amie,UNKNOWN
+Amieve,UNKNOWN
 Amillia,Druid
 Amirantha,Magician
 Amirya,Druid
@@ -730,8 +747,8 @@ Amped,Bard
 Amra,Necromancer
 Amthy,Paladin
 Amulette,Cleric
-Amun,Cleric
 Amunar,Ranger
+Amun,Cleric
 Amunian,Druid
 Amurica,Warrior
 Amyas,Bard
@@ -763,12 +780,12 @@ Andarr,Druid
 Ande,Enchanter
 Andella,Bard
 Andenone,Warrior
-Ander,Rogue
 Anderexazia,Druid
+Ander,Rogue
 Andersin,Cleric
 Andrak,Paladin
-Andras,Rogue
 Andrasephili,Enchanter
+Andras,Rogue
 Andril,Ranger
 Andromancis,Enchanter
 Andromeyda,Cleric
@@ -811,6 +828,7 @@ Anizgog,Bard
 Anjuna,Bard
 Ankar,Rogue
 Ankhara,UNKNOWN
+Anklescratcher,Druid
 Annabel,Necromancer
 Annadaeus,Bard
 Annaebel,Cleric
@@ -819,8 +837,8 @@ Annann,Druid
 Annburlyn,UNKNOWN
 Anneirin,Bard
 Anneshka,Necromancer
-Annex,Magician
 Annexia,Rogue
+Annex,Magician
 Anniwil,Cleric
 Annlousluzy,Shaman
 Annrya,Necromancer
@@ -862,13 +880,15 @@ Aoifah,Ranger
 Aolis,Magician
 Aonar,Cleric
 Aonera,UNKNOWN
+Aontroim,Rogue
 Aori,Enchanter
 Aortic,Cleric
 Aosoth,Shadow Knight
-Aoth,Warrior
 Aothec,Bard
+Aoth,Warrior
 Apach,Enchanter
 Apatite,Druid
+Aperol,Bard
 Apeschit,Monk
 Apestoso,Druid
 Aphodite,Enchanter
@@ -912,8 +932,8 @@ Arathorn,UNKNOWN
 Aravex,UNKNOWN
 Araxen,Enchanter
 Araxina,Druid
-Araya,Necromancer
 Arayah,Enchanter
+Araya,Necromancer
 Araze,Ranger
 Araziel,Bard
 Arballista,Ranger
@@ -923,14 +943,15 @@ Arboreal,Druid
 Arborry,Druid
 Arca,Necromancer
 Arcangelo,Cleric
-Arch,Necromancer
+Archaio,Monk
 Archane,Wizard
 Archanis,Wizard
 Arched,Ranger
-Archer,Ranger
 Archerie,Ranger
+Archer,Ranger
 Archilles,Rogue
 Archives,Warrior
+Arch,Necromancer
 Archubar,Druid
 Arctiq,Shaman
 Ardera,Necromancer
@@ -1009,6 +1030,7 @@ Arnizz,Rogue
 Arnnack,Wizard
 Arnode,Shaman
 Aroan,Ranger
+Aroden,Paladin
 Aroma,Ranger
 Aronian,Druid
 Arora,UNKNOWN
@@ -1042,8 +1064,8 @@ Artezy,Rogue
 Arthagus,Enchanter
 Arthlo,Druid
 Arthmael,Ranger
-Arthon,Paladin
 Arthoneous,Paladin
+Arthon,Paladin
 Arthritic,Monk
 Articwolf,Druid
 Artifax,Ranger
@@ -1065,9 +1087,9 @@ Arwyelien,UNKNOWN
 Arxis,Enchanter
 Aryele,Enchanter
 Arylin,Paladin
-Aryn,Magician
 Aryna,Druid
 Arynda,Warrior
+Aryn,Magician
 Arysana,Enchanter
 Aryza,UNKNOWN
 Asah,Shadow Knight
@@ -1135,6 +1157,8 @@ Asten,Enchanter
 Aster,Druid
 Asteriks,Monk
 Asterzoro,Paladin
+Astiall,Cleric
+Astowage,Druid
 Astralogical,Druid
 Astram,Paladin
 Astrava,Shadow Knight
@@ -1156,8 +1180,8 @@ Asxr,Magician
 Ataq,Monk
 Ataria,Shaman
 Atatata,Monk
-Ataxi,UNKNOWN
 Ataxia,Monk
+Ataxi,UNKNOWN
 Atayana,Enchanter
 Atello,Shaman
 Atendor,Magician
@@ -1169,11 +1193,12 @@ Atheana,Warrior
 Atheist,Rogue
 Athelwulf,Magician
 Athemis,Cleric
-Athen,Magician
 Athenar,Ranger
+Athen,Magician
 Athenx,Magician
 Atheon,Druid
 Atheron,Wizard
+Atherys,Druid
 Athief,Rogue
 Athien,Enchanter
 Athini,Bard
@@ -1189,10 +1214,10 @@ Atlante,Necromancer
 Atlasas,Enchanter
 Atoche,Cleric
 Atolicus,Warrior
-Atom,Magician
 Atomfist,Monk
 Atomica,Wizard
 Atomicc,Enchanter
+Atom,Magician
 Atoned,Paladin
 Atonez,Bard
 Atouk,Warrior
@@ -1202,17 +1227,21 @@ Atreyas,Monk
 Atrion,UNKNOWN
 Atrociti,Shadow Knight
 Atrocitis,Shadow Knight
+Atrolaras,Paladin
 Atropae,Necromancer
+Atropazalia,UNKNOWN
 Attack,Bard
-Attan,Magician
+Attan,Paladin
 Atticas,Magician
 Attlana,Cleric
 Attone,Bard
+Atts,Druid
 Atumn,UNKNOWN
 Atwana,Bard
 Atychi,Enchanter
 Atzuki,Druid
 Auberon,UNKNOWN
+Aubii,Cleric
 Auchamp,Cleric
 Auchentoshan,Magician
 Auclog,Warrior
@@ -1268,11 +1297,13 @@ Autumnskye,Ranger
 Auzymandias,Enchanter
 Avagrace,Druid
 Avalesca,Druid
+Avalinka,Enchanter
 Avalohn,Druid
 Avalokitesvara,Monk
 Avamar,UNKNOWN
 Avani,Cleric
 Avanthar,Ranger
+Avarus,UNKNOWN
 Aveena,Cleric
 Aveira,Warrior
 Aveluna,Cleric
@@ -1320,6 +1351,7 @@ Axxen,Warrior
 Ayaah,Bard
 Ayachi,Wizard
 Ayako,Enchanter
+Ayanami,Cleric
 Ayane,Ranger
 Ayase,Monk
 Ayashikunai,Necromancer
@@ -1361,13 +1393,14 @@ Azemzem,Magician
 Azerakiss,Monk
 Azerinn,UNKNOWN
 Azerion,Druid
+Azeros,Magician
 Azerothe,Necromancer
 Azezu,Magician
 Azhag,Shadow Knight
 Azhuk,Druid
 Aziban,Warrior
-Azibo,Shaman
 Azibor,Warrior
+Azibo,Shaman
 Aziekiel,Magician
 Azile,Druid
 Azinifel,UNKNOWN
@@ -1386,8 +1419,8 @@ Aznirru,UNKNOWN
 Azore,Wizard
 Azorr,Paladin
 Azota,Enchanter
-Azra,Necromancer
 Azraa,Enchanter
+Azra,Necromancer
 Azrayel,Paladin
 Azrea,Necromancer
 Azrek,Enchanter
@@ -1408,6 +1441,7 @@ Azzalure,UNKNOWN
 Azzeni,Cleric
 Azzmar,Magician
 Azzudnan,Magician
+Azzudnic,Cleric
 Azzyre,Enchanter
 Baaarrrddd,Bard
 Baabrains,Enchanter
@@ -1427,6 +1461,7 @@ Babmag,Magician
 Baboy,Magician
 Babrazo,Shaman
 Babybast,Enchanter
+Babybox,Cleric
 Babycakes,Bard
 Babycharm,Enchanter
 Babyhuey,Shadow Knight
@@ -1468,8 +1503,8 @@ Badshaw,Necromancer
 Badumtsss,Bard
 Badyoda,Shadow Knight
 Baebae,Necromancer
-Baed,Shadow Knight
 Baede,Rogue
+Baed,Shadow Knight
 Baekan,Druid
 Baela,Enchanter
 Baelfyre,Druid
@@ -1480,8 +1515,8 @@ Baeppo,Druid
 Baerforce,Shaman
 Baerock,Warrior
 Baeroos,Magician
-Baet,Warrior
 Baethoven,Shaman
+Baet,Warrior
 Baevis,UNKNOWN
 Baeya,Cleric
 Baffo,UNKNOWN
@@ -1494,8 +1529,8 @@ Bagheera,Warrior
 Baglaak,Warrior
 Bagluak,Shaman
 Bagmen,Warrior
-Bagns,Druid
 Bagnsave,UNKNOWN
+Bagns,Druid
 Bagofplatinum,Druid
 Bagoplat,Rogue
 Bagss,Bard
@@ -1514,6 +1549,7 @@ Bainne,Shaman
 Baji,UNKNOWN
 Bakamore,Cleric
 Bakan,Magician
+Bakanore,Rogue
 Bakbal,Shaman
 Bakblast,Magician
 Bakhi,Monk
@@ -1535,7 +1571,6 @@ Baldurk,Warrior
 Baldurn,Ranger
 Baldusaurus,Druid
 Baldzilla,Monk
-Bale,Wizard
 Baledrin,UNKNOWN
 Balefrost,Wizard
 Balefyre,Cleric
@@ -1543,6 +1578,7 @@ Baleigh,Enchanter
 Balentine,Cleric
 Baleog,Magician
 Baler,UNKNOWN
+Bale,Wizard
 Balfir,Druid
 Balgrid,Necromancer
 Balimire,Rogue
@@ -1584,8 +1620,9 @@ Banannie,Ranger
 Banbwen,Paladin
 Bandajes,Magician
 Bandcamp,Bard
-Bandi,Warrior
+Bandcamped,UNKNOWN
 Bandit,Rogue
+Bandi,Warrior
 Baneblade,Shadow Knight
 Banekor,Necromancer
 Baneleaf,UNKNOWN
@@ -1623,8 +1660,8 @@ Bant,Warrior
 Baoli,Druid
 Baptie,Magician
 Baragon,UNKNOWN
-Barang,Necromancer
 Baranga,Rogue
+Barang,Necromancer
 Barash,UNKNOWN
 Barathorn,Magician
 Barbaric,Rogue
@@ -1632,8 +1669,8 @@ Barbarois,UNKNOWN
 Barbi,Rogue
 Barbocu,Warrior
 Barbora,Warrior
-Barbu,Enchanter
 Barbuda,Warrior
+Barbu,Enchanter
 Barbus,Warrior
 Barel,Cleric
 Barenmage,Magician
@@ -1650,39 +1687,41 @@ Barnold,Shadow Knight
 Barnsey,Paladin
 Barque,Druid
 Barquin,Bard
-Barr,Wizard
 Barrack,UNKNOWN
 Barre,Druid
+Barriss,Bard
 Barrul,Druid
 Barrun,Druid
+Barr,Wizard
 Barta,Cleric
 Bartalgus,Paladin
 Bartani,Cleric
 Bartannis,Bard
 Bartek,Paladin
-Bartha,Warrior
 Bartharley,Enchanter
+Bartha,Warrior
 Barthorn,Rogue
 Bartleby,Cleric
 Bartoll,Ranger
 Bartom,Enchanter
 Bartt,Paladin
 Baruck,UNKNOWN
-Baruk,Warrior
 Barukak,Shadow Knight
+Baruk,Warrior
 Barumo,Rogue
 Barwar,Warrior
 Barwind,Druid
-Basen,Shaman
 Basendil,Paladin
 Basenji,Bard
+Basen,Shaman
 Basha,Warrior
 Bashum,Shadow Knight
 Basics,Rogue
 Basira,Bard
-Basket,Shadow Knight
 Basketball,Magician
+Basket,Shadow Knight
 Baslo,Shaman
+Basspower,Bard
 Bastione,Druid
 Bastogne,Necromancer
 Bastyr,Shaman
@@ -1854,9 +1893,9 @@ Bendara,Shaman
 Bending,Enchanter
 Bendon,Bard
 Bendy,Druid
-Bene,Enchanter
-Benedic,UNKNOWN
 Benedict,Cleric
+Benedic,UNKNOWN
+Bene,Enchanter
 Beneficent,Magician
 Benezen,Shadow Knight
 Benidin,UNKNOWN
@@ -1876,11 +1915,11 @@ Bentonn,Wizard
 Bentson,Warrior
 Beoladh,Enchanter
 Beolin,Wizard
-Berb,Cleric
 Berbank,UNKNOWN
 Berbark,Druid
-Berdi,Wizard
+Berb,Cleric
 Berdine,Bard
+Berdi,Wizard
 Berea,Enchanter
 Berendil,Shaman
 Berenger,Paladin
@@ -1933,17 +1972,17 @@ Bhaldorax,Necromancer
 Bhalid,Druid
 Bhard,Bard
 Bhaul,Bard
-Bhigg,Rogue
 Bhiggi,Magician
+Bhigg,Rogue
 Bhiig,Rogue
 Bhind,UNKNOWN
 Bholri,Wizard
 Bhonnes,UNKNOWN
 Bhonz,Cleric
 Bhoots,Necromancer
-Bibb,Monk
 Bibbidy,Shaman
 Bibbles,Druid
+Bibb,Monk
 Biblotte,Druid
 Bibo,Enchanter
 Bibop,Druid
@@ -1953,6 +1992,7 @@ Biddlegrim,Necromancer
 Bidett,Rogue
 Bidos,Monk
 Biergut,Warrior
+Biffina,Paladin
 Biffington,Druid
 Bifftannen,UNKNOWN
 Bifur,Cleric
@@ -1963,8 +2003,9 @@ Bigbrained,Magician
 Bigbudz,Shaman
 Bigcheddar,Shaman
 Bigchief,Shaman
-Bigchillin,Warrior
+Bigchillin,Rogue
 Bigcountry,Monk
+Bigddcreams,Enchanter
 Bigdip,Druid
 Bigdrum,Bard
 Bigdumper,Bard
@@ -1990,6 +2031,7 @@ Bigrey,Cleric
 Bigrisk,Druid
 Bigslappin,Enchanter
 Bigstank,Shaman
+Bigtater,Cleric
 Bigthigh,Ranger
 Bigtoehair,Shadow Knight
 Bigtoes,Druid
@@ -1998,6 +2040,7 @@ Bigtrucker,Ranger
 Bigtumz,Shaman
 Bigum,Shaman
 Biguy,Shaman
+Bigwilistyle,Bard
 Bigyux,Shadow Knight
 Bikhair,Druid
 Bilari,Magician
@@ -2012,10 +2055,10 @@ Billco,Bard
 Billdad,Rogue
 Billett,Monk
 Billll,Monk
-Billy,Wizard
 Billyboy,Warrior
 Billygee,Bard
 Billysunday,Ranger
+Billy,Wizard
 Bilolf,Druid
 Bilquis,Cleric
 Bilton,UNKNOWN
@@ -2046,8 +2089,8 @@ Birde,Druid
 Birdstheword,Paladin
 Birefall,Ranger
 Birgs,Druid
-Birk,Warrior
 Birken,Shadow Knight
+Birk,Warrior
 Birnen,UNKNOWN
 Birr,Cleric
 Birrtha,UNKNOWN
@@ -2055,6 +2098,7 @@ Bisam,Magician
 Bisben,Enchanter
 Bischop,Cleric
 Biskup,Cleric
+Bisphenol,Necromancer
 Bisu,UNKNOWN
 Bita,Bard
 Bitcoined,Bard
@@ -2123,9 +2167,9 @@ Blargle,Shaman
 Blarneyshop,Druid
 Blarnystone,Cleric
 Blasd,UNKNOWN
-Blast,Magician
 Blastanne,Wizard
 Blastbark,Druid
+Blast,Magician
 Blastn,Wizard
 Blastoise,Magician
 Blathrad,UNKNOWN
@@ -2153,8 +2197,8 @@ Blick,Rogue
 Blimbus,Druid
 Blimpforce,Necromancer
 Blindboy,Bard
-Blinde,Rogue
 Blinded,Enchanter
+Blinde,Rogue
 Blindhammer,Paladin
 Blingo,Bard
 Blinkie,UNKNOWN
@@ -2175,7 +2219,6 @@ Blodtorst,Paladin
 Blonde,Druid
 Blondii,UNKNOWN
 Blondy,Wizard
-Bloo,Enchanter
 Bloodbriar,Bard
 Bloodcell,Cleric
 Blooddie,UNKNOWN
@@ -2195,8 +2238,9 @@ Bloodsin,Shadow Knight
 Bloodsocket,Necromancer
 Bloodsports,Monk
 Bloodspurt,Rogue
-Bloom,Ranger
+Bloo,Enchanter
 Bloome,Enchanter
+Bloom,Ranger
 Bloopski,Magician
 Blrecharge,UNKNOWN
 Blskibbb,Bard
@@ -2222,6 +2266,7 @@ Blunderr,Warrior
 Bluntwraps,Druid
 Blurb,Magician
 Blured,Bard
+Blurie,Wizard
 Blyss,Enchanter
 Blythe,Necromancer
 Bnghits,Enchanter
@@ -2229,9 +2274,9 @@ Boad,Druid
 Boag,Magician
 Boardingpass,Druid
 Boards,Enchanter
-Boba,Shaman
 Bobaff,Wizard
 Bobandy,Rogue
+Boba,Shaman
 Bobbarker,Warrior
 Bobber,Ranger
 Bobbers,Rogue
@@ -2256,8 +2301,8 @@ Bodifinda,Necromancer
 Bodingo,Druid
 Bodoso,Rogue
 Bodus,Druid
-Body,Shaman
 Bodybagg,Necromancer
+Body,Shaman
 Boefa,Bard
 Bofa,Rogue
 Boffa,Magician
@@ -2306,12 +2351,12 @@ Boms,Wizard
 Bonadur,Paladin
 Bonclay,Cleric
 Bonds,Warrior
-Bonher,Shadow Knight
 Bonherr,Rogue
+Bonher,Shadow Knight
 Bonitah,Necromancer
 Bonkitus,Magician
-Bonku,Paladin
 Bonkum,UNKNOWN
+Bonku,Paladin
 Bonnalurie,Ranger
 Bonno,Druid
 Bonnshoji,Wizard
@@ -2333,10 +2378,11 @@ Boohugs,Shadow Knight
 Booknot,Rogue
 Booli,Warrior
 Boombadil,Druid
-Boombang,Wizard
 Boombangbingpow,Ranger
+Boombang,Wizard
 Boombina,Shaman
 Boombus,Wizard
+Boomewave,Wizard
 Boomington,Wizard
 Boommaster,Wizard
 Boomsies,Wizard
@@ -2395,6 +2441,7 @@ Bosshog,Shadow Knight
 Botanix,Druid
 Bothana,Magician
 Bottomlesspit,Shaman
+Bott,UNKNOWN
 Boucc,Rogue
 Boudain,Warrior
 Boujeeweeb,Necromancer
@@ -2457,11 +2504,13 @@ Brassman,Enchanter
 Braug,Shaman
 Braumir,Ranger
 Brave,Paladin
+Brawagi,Shaman
 Brawlah,Warrior
+Braxas,Bard
 Braxor,Necromancer
 Braxxus,Shaman
-Braz,Monk
 Brazen,Enchanter
+Braz,Monk
 Brazzlethorpe,Rogue
 Bread,Bard
 Breadfann,Cleric
@@ -2485,8 +2534,8 @@ Brengus,Enchanter
 Brenly,Ranger
 Brenmon,Ranger
 Bretster,Druid
-Brett,Necromancer
 Brettanomyces,Wizard
+Brett,Necromancer
 Breunorr,Cleric
 Brewers,Monk
 Brewford,Rogue
@@ -2498,13 +2547,14 @@ Brewton,Enchanter
 Brexit,Shaman
 Breya,Rogue
 Brianboru,Warrior
-Briar,Warrior
 Briarbum,Druid
 Briarbush,Druid
 Briarcliffe,Rogue
 Briarfoot,UNKNOWN
 Briaroan,UNKNOWN
+Briarpatch,UNKNOWN
 Briarr,Druid
+Briar,Warrior
 Briarwolf,UNKNOWN
 Bribblebop,Magician
 Bribri,Druid
@@ -2514,7 +2564,9 @@ Briddle,Druid
 Bridgett,Cleric
 Brien,Magician
 Briggens,Paladin
+Brightchoice,Druid
 Brightie,Shadow Knight
+Brightine,Rogue
 Brightstar,Druid
 Brigitter,Rogue
 Brikana,Warrior
@@ -2556,8 +2608,8 @@ Brokencord,Bard
 Brokul,Shaman
 Brolack,Wizard
 Broleric,Cleric
-Broli,Shaman
 Brolight,Necromancer
+Broli,Shaman
 Bromagi,Magician
 Bromanz,Druid
 Bromax,UNKNOWN
@@ -2612,20 +2664,21 @@ Bruschi,Shaman
 Brussell,Cleric
 Brutalis,Rogue
 Brutalitops,Wizard
+Brutallica,Shadow Knight
 Brutall,Shaman
 Brutally,Monk
 Brutang,Bard
 Brutchanter,Enchanter
 Brutisk,Warrior
 Brutist,Paladin
-Brutt,Bard
 Bruttaal,Wizard
 Bruttality,Monk
+Brutt,Bard
 Brutte,Monk
 Bruudish,Cleric
 Bryce,Ranger
-Bryl,Rogue
 Bryliant,Enchanter
+Bryl,Rogue
 Bryndarr,Cleric
 Brynni,Wizard
 Brynnja,Necromancer
@@ -2693,6 +2746,7 @@ Bumnga,UNKNOWN
 Bumobol,Shaman
 Bumperdinckal,Wizard
 Bumpii,Shaman
+Bumpstick,Shaman
 Bumtin,Necromancer
 Bumzakbumzak,Magician
 Bundaberg,UNKNOWN
@@ -2707,9 +2761,9 @@ Buoyi,Magician
 Buphed,Shaman
 Burakh,Shaman
 Bureaucrat,Magician
-Burf,UNKNOWN
 Burfa,Shaman
 Burford,Druid
+Burf,UNKNOWN
 Burlokens,Cleric
 Burmecia,Enchanter
 Burnagin,UNKNOWN
@@ -2736,12 +2790,13 @@ Burumbus,Magician
 Burytoe,Wizard
 Busan,Druid
 Busch,Bard
-Bushcraft,Warrior
 Bushcrafter,Druid
+Bushcraft,Warrior
 Busheedo,Monk
 Bushington,UNKNOWN
 Buskin,Bard
 Busta,Bard
+Bustafyrm,Bard
 Bustdown,Enchanter
 Bustuh,Bard
 Butaface,Warrior
@@ -2764,8 +2819,8 @@ Byginisan,UNKNOWN
 Byllie,Bard
 Byrna,Magician
 Byron,Enchanter
-Byronic,Enchanter
 Byronica,Enchanter
+Byronic,Enchanter
 Bythat,Enchanter
 Bythelb,Magician
 Bytor,Paladin
@@ -2876,11 +2931,11 @@ Calsani,Ranger
 Calsulfur,Wizard
 Caltalpus,Magician
 Caltha,Necromancer
-Caly,Wizard
 Calyenta,Rogue
 Calyente,Necromancer
 Calyentle,Monk
 Calyfornication,Warrior
+Caly,Wizard
 Camaria,Enchanter
 Camaroc,Cleric
 Cambiaso,Rogue
@@ -2901,12 +2956,14 @@ Cams,Magician
 Camthallion,Ranger
 Canadderi,Enchanter
 Canaway,Monk
+Cancerslug,Cleric
 Cancrusher,Paladin
 Candaria,Enchanter
 Candibeats,UNKNOWN
 Candymitts,Monk
 Candysweet,Enchanter
 Canee,UNKNOWN
+Cangail,Bard
 Cani,Enchanter
 Canil,Enchanter
 Canister,Bard
@@ -2918,6 +2975,8 @@ Cannin,Ranger
 Cantalopes,Enchanter
 Cantheal,Cleric
 Cantickle,Shaman
+Cantsing,Bard
+Canyun,UNKNOWN
 Caocao,Wizard
 Caoilainn,Cleric
 Caolyn,Necromancer
@@ -2935,8 +2994,8 @@ Captncritz,Warrior
 Capulet,Ranger
 Carana,Druid
 Carazza,Enchanter
-Carben,Paladin
 Carbena,Druid
+Carben,Paladin
 Carbide,UNKNOWN
 Carbonaro,Magician
 Carbontax,Druid
@@ -2951,11 +3010,11 @@ Carenn,Magician
 Caribou,Ranger
 Carlizardo,Shaman
 Carmitta,Magician
-Carn,Shaman
 Carnehviir,Shadow Knight
 Carni,Druid
 Carnifice,Shadow Knight
 Carnn,Wizard
+Carn,Shaman
 Caroline,UNKNOWN
 Caroll,Enchanter
 Carpediem,Monk
@@ -2989,14 +3048,15 @@ Castur,Shaman
 Casualone,Cleric
 Casus,Paladin
 Casval,UNKNOWN
-Cata,Rogue
-Catala,Wizard
 Catalan,UNKNOWN
+Catala,Wizard
 Catan,Magician
+Cata,Rogue
 Cataskinie,Magician
 Catbarrf,Necromancer
 Catbread,Enchanter
 Catchdeez,Monk
+Catchet,Cleric
 Catdaddy,Shadow Knight
 Catee,Druid
 Cates,Shaman
@@ -3015,6 +3075,7 @@ Catx,UNKNOWN
 Caualplayer,Enchanter
 Cauchemar,Shadow Knight
 Cauld,Rogue
+Caulkdust,Bard
 Causcair,Ranger
 Causto,Monk
 Cauthorn,Monk
@@ -3038,6 +3099,7 @@ Cebrenn,Bard
 Cecel,Cleric
 Cecelia,Druid
 Cecill,Paladin
+Cecily,Rogue
 Ceddo,UNKNOWN
 Cederis,Wizard
 Cedrick,Druid
@@ -3071,8 +3133,8 @@ Cellars,Rogue
 Cellebrinn,UNKNOWN
 Celling,UNKNOWN
 Celqy,Magician
-Celtic,Cleric
 Celtica,Warrior
+Celtic,Cleric
 Celyen,Enchanter
 Cemtish,Shadow Knight
 Cenbo,Cleric
@@ -3121,6 +3183,7 @@ Chaddington,Shadow Knight
 Chadicus,Ranger
 Chadlor,Ranger
 Chadly,Magician
+Chadmei,Enchanter
 Chadsteven,Rogue
 Chadswift,Monk
 Chadwitch,Enchanter
@@ -3139,8 +3202,8 @@ Chaman,Shaman
 Chamera,Cleric
 Chamomile,Cleric
 Chance,Enchanter
-Chanda,Ranger
 Chandara,Necromancer
+Chanda,Ranger
 Chandraa,Magician
 Chandrah,Wizard
 Changeable,Enchanter
@@ -3185,8 +3248,8 @@ Charmingguy,Enchanter
 Charminton,Enchanter
 Charmizaard,Enchanter
 Charmlord,Enchanter
-Charmz,Enchanter
 Charmzalot,Enchanter
+Charmz,Enchanter
 Charquise,Rogue
 Charr,Enchanter
 Charrley,Magician
@@ -3204,9 +3267,12 @@ Chay,Cleric
 Chayotic,Rogue
 Chazrazz,Enchanter
 Chazzie,Bard
+Chbox,Cleric
 Cheach,Magician
 Chealy,Cleric
 Checkings,Warrior
+Cheech,Monk
+Cheechs,Rogue
 Cheekpoker,Rogue
 Cheeks,UNKNOWN
 Cheel,Cleric
@@ -3219,6 +3285,7 @@ Cheeze,Wizard
 Chekraise,Necromancer
 Chelsieri,Paladin
 Chelsiss,Cleric
+Chemdogg,Ranger
 Chemobog,Necromancer
 Cheng,Monk
 Cherimoya,Druid
@@ -3272,8 +3339,9 @@ Chobo,Monk
 Chobomon,Necromancer
 Chocula,Enchanter
 Chodaboi,Druid
-Choice,UNKNOWN
 Choices,Druid
+Choice,UNKNOWN
+Chokecherry,Druid
 Choken,Necromancer
 Chokhog,Cleric
 Chokinghazard,Shadow Knight
@@ -3287,8 +3355,8 @@ Chonchon,Shadow Knight
 Chonguus,Shaman
 Chonkatha,Cleric
 Choobeedoo,Magician
-Choom,Shaman
 Choomba,Monk
+Choom,Shaman
 Chooochooo,Bard
 Chootaki,Shaman
 Chophappy,Warrior
@@ -3297,8 +3365,8 @@ Chops,Magician
 Chortles,Shadow Knight
 Choucroute,Necromancer
 Choumeleet,Bard
-Choux,UNKNOWN
 Chouxe,UNKNOWN
+Choux,UNKNOWN
 Chowdah,Enchanter
 Chrisanthias,Enchanter
 Christendom,Enchanter
@@ -3316,8 +3384,8 @@ Chrysaor,Enchanter
 Chubby,Druid
 Chubbylumpkins,UNKNOWN
 Chubpad,Shaman
-Chucka,Monk
 Chuckalina,Enchanter
+Chucka,Monk
 Chuckie,Monk
 Chucklee,Monk
 Chucklette,Cleric
@@ -3330,6 +3398,7 @@ Chunderman,Necromancer
 Chundler,Magician
 Chuni,Ranger
 Chunn,Monk
+Chunnt,Rogue
 Chunree,Monk
 Churla,UNKNOWN
 Chutuk,Warrior
@@ -3362,7 +3431,9 @@ Cindylynn,Rogue
 Cinec,Bard
 Cinereus,UNKNOWN
 Cinnabon,Enchanter
+Cinnaminn,Ranger
 Cintik,Rogue
+Ciphy,Wizard
 Circlebox,Bard
 Cirdin,Magician
 Ciris,Bard
@@ -3381,9 +3452,9 @@ Claaire,Enchanter
 Claam,Shaman
 Claben,Necromancer
 Clabiks,Magician
-Clair,Enchanter
 Claireannette,Bard
 Clairena,UNKNOWN
+Clair,Enchanter
 Clairese,Enchanter
 Clairria,Druid
 Clanci,Ranger
@@ -3426,10 +3497,12 @@ Cliffs,Bard
 Climaticus,Warrior
 Clina,Ranger
 Clinch,Bard
+Clippy,Cleric
 Clipse,Monk
 Clixer,Magician
 Clizzi,Enchanter
 Cllon,Cleric
+Cloacaclappa,Bard
 Cloake,Bard
 Clockwork,UNKNOWN
 Clooloo,Shadow Knight
@@ -3472,8 +3545,8 @@ Cognikability,Enchanter
 Cohuro,Magician
 Coinchan,Bard
 Coincidence,Shadow Knight
-Coit,Shadow Knight
 Coitis,Rogue
+Coit,Shadow Knight
 Cojamos,Bard
 Coldcast,Necromancer
 Coldhotdog,Druid
@@ -3500,6 +3573,7 @@ Compose,Bard
 Compulsive,Enchanter
 Comradecat,Shaman
 Concequenses,Rogue
+Condagfg,Bard
 Condo,UNKNOWN
 Conelder,Druid
 Confirm,Bard
@@ -3547,6 +3621,7 @@ Coranith,Ranger
 Corbel,Cleric
 Corbina,Necromancer
 Corbindalllas,UNKNOWN
+Corbun,Druid
 Cordin,Warrior
 Cordori,Ranger
 Cordula,Wizard
@@ -3574,6 +3649,7 @@ Corpsehands,Necromancer
 Corpseo,Necromancer
 Corpsetickler,Necromancer
 Corpteus,Enchanter
+Correin,Ranger
 Corrosive,Shadow Knight
 Corruptia,Druid
 Corruption,Rogue
@@ -3597,9 +3673,9 @@ Cosobi,Paladin
 Cosroth,Bard
 Costanzaa,Druid
 Costic,Rogue
-Cotha,UNKNOWN
 Cothasaurus,Magician
 Cothatanii,Magician
+Cotha,UNKNOWN
 Cothbot,Magician
 Cothbox,Magician
 Cotherx,UNKNOWN
@@ -3626,8 +3702,8 @@ Coxem,Magician
 Coxie,Wizard
 Coyle,Necromancer
 Coyolxauhqui,Wizard
-Coza,Monk
 Cozakura,Druid
+Coza,Monk
 Cozmikflux,Enchanter
 Cptincrunch,Druid
 Cptjack,Rogue
@@ -3636,6 +3712,7 @@ Craftbrews,Enchanter
 Craftler,Enchanter
 Cragzana,Necromancer
 Craiger,UNKNOWN
+Craigyy,Warrior
 Crainiaqq,Enchanter
 Crakatoa,Druid
 Crakle,Cleric
@@ -3649,8 +3726,8 @@ Crashlanding,Warrior
 Crashovride,Shaman
 Crasus,Cleric
 Crayyon,Monk
-Craze,Warrior
 Crazee,Shaman
+Craze,Warrior
 Craziac,Monk
 Crazycarl,Shadow Knight
 Crazymonkey,Monk
@@ -3673,8 +3750,8 @@ Cressen,Ranger
 Creten,Druid
 Crexxus,Shaman
 Crichton,Paladin
-Crick,Shaman
 Crickets,Bard
+Crick,Shaman
 Crigly,Enchanter
 Crimcelt,Druid
 Crimey,Shaman
@@ -3708,20 +3785,23 @@ Crossant,Bard
 Crowbait,Druid
 Crowbar,Rogue
 Crron,UNKNOWN
-Cruel,Magician
-Cruell,Magician
 Cruella,Necromancer
+Cruell,Magician
+Cruel,Magician
 Cruetraxa,Necromancer
 Cruhl,Cleric
 Cruise,Bard
 Crule,Necromancer
 Crumbo,UNKNOWN
 Crunchiness,Shaman
+Crunkleton,UNKNOWN
 Crunum,Ranger
+Crup,Rogue
 Crusadar,Bard
-Crust,Rogue
 Crustacean,Cleric
+Crust,Rogue
 Crustus,Shadow Knight
+Cruxxy,Enchanter
 Cryonax,UNKNOWN
 Crypta,Necromancer
 Cryptek,Necromancer
@@ -3735,6 +3815,7 @@ Cryptra,Shadow Knight
 Crystila,Enchanter
 Crystle,Druid
 Csedar,Enchanter
+Csgfay,Cleric
 Ctan,Rogue
 Ctesiphon,UNKNOWN
 Cthulhus,Paladin
@@ -3788,6 +3869,7 @@ Cuyen,Cleric
 Cuzii,Enchanter
 Cuzzen,Druid
 Cyanna,Cleric
+Cybandaid,Cleric
 Cybann,Warrior
 Cyberel,Bard
 Cybernoob,Monk
@@ -3795,13 +3877,13 @@ Cyberpunk,Wizard
 Cybor,UNKNOWN
 Cycaldil,Warrior
 Cycle,Enchanter
-Cyclop,Shaman
 Cyclopse,Druid
+Cyclop,Shaman
 Cydain,Magician
 Cydipo,Bard
 Cyelkay,Bard
-Cyen,Magician
 Cyengray,Cleric
+Cyen,Magician
 Cyfandir,Druid
 Cygl,Necromancer
 Cyhra,Bard
@@ -3815,7 +3897,7 @@ Cylo,Necromancer
 Cymorill,Bard
 Cyna,Druid
 Cynane,Shaman
-Cynapse,UNKNOWN
+Cynapse,Magician
 Cyndane,Enchanter
 Cyniz,Magician
 Cynkirth,Cleric
@@ -3824,8 +3906,8 @@ Cyphers,Cleric
 Cypri,Paladin
 Cypros,UNKNOWN
 Cyrenaic,Magician
-Cyrian,Magician
 Cyriana,UNKNOWN
+Cyrian,Magician
 Cyroc,Warrior
 Cyrok,Wizard
 Cyrotonic,Necromancer
@@ -3833,6 +3915,7 @@ Cythan,UNKNOWN
 Cytheria,Ranger
 Cytonek,Enchanter
 Czarr,Warrior
+Daaale,Warrior
 Daaax,Cleric
 Daae,Paladin
 Daaisy,Necromancer
@@ -3846,6 +3929,7 @@ Dabble,Enchanter
 Dabe,Druid
 Daboom,Shadow Knight
 Dabouncy,Shaman
+Dabumper,Bard
 Dacke,Magician
 Dadcop,Druid
 Dadda,Shaman
@@ -3859,12 +3943,13 @@ Daebbwinu,Warrior
 Daecor,Enchanter
 Daedmi,Monk
 Daedrah,Necromancer
+Daegolor,Druid
 Daegon,Druid
 Daejin,UNKNOWN
 Daekil,Enchanter
 Daell,Warrior
-Daelor,Warrior
 Daelorr,Shadow Knight
+Daelor,Warrior
 Daeloth,UNKNOWN
 Daelyx,Enchanter
 Daemian,Necromancer
@@ -3906,13 +3991,14 @@ Dailor,UNKNOWN
 Daimian,Druid
 Daimos,Cleric
 Daisheeki,Druid
-Daisy,Druid
 Daisydoot,Cleric
+Daisy,Druid
 Daisys,Druid
 Daisytoes,Ranger
 Daizee,Wizard
 Dakadora,Rogue
 Dakanap,Cleric
+Dakdakdak,Monk
 Dakkn,Ranger
 Dakor,Shaman
 Daktar,Paladin
@@ -3941,8 +4027,8 @@ Dalrox,Druid
 Dalshia,Shadow Knight
 Dalsin,Monk
 Dalsnibba,Cleric
-Daltari,Shaman
 Daltarious,Monk
+Daltari,Shaman
 Daltheb,Monk
 Dalthgin,Monk
 Daltiki,Shaman
@@ -3964,6 +4050,7 @@ Dandelionn,Bard
 Dandelo,Necromancer
 Danden,Bard
 Dandilion,Bard
+Dandryth,Druid
 Dandybaa,Warrior
 Danean,Shaman
 Daneh,Paladin
@@ -4050,8 +4137,8 @@ Darkestelf,UNKNOWN
 Darkfeet,Ranger
 Darkgeisha,Shadow Knight
 Darki,Shadow Knight
-Darkk,Necromancer
 Darkkiss,Cleric
+Darkk,Necromancer
 Darkleif,Paladin
 Darklex,Necromancer
 Darklor,Necromancer
@@ -4075,6 +4162,7 @@ Darksonia,Shadow Knight
 Darksoulbane,Paladin
 Darkstar,Magician
 Darksunn,Necromancer
+Darktaco,Shadow Knight
 Darktalons,Wizard
 Darktool,Magician
 Darktooth,Necromancer
@@ -4098,12 +4186,12 @@ Darret,Rogue
 Darrt,Druid
 Darsint,Enchanter
 Darskus,Warrior
-Dart,Druid
 Dartagan,UNKNOWN
 Dartal,Magician
-Dartan,Paladin
 Dartaniun,Bard
+Dartan,Paladin
 Dartarion,Ranger
+Dart,Druid
 Darter,Druid
 Darteya,Enchanter
 Darthali,Necromancer
@@ -4131,12 +4219,12 @@ Dauktor,Cleric
 Davaeorn,Wizard
 Davax,Enchanter
 Davdok,Shaman
-Dave,Shadow Knight
 Davemathews,Enchanter
 Daverus,Paladin
+Dave,Shadow Knight
 Davick,Shadow Knight
-David,Paladin
 Davidbowie,Enchanter
+David,Paladin
 Davie,Bard
 Davinci,Wizard
 Davius,Ranger
@@ -4152,6 +4240,7 @@ Daxx,Ranger
 Daxxsir,Enchanter
 Daylah,Necromancer
 Dayliss,Druid
+Daylitekome,Necromancer
 Dayo,Bard
 Dayot,Magician
 Daysee,Druid
@@ -4174,8 +4263,8 @@ Dbaini,Enchanter
 Dbert,Druid
 Dcjets,Magician
 Ddraig,Ranger
-Deaath,Necromancer
 Deaathll,Necromancer
+Deaath,Necromancer
 Deaconwood,Druid
 Deacor,Cleric
 Deadagan,Necromancer
@@ -4199,6 +4288,7 @@ Deameduna,UNKNOWN
 Deamonn,Enchanter
 Deangelth,Rogue
 Deano,Wizard
+Deaps,UNKNOWN
 Deathbunie,Cleric
 Deathbunnie,Shadow Knight
 Deathbuny,Shadow Knight
@@ -4212,8 +4302,10 @@ Deathmadan,Necromancer
 Deathomatic,Necromancer
 Deathproof,Shaman
 Deathryt,Necromancer
+Deathseeker,UNKNOWN
 Deathstrike,Shadow Knight
 Deathtoll,Warrior
+Deathto,Shadow Knight
 Deathtouched,Ranger
 Deathwatch,Shadow Knight
 Deathx,Necromancer
@@ -4251,15 +4343,15 @@ Deekko,Druid
 Deenah,Druid
 Deenie,Magician
 Deepwater,Paladin
-Deerp,Shaman
 Deerpe,Shadow Knight
-Deez,Monk
+Deerp,Shaman
 Deezdots,Necromancer
+Deez,Monk
 Deeznotez,Bard
 Deezy,Druid
-Defi,Druid
 Defibrillator,Cleric
 Defibullator,Cleric
+Defi,Druid
 Defjams,Monk
 Deflect,Monk
 Defn,UNKNOWN
@@ -4267,8 +4359,8 @@ Deform,Enchanter
 Degra,Rogue
 Degrasse,Magician
 Dehrinmagmorus,Magician
-Deidara,Wizard
 Deidaraa,Wizard
+Deidara,Wizard
 Deidrah,Shadow Knight
 Deigh,Monk
 Deikan,Cleric
@@ -4288,8 +4380,8 @@ Delarid,Shaman
 Delarosa,Necromancer
 Delastia,UNKNOWN
 Delene,Magician
-Delf,Enchanter
 Delfchant,UNKNOWN
+Delf,Enchanter
 Delgrim,Cleric
 Delichious,UNKNOWN
 Delireous,Bard
@@ -4304,10 +4396,10 @@ Delphic,Cleric
 Delphii,Druid
 Delphine,Ranger
 Delport,Druid
-Delrake,Monk
 Delrakeb,Necromancer
-Delro,UNKNOWN
+Delrake,Monk
 Delroth,Cleric
+Delro,UNKNOWN
 Delsum,Necromancer
 Deltaa,Druid
 Deltah,Druid
@@ -4320,8 +4412,8 @@ Demdos,Bard
 Dementor,Enchanter
 Demetria,Enchanter
 Demetrium,Necromancer
-Demi,Druid
 Demidevi,Necromancer
+Demi,Druid
 Demimondaine,Cleric
 Deminter,UNKNOWN
 Demirk,Druid
@@ -4357,6 +4449,7 @@ Derpies,Magician
 Derpley,Magician
 Derpstomper,Cleric
 Derrec,Wizard
+Derroga,Ranger
 Derty,Warrior
 Dervilia,Paladin
 Derwen,Druid
@@ -4381,6 +4474,7 @@ Dessielle,Druid
 Destache,Warrior
 Destand,Cleric
 Destello,Enchanter
+Destructiv,Wizard
 Destruct,Monk
 Destructoid,Druid
 Destructor,Shadow Knight
@@ -4406,6 +4500,7 @@ Deville,Enchanter
 Devilles,UNKNOWN
 Devillia,Cleric
 Devillish,Ranger
+Devilswhisper,UNKNOWN
 Deviousstares,UNKNOWN
 Deviria,Paladin
 Devistik,Bard
@@ -4472,6 +4567,7 @@ Dianamite,Magician
 Dianommel,Druid
 Diantha,Shaman
 Diapers,Warrior
+Diarrhealer,Cleric
 Diavel,Paladin
 Dibbun,Druid
 Dibidi,Enchanter
@@ -4500,6 +4596,7 @@ Diggn,Druid
 Diggums,Cleric
 Diggy,Druid
 Digital,Enchanter
+Diglets,Rogue
 Digz,Necromancer
 Dijah,Bard
 Dijobe,Wizard
@@ -4583,7 +4680,7 @@ Divinathan,Magician
 Divo,Cleric
 Divot,Druid
 Divvix,Cleric
-Diyemtee,UNKNOWN
+Diyemtee,Shaman
 Dizy,UNKNOWN
 Dizzyy,Bard
 Djanga,Druid
@@ -4637,15 +4734,15 @@ Dojacage,Monk
 Dojafett,Necromancer
 Dojakat,Rogue
 Dojalove,Shaman
-Dojou,Ranger
 Dojounabe,Magician
-Dokaebi,Paladin
+Dojou,Ranger
 Dokaebie,Monk
 Dokaebii,Enchanter
+Dokaebi,Paladin
 Dokan,Cleric
 Dokane,Monk
-Dokin,Cleric
 Dokinchan,Necromancer
+Dokin,Cleric
 Dokken,Paladin
 Doktaur,Cleric
 Doktoord,Rogue
@@ -4676,17 +4773,17 @@ Doncallgon,Paladin
 Doncodore,Monk
 Dondarrion,Paladin
 Donern,Monk
-Donk,Warrior
 Donkay,Bard
 Donkeaux,Magician
+Donk,Warrior
 Donnmega,Druid
 Donnovan,Druid
 Dono,Druid
-Dons,UNKNOWN
 Donsuke,Cleric
-Dont,Cleric
+Dons,UNKNOWN
 Dontaevious,Shadow Knight
 Dontbreak,Enchanter
+Dont,Cleric
 Dontezo,Enchanter
 Dontickle,Paladin
 Dontkilme,Warrior
@@ -4702,13 +4799,14 @@ Doombean,Necromancer
 Doomcricket,Bard
 Doomhavoca,Magician
 Doompa,Cleric
+Doomplow,Shaman
 Doomsday,Wizard
 Doomstove,Wizard
 Doomstress,Necromancer
 Doomtree,Cleric
 Doongslinger,Druid
-Doot,Necromancer
 Dootdeet,UNKNOWN
+Doot,Necromancer
 Doots,Magician
 Dopelit,Magician
 Dophimi,Wizard
@@ -4748,6 +4846,7 @@ Dovubos,Cleric
 Downcast,Necromancer
 Downn,UNKNOWN
 Downs,Bard
+Downtoda,Necromancer
 Downtown,Magician
 Downwinddoug,Bard
 Doxion,Warrior
@@ -4756,11 +4855,11 @@ Dpez,Necromancer
 Dpscleric,Cleric
 Draacco,Monk
 Draagun,Magician
-Drac,Necromancer
 Dracconn,Rogue
 Drachuss,Monk
 Dracks,Paladin
 Drackyma,Bard
+Drac,Necromancer
 Dracoo,Druid
 Dracoskye,Paladin
 Dracosmuerta,Warrior
@@ -4776,8 +4875,8 @@ Dragonfly,Monk
 Dragore,Shadow Knight
 Dragos,Rogue
 Dragulina,Necromancer
-Dragun,Warrior
 Draguneye,Necromancer
+Dragun,Warrior
 Drakar,Paladin
 Drakkbien,Bard
 Drakmantis,Necromancer
@@ -4787,6 +4886,7 @@ Drakoriun,Ranger
 Drakorius,Shaman
 Drakose,Necromancer
 Drakthar,Shadow Knight
+Drakthyss,UNKNOWN
 Drakula,Warrior
 Drakulous,Necromancer
 Dralidin,Druid
@@ -4820,10 +4920,12 @@ Drazna,Rogue
 Drazok,Rogue
 Drazzin,Enchanter
 Drazzts,Ranger
+Drdromo,Bard
 Dreada,Shaman
 Dreadcaster,UNKNOWN
 Dreadfool,Shadow Knight
 Dreadix,Shaman
+Dreadnor,Shadow Knight
 Dreadpierat,Paladin
 Dready,Rogue
 Dreahn,Ranger
@@ -4844,6 +4946,7 @@ Dredx,Shaman
 Dreegis,Enchanter
 Dreetar,Druid
 Drega,Paladin
+Dregauss,UNKNOWN
 Dregaus,UNKNOWN
 Dregorn,Shaman
 Drehar,Druid
@@ -4851,16 +4954,19 @@ Dreiga,Shadow Knight
 Drekah,Monk
 Drellan,Rogue
 Dreloc,Wizard
+Drelos,Cleric
+Drelo,UNKNOWN
 Drelyn,Shadow Knight
 Drelyx,Paladin
 Drenel,Cleric
 Drengr,Warrior
-Dres,Monk
 Dresdann,Paladin
+Dres,Monk
 Drethlin,Ranger
 Dretrox,Shadow Knight
 Dreux,Druid
 Drewcifer,Ranger
+Drewe,Druid
 Drewid,Druid
 Drewish,Druid
 Drexill,UNKNOWN
@@ -4889,8 +4995,8 @@ Drizzit,Rogue
 Drkcage,Necromancer
 Drmago,Magician
 Drmanntis,Cleric
-Drninja,Magician
 Drninjaa,Ranger
+Drninja,Magician
 Drobble,Druid
 Droctulft,Bard
 Droden,Enchanter
@@ -4925,6 +5031,7 @@ Druber,Druid
 Drudeabides,Druid
 Drudell,Druid
 Drudid,Druid
+Druifling,Druid
 Druisda,Druid
 Drumakk,Warrior
 Drumden,Warrior
@@ -4971,6 +5078,7 @@ Duddits,Rogue
 Dudethatscrazy,Shadow Knight
 Duduk,Bard
 Dudus,Magician
+Dueby,Druid
 Duene,Ranger
 Dugbert,Enchanter
 Dugbort,Magician
@@ -4989,13 +5097,14 @@ Dulzephyr,Monk
 Dumanny,Druid
 Dumar,Enchanter
 Dumleklubba,Enchanter
-Dump,Shaman
 Dumpbox,UNKNOWN
 Dumpel,Bard
 Dumperd,Necromancer
 Dumpface,Enchanter
+Dumplinggs,Magician
 Dumplingzz,Wizard
 Dumppp,Shaman
+Dump,Shaman
 Dumpsious,Paladin
 Dumpsterqueen,Shaman
 Dumpstr,Magician
@@ -5012,8 +5121,8 @@ Dunder,Magician
 Dundie,Warrior
 Dundrey,Ranger
 Dundulin,Paladin
-Dungeons,Shadow Knight
 Dungeonski,Enchanter
+Dungeons,Shadow Knight
 Dunivan,Rogue
 Dunker,Shaman
 Dunmaul,Cleric
@@ -5053,8 +5162,8 @@ Duseldorf,Rogue
 Duskwolf,Shaman
 Dustfinger,Paladin
 Dustie,Necromancer
-Dustin,UNKNOWN
 Dustiness,Paladin
+Dustin,UNKNOWN
 Dustyb,Rogue
 Dustyclipper,Enchanter
 Dustyslipper,Enchanter
@@ -5088,12 +5197,13 @@ Dykkun,Druid
 Dylanchal,Necromancer
 Dynaheir,Enchanter
 Dynalin,Bard
-Dynamic,Wizard
 Dynamical,Necromancer
+Dynamic,Wizard
 Dynamoe,Magician
 Dynastybank,UNKNOWN
 Dypur,Shaman
 Dysterbia,Necromancer
+Dystopiah,Necromancer
 Dystopius,Shadow Knight
 Dytahnia,Bard
 Dythok,Shaman
@@ -5105,6 +5215,7 @@ Eagsboom,Wizard
 Eajas,Shaman
 Eakhol,Shaman
 Ealelwen,Wizard
+Eaman,Paladin
 Eand,Enchanter
 Eane,Enchanter
 Eanyan,Magician
@@ -5117,9 +5228,9 @@ Earthdog,Druid
 Earthwalker,Druid
 Easmilodon,Cleric
 Eastcommons,Monk
-Easy,UNKNOWN
 Easychord,Bard
 Easymode,Magician
+Easy,UNKNOWN
 Eates,Shadow Knight
 Eatmee,Shaman
 Ebanos,Ranger
@@ -5240,13 +5351,13 @@ Eldien,Paladin
 Eldolf,Druid
 Eleaf,Druid
 Eleazar,Ranger
-Electro,Wizard
 Electrodetro,Magician
+Electro,Wizard
 Elecyne,Rogue
 Eledan,Druid
 Eleganza,Enchanter
-Elementa,Magician
 Elementage,Magician
+Elementa,Magician
 Elementelx,Magician
 Elementtal,Magician
 Elemester,Magician
@@ -5282,8 +5393,8 @@ Elfton,Bard
 Elfwine,Warrior
 Eliadzen,Cleric
 Eliar,Warrior
-Elifain,UNKNOWN
 Elifaine,Ranger
+Elifain,UNKNOWN
 Elijaman,Shaman
 Elimester,Magician
 Eliona,Magician
@@ -5304,6 +5415,7 @@ Ellatri,Magician
 Ellayn,Enchanter
 Ellbee,Shaman
 Ellebeth,UNKNOWN
+Ellec,Paladin
 Ellehayym,UNKNOWN
 Ellehealingbru,Cleric
 Ellejhae,Enchanter
@@ -5358,9 +5470,9 @@ Elvnozz,Necromancer
 Elvys,Bard
 Elvysh,Bard
 Elwindar,Cleric
-Elwyn,Wizard
 Elwyndol,Ranger
 Elwynter,Ranger
+Elwyn,Wizard
 Elyoc,Druid
 Elyon,Enchanter
 Elyri,Magician
@@ -5399,16 +5511,16 @@ Emvipee,Necromancer
 Enab,Druid
 Enabled,Bard
 Enamoured,Enchanter
-Enantiomer,Warrior
 Enantiomeric,Paladin
+Enantiomer,Warrior
 Enantiomorph,Druid
 Enbie,Paladin
 Encha,Enchanter
 Enchanced,Enchanter
-Enchant,Enchanter
 Enchantara,Enchanter
 Enchantcicles,Enchanter
 Enchantedslug,Enchanter
+Enchant,Enchanter
 Enchantospells,Bard
 Enchethar,Enchanter
 Encoremort,UNKNOWN
@@ -5418,8 +5530,8 @@ Endicar,Shadow Knight
 Ending,UNKNOWN
 Endorsi,Monk
 Endosmoke,Enchanter
-Endr,Paladin
 Endrian,Druid
+Endr,Paladin
 Endu,Druid
 Endustko,Necromancer
 Endy,Magician
@@ -5473,14 +5585,14 @@ Ephemeral,UNKNOWN
 Ephemeree,UNKNOWN
 Ephiny,Druid
 Ephus,Cleric
-Epic,Ranger
 Epicnewbiequest,UNKNOWN
+Epic,Ranger
 Epictetis,Monk
 Epikurus,Warrior
 Epkot,Necromancer
 Eqauctions,Rogue
-Eqnomics,UNKNOWN
 Eqnomicss,Warrior
+Eqnomics,UNKNOWN
 Equesa,Necromancer
 Equilian,Magician
 Equinn,Ranger
@@ -5523,8 +5635,8 @@ Errivar,Ranger
 Errno,Rogue
 Errur,Wizard
 Errvin,Druid
-Erry,Wizard
 Erryll,Bard
+Erry,Wizard
 Erser,Cleric
 Eruathaliel,Druid
 Erubis,Wizard
@@ -5541,8 +5653,8 @@ Escalado,Monk
 Escariot,Paladin
 Escher,UNKNOWN
 Eshu,UNKNOWN
-Esme,Warrior
 Esmera,Enchanter
+Esme,Warrior
 Esolex,Druid
 Esperanza,Wizard
 Espinaca,Shaman
@@ -5553,9 +5665,9 @@ Estarios,Druid
 Estarra,Ranger
 Esthkay,Shadow Knight
 Estrang,Druid
-Estre,Monk
 Estrelita,Bard
 Estrella,Shadow Knight
+Estre,Monk
 Estrith,UNKNOWN
 Estyz,Shaman
 Estyzz,Rogue
@@ -5577,8 +5689,8 @@ Eudes,Cleric
 Eudiil,Cleric
 Euedaar,Cleric
 Eugeo,Paladin
-Eula,Necromancer
 Eulainie,Wizard
+Eula,Necromancer
 Eulitus,Bard
 Eumadil,Enchanter
 Eumelna,Wizard
@@ -5600,7 +5712,7 @@ Eveite,Wizard
 Evengelion,Enchanter
 Evenki,Shaman
 Everex,Enchanter
-Everglade,UNKNOWN
+Everglade,Druid
 Everience,Magician
 Everley,Shadow Knight
 Everybody,Bard
@@ -5615,10 +5727,11 @@ Evilking,Druid
 Evilmoon,Necromancer
 Evilwonn,Shaman
 Evincarr,Shadow Knight
-Evis,Monk
 Eviscerate,Magician
+Evis,Monk
 Eviso,UNKNOWN
 Evka,UNKNOWN
+Evle,Cleric
 Evohaert,Druid
 Evonn,Paladin
 Evoq,Wizard
@@ -5631,12 +5744,14 @@ Ewyn,Enchanter
 Exact,Rogue
 Exadu,Cleric
 Exaer,Enchanter
+Exandor,Necromancer
 Exasolar,Magician
 Excalibur,Paladin
 Excelsia,Cleric
 Exchanges,UNKNOWN
 Excretus,Necromancer
 Exeggcutor,Druid
+Exes,UNKNOWN
 Exidus,Enchanter
 Exie,Warrior
 Exiled,UNKNOWN
@@ -5646,8 +5761,8 @@ Exospino,Enchanter
 Exostia,Druid
 Exotics,Enchanter
 Exozar,Necromancer
-Expend,Wizard
 Expendible,UNKNOWN
+Expend,Wizard
 Experienced,Bard
 Exploring,Druid
 Explorist,Ranger
@@ -5736,21 +5851,22 @@ Fahnore,UNKNOWN
 Faiadin,Enchanter
 Faibuloz,Shadow Knight
 Faidyin,Magician
-Faii,Rogue
 Faiil,Enchanter
+Faii,Rogue
 Failalil,Wizard
 Failloie,UNKNOWN
 Failteth,Rogue
 Fainted,Necromancer
-Fait,Monk
 Faithand,Monk
 Faithshield,Paladin
+Fait,Monk
 Faittin,Cleric
 Fakecakes,Cleric
 Fakr,Ranger
 Fakyaa,Paladin
 Faladall,Cleric
 Falambus,Wizard
+Falcar,Ranger
 Falce,Necromancer
 Falcinor,Ranger
 Falconhoof,Druid
@@ -5763,12 +5879,12 @@ Falian,Ranger
 Faliar,UNKNOWN
 Falkenwrath,Ranger
 Falknow,Enchanter
-Fall,Necromancer
 Fallcor,Druid
 Falldie,Monk
 Fallemarg,Ranger
 Fallil,Magician
 Falllyn,Druid
+Fall,Necromancer
 Fallo,Druid
 Fally,Druid
 Falon,Druid
@@ -5822,6 +5938,7 @@ Fasen,Magician
 Fassboon,Enchanter
 Fastanne,Monk
 Fastesnome,Warrior
+Fastik,Necromancer
 Fata,Enchanter
 Fatal,Bard
 Fatamin,Cleric
@@ -5857,14 +5974,16 @@ Faycastle,UNKNOWN
 Faydark,Druid
 Fayevaria,Wizard
 Fayini,Magician
+Fayld,Paladin
 Faylene,Ranger
 Faylia,Druid
-Faylor,UNKNOWN
+Faylor,Druid
 Fayna,Enchanter
 Faynes,Monk
 Fayteth,Warrior
 Faytre,Druid
 Faytul,Shaman
+Fazemina,Cleric
 Fazlain,Magician
 Faznusar,Magician
 Fazun,UNKNOWN
@@ -5874,11 +5993,11 @@ Feaggas,Rogue
 Feakkil,Druid
 Feannin,Druid
 Feanturil,Monk
-Fear,UNKNOWN
 Fearghal,Paladin
 Fearless,Shadow Knight
 Fearne,Shaman
 Fearsong,Bard
+Fear,UNKNOWN
 Feat,Druid
 Featherbottom,UNKNOWN
 Featherwitch,Druid
@@ -5933,14 +6052,14 @@ Felyne,Paladin
 Feman,Druid
 Fembot,Cleric
 Fenaskin,Magician
-Fend,UNKNOWN
 Fendros,Ranger
+Fend,UNKNOWN
 Fendyal,Ranger
 Fengahob,Magician
 Fengz,Warrior
 Fenis,Necromancer
-Fenlan,Ranger
 Fenlane,Shaman
+Fenlan,Ranger
 Fenley,Druid
 Fennyar,Enchanter
 Fenrell,Magician
@@ -5950,6 +6069,7 @@ Fentin,Necromancer
 Fenuu,Enchanter
 Fenyir,Magician
 Fenyxx,Druid
+Fenzo,Rogue
 Feonix,Necromancer
 Feralina,Druid
 Feralis,Ranger
@@ -5958,6 +6078,7 @@ Ferghas,UNKNOWN
 Feris,Cleric
 Feriss,Enchanter
 Ferlin,Wizard
+Fernetbranca,Enchanter
 Feronix,Wizard
 Ferran,Wizard
 Ferret,Druid
@@ -5969,7 +6090,9 @@ Fervin,Necromancer
 Fesana,Bard
 Festyria,Necromancer
 Fetalspray,Shadow Knight
+Fetching,Ranger
 Fetts,Bard
+Fetuccino,Bard
 Feugo,Druid
 Fevarial,Bard
 Fexler,Necromancer
@@ -5990,13 +6113,13 @@ Fideaux,Druid
 Fidello,Druid
 Fielder,Druid
 Fienx,Wizard
-Fiery,Wizard
 Fierypriest,Cleric
 Fierysummoner,UNKNOWN
+Fiery,Wizard
 Fifealos,Shaman
 Fifflaren,Warrior
-Fifty,Druid
 Fiftycent,UNKNOWN
+Fifty,Druid
 Figgan,Druid
 Figgypuddin,Druid
 Fighty,Warrior
@@ -6005,8 +6128,9 @@ Figtree,Druid
 Fiint,Magician
 Fikkle,Magician
 Fila,Magician
+Filavandrel,Druid
 Fildrak,UNKNOWN
-File,UNKNOWN
+File,Cleric
 Filex,Ranger
 Filren,Cleric
 Filtered,Enchanter
@@ -6045,19 +6169,21 @@ Finuala,Cleric
 Finwe,Wizard
 Fipkin,Necromancer
 Fipple,Magician
-Fire,Monk
 Firebatt,Wizard
 Firebells,Magician
 Firecrouch,Magician
 Firemaster,Magician
+Fire,Monk
 Firesage,Magician
 Firestarr,Monk
 Firewolf,Druid
-Firi,UNKNOWN
 Firion,Paladin
+Firi,UNKNOWN
 Firstaide,Cleric
+Firstbroood,Bard
 Fisditil,Magician
 Fisstingbewty,Monk
+Fistachios,Monk
 Fistalbus,Magician
 Fistandatilus,Magician
 Fisteen,Monk
@@ -6068,6 +6194,7 @@ Fistii,Monk
 Fistsofthunder,Monk
 Fistwar,Necromancer
 Fistz,Monk
+Fith,Monk
 Fittos,Druid
 Fiuggi,Cleric
 Fiuta,Magician
@@ -6116,8 +6243,8 @@ Flab,Shaman
 Flacciid,Ranger
 Flad,Monk
 Flafloa,Bard
-Flaine,Rogue
 Flainebank,Warrior
+Flaine,Rogue
 Flaken,Wizard
 Flameburst,Ranger
 Flamedancer,Magician
@@ -6126,16 +6253,16 @@ Flametrix,Wizard
 Flamette,Magician
 Flamingfist,Monk
 Flannagan,UNKNOWN
-Flash,UNKNOWN
 Flasharray,Wizard
 Flashbulb,Druid
 Flasheart,Shaman
 Flashinglights,Enchanter
+Flash,UNKNOWN
 Flauwer,UNKNOWN
 Flayer,Shadow Knight
 Fleamarkets,Warrior
-Flee,UNKNOWN
 Fleelord,Magician
+Flee,UNKNOWN
 Fleez,Shadow Knight
 Flelk,Necromancer
 Flenz,Rogue
@@ -6172,6 +6299,7 @@ Floppen,Monk
 Floppybeard,Paladin
 Floppycat,Wizard
 Flopsy,Monk
+Flopy,Shaman
 Florauna,UNKNOWN
 Florbibian,Magician
 Florea,Druid
@@ -6210,6 +6338,7 @@ Foff,Warrior
 Fogsley,Shaman
 Foibles,Ranger
 Folds,Warrior
+Foliag,Druid
 Folin,Paladin
 Folka,UNKNOWN
 Folkert,Magician
@@ -6224,6 +6353,7 @@ Fongraetryd,Paladin
 Fonsinas,Cleric
 Fonsta,Rogue
 Fontanier,Ranger
+Fonzareli,Rogue
 Fooba,Bard
 Foodie,Cleric
 Foodman,Warrior
@@ -6281,9 +6411,9 @@ Fpmule,Wizard
 Fractalius,Magician
 Frado,Druid
 Fradolcino,Cleric
-Frag,Rogue
 Fraggz,Shaman
 Fragile,UNKNOWN
+Frag,Rogue
 Fraiche,Magician
 Fraklepox,Enchanter
 Framboise,Monk
@@ -6298,10 +6428,10 @@ Frap,Druid
 Fratz,Shadow Knight
 Frau,Shadow Knight
 Fraxas,Warrior
-Fray,Shadow Knight
 Fraye,Rogue
 Fraylan,Cleric
 Fraynkbank,Bard
+Fray,Shadow Knight
 Frecklez,Warrior
 Frecky,UNKNOWN
 Fredde,Bard
@@ -6326,16 +6456,16 @@ Fresher,Bard
 Freshwater,Paladin
 Freyai,Shaman
 Freyalize,Magician
-Fria,Shaman
 Friable,UNKNOWN
 Friartuck,Monk
+Fria,Shaman
 Fridor,Cleric
 Friedburger,Rogue
 Friedrich,Necromancer
 Friena,Cleric
 Friendx,Bard
-Frig,Shaman
 Frigs,Cleric
+Frig,Shaman
 Friknfrak,UNKNOWN
 Frilbo,Druid
 Frimpolas,Druid
@@ -6347,11 +6477,11 @@ Frizzie,Druid
 Frizzles,Wizard
 Frizznik,Magician
 Frobert,Enchanter
-Frod,Rogue
 Froddle,Druid
 Frodobaggins,Druid
 Frodomo,UNKNOWN
 Frodots,Necromancer
+Frod,Rogue
 Frogmorton,Shaman
 Froide,Necromancer
 Froja,Magician
@@ -6375,6 +6505,7 @@ Frosinz,Bard
 Frostback,Cleric
 Frostbane,Shaman
 Frostblast,Wizard
+Frostclaw,UNKNOWN
 Frosteyes,Paladin
 Frostfoot,Shaman
 Frostlip,Shaman
@@ -6401,6 +6532,7 @@ Fuct,Bard
 Fudgee,Cleric
 Fudgei,Rogue
 Fudu,Necromancer
+Fuedac,Druid
 Fuedenchat,Enchanter
 Fuerzo,Bard
 Fueyan,Enchanter
@@ -6504,12 +6636,13 @@ Gaela,Magician
 Gaelwen,Druid
 Gaely,Rogue
 Gaerulg,Shaman
+Gaewen,Druid
 Gafitz,Necromancer
 Gafthur,Cleric
 Gahb,Shadow Knight
 Gahnima,Magician
-Gaia,Shaman
 Gaian,Druid
+Gaia,Shaman
 Gaidahl,Ranger
 Gaignun,Bard
 Gailan,Enchanter
@@ -6531,6 +6664,7 @@ Galaxyfistx,Monk
 Galba,Necromancer
 Galbot,Magician
 Galin,Warrior
+Galladar,Rogue
 Gallena,Cleric
 Gallow,Magician
 Galludar,UNKNOWN
@@ -6553,6 +6687,7 @@ Ganadorf,Wizard
 Ganbkuka,UNKNOWN
 Gandahlf,Wizard
 Gandalo,Druid
+Gandhelf,Wizard
 Gandourf,Cleric
 Ganen,Bard
 Gangina,Monk
@@ -6563,6 +6698,7 @@ Ganjica,Magician
 Gankis,Rogue
 Ganlingyang,Shaman
 Ganlorn,Monk
+Ganndolf,Druid
 Gann,Rogue
 Gannun,Enchanter
 Gano,Monk
@@ -6574,8 +6710,8 @@ Garangar,Monk
 Garaniel,Warrior
 Garax,UNKNOWN
 Garbtastic,Enchanter
-Garden,Magician
 Gardenhoser,Enchanter
+Garden,Magician
 Gardner,Druid
 Garegga,Enchanter
 Gares,Bard
@@ -6587,11 +6723,13 @@ Garglez,Warrior
 Gargola,Druid
 Gargual,Warrior
 Garlan,Shaman
+Garlick,Shadow Knight
 Garlock,Shadow Knight
 Garmo,Wizard
 Garnac,Warrior
 Garney,Warrior
 Garphilius,Necromancer
+Garpy,Ranger
 Garrey,Druid
 Garrick,Bard
 Garriot,Warrior
@@ -6648,6 +6786,7 @@ Geediz,UNKNOWN
 Geekdomo,Necromancer
 Geezer,Wizard
 Geezor,Shadow Knight
+Gefahr,Cleric
 Geffin,Paladin
 Gefragschlimmer,Shaman
 Gegivet,Enchanter
@@ -6657,6 +6796,7 @@ Geittan,Druid
 Gekuzo,UNKNOWN
 Gelato,Monk
 Geldan,Cleric
+Gelender,Shadow Knight
 Gelistar,Enchanter
 Gelix,Paladin
 Gellert,Enchanter
@@ -6707,8 +6847,8 @@ Gherkin,Druid
 Ghetilee,Bard
 Ghettoblaster,Bard
 Ghettoking,UNKNOWN
-Ghib,Paladin
 Ghibilet,Necromancer
+Ghib,Paladin
 Ghom,Shadow Knight
 Ghonada,Cleric
 Ghott,Shaman
@@ -6727,6 +6867,7 @@ Giby,Enchanter
 Gidai,Monk
 Gidder,Cleric
 Gideonn,Magician
+Gidgettt,Wizard
 Gidson,Rogue
 Giegir,Magician
 Giestt,Monk
@@ -6743,12 +6884,13 @@ Giken,UNKNOWN
 Giladarius,Magician
 Gilangel,Magician
 Gildanni,Shaman
-Gile,Druid
 Gilea,Bard
 Gilean,Druid
+Gile,Druid
 Gileon,Ranger
 Gilfus,Rogue
 Gillagad,Enchanter
+Gillii,Druid
 Gillion,UNKNOWN
 Gillroy,Enchanter
 Gilmoor,Bard
@@ -6770,16 +6912,18 @@ Gindaria,Druid
 Gindas,Monk
 Gindi,Shaman
 Ginea,Magician
+Ginedorma,Shaman
 Gingefish,Enchanter
 Gingeminge,Enchanter
-Ginger,Magician
 Gingerbox,Cleric
+Ginger,Magician
 Gingermee,Druid
 Gingersnapps,UNKNOWN
 Gingie,Ranger
 Gingko,Druid
 Ginimur,Paladin
 Ginix,UNKNOWN
+Ginksz,Monk
 Ginlo,Ranger
 Ginnas,Necromancer
 Ginolin,Ranger
@@ -6801,8 +6945,8 @@ Gixit,Enchanter
 Gizbang,Shaman
 Gizelda,Wizard
 Gizmund,Necromancer
-Gjari,Ranger
 Gjarimnk,Monk
+Gjari,Ranger
 Gjorge,Necromancer
 Glacious,Necromancer
 Glack,Shadow Knight
@@ -6816,8 +6960,9 @@ Glasfib,Shaman
 Glaum,UNKNOWN
 Gleemann,Bard
 Glemrel,Enchanter
-Glen,Magician
 Glenda,Magician
+Glendower,Wizard
+Glen,Magician
 Glhf,Magician
 Glick,Magician
 Glidian,Monk
@@ -6828,10 +6973,11 @@ Glimschmingle,Druid
 Glinsigil,Rogue
 Glister,Enchanter
 Glitterman,Ranger
+Glitterr,Shaman
 Glittery,Paladin
 Globulous,Necromancer
-Glog,Shaman
 Glogla,Monk
+Glog,Shaman
 Glomnir,Warrior
 Gloom,Rogue
 Gloopier,Shaman
@@ -6855,8 +7001,8 @@ Gluktar,Enchanter
 Glumf,Shaman
 Glungloh,Cleric
 Glupschauge,Shaman
-Glute,Ranger
 Glutealfold,Bard
+Glute,Ranger
 Glymer,Enchanter
 Glynda,Wizard
 Glyndori,Wizard
@@ -6876,8 +7022,8 @@ Gnathann,Necromancer
 Gnats,Necromancer
 Gnaw,Warrior
 Gnchanting,Enchanter
-Gnec,Necromancer
 Gneckrognomicon,Necromancer
+Gnec,Necromancer
 Gnekrotek,Necromancer
 Gnerlin,Necromancer
 Gnii,Shaman
@@ -6899,8 +7045,8 @@ Gnoir,Magician
 Gnoise,UNKNOWN
 Gnojustice,Magician
 Gnolmes,Rogue
-Gnomag,Magician
 Gnomagi,Magician
+Gnomag,Magician
 Gnomance,UNKNOWN
 Gnomarg,Magician
 Gnomaste,Enchanter
@@ -6937,7 +7083,7 @@ Gnowar,Warrior
 Gnowhey,Magician
 Gnukem,Magician
 Gnuts,Warrior
-Gnyrro,UNKNOWN
+Gnyrro,Enchanter
 Goal,UNKNOWN
 Goatkid,Cleric
 Goatmother,Bard
@@ -6954,10 +7100,10 @@ Godel,UNKNOWN
 Goden,Monk
 Godfather,Magician
 Godie,Magician
-Gods,UNKNOWN
 Godsend,Wizard
 Godshall,Enchanter
 Godspeed,Paladin
+Gods,UNKNOWN
 Godwina,UNKNOWN
 Godwoken,UNKNOWN
 Goedel,Ranger
@@ -6992,9 +7138,10 @@ Goldust,Wizard
 Goleta,Cleric
 Golg,Cleric
 Goliath,Enchanter
-Goll,Shaman
+Goliathette,Warrior
 Gollal,Ranger
 Gollog,Druid
+Goll,Shaman
 Golmoff,Paladin
 Gomal,Magician
 Gomijin,Magician
@@ -7028,11 +7175,11 @@ Gooz,UNKNOWN
 Goranozy,UNKNOWN
 Gorantir,Cleric
 Gorash,Monk
-Gorba,Warrior
 Gorbachev,UNKNOWN
 Gorbad,Warrior
-Gord,Cleric
+Gorba,Warrior
 Gordain,Shaman
+Gord,Cleric
 Gordgeous,Shadow Knight
 Gordoh,Shaman
 Gordonn,Bard
@@ -7059,8 +7206,9 @@ Gorthalm,Rogue
 Goruck,Shaman
 Gorul,Shaman
 Gorwimp,UNKNOWN
-Gotenk,Warrior
+Gotdang,Rogue
 Gotenks,UNKNOWN
+Gotenk,Warrior
 Gothaam,Cleric
 Gothel,Druid
 Gotmeh,Necromancer
@@ -7074,8 +7222,8 @@ Govn,Bard
 Gowaen,Ranger
 Gowron,Warrior
 Gozai,Monk
-Graafh,Monk
 Graafhiks,UNKNOWN
+Graafh,Monk
 Grabaskull,Wizard
 Grabinya,Rogue
 Grabnak,Shadow Knight
@@ -7090,23 +7238,26 @@ Gragnon,Bard
 Graguuk,Shaman
 Grahamtams,Druid
 Graigh,Druid
-Grakk,Shadow Knight
 Grakken,Shaman
+Grakk,Shadow Knight
 Grallos,Shadow Knight
+Grana,Enchanter
 Grandheft,Shadow Knight
 Grandmarshal,Warrior
+Granix,Shaman
 Granna,Magician
 Granolabar,UNKNOWN
 Granthum,Cleric
 Grantos,Monk
 Graphic,Bard
 Grasdur,Shadow Knight
-Grate,UNKNOWN
 Gratechantz,Enchanter
 Gratefuldead,Cleric
+Grate,UNKNOWN
 Gratton,Shadow Knight
 Gravecare,Necromancer
 Graventhel,UNKNOWN
+Gravious,Ranger
 Gravitron,UNKNOWN
 Gravitywave,Bard
 Gravos,Shadow Knight
@@ -7156,9 +7307,9 @@ Gremora,Wizard
 Gremory,Necromancer
 Gremshun,Cleric
 Gremth,Shadow Knight
-Grendol,Warrior
 Grendolmule,UNKNOWN
 Grendolmulez,UNKNOWN
+Grendol,Warrior
 Greneyd,Shadow Knight
 Grengeblin,Warrior
 Grenna,Rogue
@@ -7181,31 +7332,32 @@ Gribba,Rogue
 Griddik,Shadow Knight
 Gridiron,Magician
 Gridor,UNKNOWN
-Grif,Ranger
 Grifa,Bard
+Grif,Ranger
 Grifton,Druid
 Grigs,Enchanter
-Grik,Warrior
 Grikc,Shaman
+Grik,Warrior
 Grimbo,Druid
 Grimbottom,Shadow Knight
 Grimbrindal,Paladin
 Grimclarity,UNKNOWN
 Grimdeath,Necromancer
 Grimdra,Shadow Knight
-Grimex,UNKNOWN
-Grimexe,Necromancer
 Grimexec,UNKNOWN
-Grimga,Rogue
+Grimexe,Necromancer
+Grimex,UNKNOWN
 Grimgak,Shadow Knight
+Grimga,Rogue
 Grimgor,Warrior
 Grimjane,Ranger
 Grimkan,Necromancer
-Grimm,Necromancer
 Grimmnarr,Shaman
+Grimm,Necromancer
 Grimmyr,Necromancer
 Grimnur,Cleric
 Grimo,Rogue
+Grimpo,Wizard
 Grimscythe,UNKNOWN
 Grimsel,Druid
 Grimshad,Necromancer
@@ -7213,9 +7365,9 @@ Grimstrike,Paladin
 Grimtik,Shaman
 Grimtoof,Shaman
 Grimuk,Shadow Knight
-Grin,Shaman
 Grindham,Paladin
 Grindill,Magician
+Grin,Shaman
 Griogair,Shaman
 Grippy,UNKNOWN
 Grisel,Shadow Knight
@@ -7269,8 +7421,8 @@ Grubane,Druid
 Grubber,Bard
 Grubnik,UNKNOWN
 Grudo,Warrior
-Gruf,Warrior
 Gruffallo,Warrior
+Gruf,Warrior
 Grugga,Shaman
 Gruktorm,Shaman
 Grumabuck,Shaman
@@ -7296,11 +7448,13 @@ Gskiel,Ranger
 Gtaldor,UNKNOWN
 Guak,Shaman
 Guanciale,Druid
+Guanoharvester,Necromancer
 Guappo,Druid
 Gubac,Shadow Knight
 Gubbe,Shaman
 Gubbun,Druid
 Gubnub,Shaman
+Gudiva,Bard
 Gudknite,Shadow Knight
 Gudor,Rogue
 Gueep,Ranger
@@ -7321,12 +7475,13 @@ Guiness,Magician
 Guineve,Bard
 Guit,Bard
 Gukamak,Shadow Knight
+Gukdaek,Paladin
 Gukguk,Shaman
 Gukktan,Shaman
 Gukorok,Monk
-Gula,Warrior
 Gulak,Shaman
 Gulanu,Shaman
+Gula,Warrior
 Gulbuk,Shaman
 Guldark,Magician
 Guldeir,Shaman
@@ -7348,9 +7503,9 @@ Gunny,Magician
 Gunome,Magician
 Gunpey,UNKNOWN
 Gunpla,Druid
-Gunt,Shadow Knight
 Guntadin,Paladin
 Guntmag,Magician
+Gunt,Shadow Knight
 Gunur,Cleric
 Gunvoldiva,Enchanter
 Gurard,Paladin
@@ -7405,8 +7560,8 @@ Gymrat,Enchanter
 Gynkoo,Cleric
 Gypsophila,Shadow Knight
 Gyrgol,Shaman
-Gyst,Magician
 Gystic,Enchanter
+Gyst,Magician
 Gystra,Druid
 Gystro,Bard
 Gzak,Shaman
@@ -7428,8 +7583,8 @@ Hadiar,Enchanter
 Hadimar,Cleric
 Hadrian,Druid
 Hadriankross,UNKNOWN
-Hadwin,Warrior
 Hadwini,Ranger
+Hadwin,Warrior
 Haeger,Druid
 Haelar,Cleric
 Haenne,Druid
@@ -7481,9 +7636,11 @@ Halftheb,Warrior
 Halfy,UNKNOWN
 Haliax,Warrior
 Halisstra,Necromancer
+Hallain,Rogue
 Hallic,Warrior
 Halling,Bard
 Hallowed,Cleric
+Hallso,Druid
 Hallstar,Monk
 Halnir,Rogue
 Halsion,Bard
@@ -7502,6 +7659,7 @@ Hammurr,Shadow Knight
 Hamnet,Cleric
 Hamon,Paladin
 Hamsam,Druid
+Hamshamish,Shaman
 Hamun,Bard
 Hamza,Rogue
 Hanakocha,Druid
@@ -7521,6 +7679,7 @@ Handsomm,Warrior
 Handy,UNKNOWN
 Hane,Monk
 Hangry,Rogue
+Hanh,Monk
 Hani,Druid
 Hanillbull,Necromancer
 Hanji,Enchanter
@@ -7532,8 +7691,8 @@ Hansum,UNKNOWN
 Hanzzwarlo,Warrior
 Hanzzyolo,Enchanter
 Hapi,UNKNOWN
-Happa,Paladin
 Happalo,Druid
+Happa,Paladin
 Happiness,Necromancer
 Happypet,Magician
 Haqiqat,Cleric
@@ -7566,14 +7725,15 @@ Harms,Magician
 Harpege,Bard
 Harpr,Necromancer
 Harps,Wizard
-Harri,Druid
 Harrick,Shaman
+Harri,Druid
 Harrynut,Druid
 Harryportter,Wizard
 Harsut,Paladin
 Hartattack,Shadow Knight
 Harthting,Druid
 Harudio,Bard
+Harvie,Bard
 Harvist,Druid
 Hasbean,Ranger
 Hasel,Cleric
@@ -7583,9 +7743,10 @@ Hashi,Druid
 Hashire,Paladin
 Hashiro,Monk
 Hashman,Druid
+Hasim,Cleric
 Hatahz,Warrior
 Hatasan,Bard
-Hatebox,UNKNOWN
+Hatebox,Necromancer
 Hatebreedian,Warrior
 Hatebringer,Shadow Knight
 Haterade,Shaman
@@ -7606,9 +7767,9 @@ Haveil,Necromancer
 Haviland,Magician
 Havona,Bard
 Hawa,Necromancer
-Hawk,Ranger
 Hawkins,Bard
 Hawkon,Ranger
+Hawk,Ranger
 Hawkraven,Ranger
 Hawksmoor,Druid
 Hawn,UNKNOWN
@@ -7630,8 +7791,8 @@ Hazsah,Bard
 Hazten,Wizard
 Hazzardus,Paladin
 Headbandx,Enchanter
-Heal,Cleric
 Healar,Cleric
+Heal,Cleric
 Healdo,Cleric
 Healerfox,Cleric
 Healerific,Cleric
@@ -7664,10 +7825,11 @@ Heavymeat,Shaman
 Heavynorm,Warrior
 Hebben,Druid
 Hebboric,Shadow Knight
+Hebimmeron,Necromancer
 Hecctor,Paladin
 Heckubus,Necromancer
-Hect,Bard
 Hectavia,Magician
+Hect,Bard
 Hedgwig,Druid
 Hedsnak,Shaman
 Heeheehee,Magician
@@ -7692,7 +7854,7 @@ Heimerdinger,UNKNOWN
 Heinan,Druid
 Heinousss,UNKNOWN
 Heivi,Bard
-Hekatae,UNKNOWN
+Hekatae,Cleric
 Hekki,UNKNOWN
 Heknow,UNKNOWN
 Hektor,Ranger
@@ -7715,6 +7877,7 @@ Heltorra,Shadow Knight
 Heltr,Monk
 Helwyne,Ranger
 Helza,Cleric
+Hemess,UNKNOWN
 Hemjadar,Warrior
 Hemmy,Cleric
 Hemoccult,Necromancer
@@ -7732,15 +7895,16 @@ Hepmere,Necromancer
 Hepy,Warrior
 Herbalremedy,Druid
 Herbalt,Shaman
+Herbcrusher,Shaman
 Herbila,Druid
 Herbinn,Necromancer
 Herbpipes,Druid
 Herbstalk,Druid
-Herg,Paladin
 Hergar,Shadow Knight
 Herger,Shaman
-Hergers,Rogue
 Hergerson,UNKNOWN
+Hergers,Rogue
+Herg,Paladin
 Herka,Shaman
 Hermana,Necromancer
 Hermez,UNKNOWN
@@ -7754,8 +7918,8 @@ Heshh,Druid
 Hestide,Rogue
 Hestkuk,Paladin
 Hesufo,Druid
-Hesy,Cleric
 Hesychast,Bard
+Hesy,Cleric
 Hetjan,Magician
 Heugh,Cleric
 Hevrah,Druid
@@ -7798,6 +7962,7 @@ Hikken,Druid
 Hikoichi,Rogue
 Hilander,UNKNOWN
 Himari,Magician
+Himbo,Warrior
 Himeros,Enchanter
 Himiko,Druid
 Hinata,Monk
@@ -7832,8 +7997,8 @@ Hoagie,Warrior
 Hobbee,Druid
 Hobbithands,Rogue
 Hobella,Bard
-Hobi,UNKNOWN
 Hobith,Cleric
+Hobi,UNKNOWN
 Hobostobe,Bard
 Hodari,UNKNOWN
 Hoddler,Shaman
@@ -7843,8 +8008,8 @@ Hodjo,Bard
 Hodrick,Paladin
 Hofbrau,Cleric
 Hoff,Bard
-Hogge,Warrior
 Hoggel,Rogue
+Hogge,Warrior
 Hoggles,Necromancer
 Hogll,Warrior
 Hogs,Warrior
@@ -7856,8 +8021,8 @@ Hoktun,Bard
 Hoku,Ranger
 Holdinn,Cleric
 Holdinthings,Bard
-Holdmy,Magician
 Holdmyloot,Warrior
+Holdmy,Magician
 Holdmypint,Cleric
 Holdolar,Warrior
 Holdup,Warrior
@@ -7870,8 +8035,8 @@ Hollix,Druid
 Holo,Cleric
 Holybro,Paladin
 Holychud,Paladin
-Holycrus,Paladin
 Holycrusader,Paladin
+Holycrus,Paladin
 Holydin,Paladin
 Holyfeet,Cleric
 Holyfire,Bard
@@ -7917,8 +8082,8 @@ Hopelyte,Paladin
 Hopethishelps,Necromancer
 Hopkins,Druid
 Hopper,Druid
-Hoppi,Rogue
 Hoppinstuff,Druid
+Hoppi,Rogue
 Hoppop,Druid
 Hopscoch,Druid
 Horad,Wizard
@@ -7952,6 +8117,7 @@ Hotwok,Druid
 Houlcin,Bard
 Hour,Paladin
 Housekeeper,Magician
+Howland,Rogue
 Howlapenyo,Wizard
 Howlend,Druid
 Howyalike,Wizard
@@ -7991,6 +8157,7 @@ Hunger,Necromancer
 Hungzo,Enchanter
 Hunq,Rogue
 Huns,Monk
+Huntor,Warrior
 Huntress,Ranger
 Huntyr,UNKNOWN
 Huojin,UNKNOWN
@@ -8000,6 +8167,7 @@ Hurgla,Warrior
 Hurinboar,Shaman
 Huro,Paladin
 Hurora,Cleric
+Hurricaane,Monk
 Hurtlots,UNKNOWN
 Hushley,Druid
 Huteldar,Shaman
@@ -8009,8 +8177,8 @@ Huwin,Druid
 Huxley,Ranger
 Hvac,Druid
 Hviii,Necromancer
-Hvit,Shaman
 Hvitserk,Monk
+Hvit,Shaman
 Hwiskers,Druid
 Hyanyan,Druid
 Hyat,Warrior
@@ -8052,6 +8220,7 @@ Iada,Enchanter
 Iaeolan,Bard
 Iahmah,Necromancer
 Iaika,Rogue
+Iallail,Ranger
 Iamamonklol,UNKNOWN
 Iamanelf,Bard
 Iamdyin,Enchanter
@@ -8074,9 +8243,9 @@ Ibuffallot,Shaman
 Ibuka,Magician
 Ibuypower,UNKNOWN
 Icanport,Druid
-Icar,Rogue
 Icaros,Druid
-Icce,UNKNOWN
+Icar,Rogue
+Icce,Druid
 Icculus,Cleric
 Iceblaze,Wizard
 Icecold,Rogue
@@ -8116,8 +8285,8 @@ Ifelze,Magician
 Ifimust,Magician
 Ifyouseek,Ranger
 Igee,Bard
-Iggle,Wizard
 Iggles,Enchanter
+Iggle,Wizard
 Iggyz,Monk
 Ignant,Necromancer
 Ignavus,Cleric
@@ -8136,8 +8305,8 @@ Ihear,Shaman
 Ihtchy,Shadow Knight
 Iianyi,Magician
 Iiar,Rogue
-Iight,UNKNOWN
 Iightning,Wizard
+Iight,UNKNOWN
 Iiladriel,Druid
 Iilamin,Druid
 Iildayen,Cleric
@@ -8176,9 +8345,10 @@ Illist,Shadow Knight
 Illithar,Shaman
 Illixiad,Bard
 Illizein,Enchanter
-Illumin,Enchanter
 Illuminating,Cleric
+Illuminatist,Wizard
 Illuminatis,Wizard
+Illumin,Enchanter
 Illuminostro,Paladin
 Illusionista,Enchanter
 Illusionofex,Enchanter
@@ -8210,11 +8380,11 @@ Immagine,Bard
 Immortaal,UNKNOWN
 Immortel,Necromancer
 Immotep,Shaman
-Imnot,Magician
 Imnotdeadyet,Monk
+Imnot,Magician
 Imooml,UNKNOWN
-Imort,Necromancer
 Imorthorn,Enchanter
+Imort,Necromancer
 Imortyal,Necromancer
 Imothorn,Enchanter
 Impeaches,Shaman
@@ -8233,14 +8403,14 @@ Inadequate,Necromancer
 Inandao,Ranger
 Inapportriate,Druid
 Incant,Enchanter
-Incap,Shaman
 Incapacitate,Enchanter
+Incap,Shaman
 Incarna,Enchanter
 Incarneight,Necromancer
-Incen,Magician
 Incendiarism,Magician
-Inco,Rogue
+Incen,Magician
 Incontrol,Enchanter
+Inco,Rogue
 Incorp,Enchanter
 Increase,Enchanter
 Incredibull,Warrior
@@ -8268,6 +8438,7 @@ Infinitii,Rogue
 Infinitiy,Rogue
 Infirmier,Cleric
 Infirmiere,Cleric
+Inflection,Rogue
 Ingenious,Enchanter
 Inghram,Rogue
 Ingjaldr,Bard
@@ -8276,11 +8447,11 @@ Ininka,Druid
 Innagadda,Magician
 Innervate,Druid
 Inni,Cleric
-Inno,Wizard
 Innocents,Monk
 Innodar,Cleric
 Innorookie,Cleric
 Innoruckus,Cleric
+Inno,Wizard
 Innuva,Enchanter
 Inoculous,Ranger
 Inovatiz,Wizard
@@ -8361,6 +8532,7 @@ Isabellia,UNKNOWN
 Isaelie,Shaman
 Isaic,Paladin
 Isaiha,Rogue
+Isasuna,UNKNOWN
 Isbell,Druid
 Isekaikun,Magician
 Iselore,Druid
@@ -8405,11 +8577,12 @@ Itsmcgee,Enchanter
 Itso,Cleric
 Itsonly,Magician
 Itssy,Monk
+Itsya,UNKNOWN
 Ituki,Enchanter
 Iulls,Enchanter
 Iuvian,Druid
-Ivermectin,UNKNOWN
 Ivermectinn,Druid
+Ivermectin,UNKNOWN
 Ivka,Monk
 Ivlind,Enchanter
 Ivona,Paladin
@@ -8441,8 +8614,8 @@ Jaaden,Druid
 Jaamz,Bard
 Jaban,Bard
 Jabarer,Necromancer
-Jabba,Shaman
 Jabbadastabba,UNKNOWN
+Jabba,Shaman
 Jabekez,Druid
 Jabem,Rogue
 Jabiku,Necromancer
@@ -8453,9 +8626,9 @@ Jabobn,Magician
 Jabu,Magician
 Jaceon,Enchanter
 Jacintere,Bard
-Jack,Enchanter
 Jackal,UNKNOWN
 Jackblack,Enchanter
+Jack,Enchanter
 Jackiie,Necromancer
 Jackisblack,Cleric
 Jackleg,Ranger
@@ -8474,6 +8647,7 @@ Jaen,Wizard
 Jaerlin,Rogue
 Jaesid,Ranger
 Jaesons,Druid
+Jaex,Monk
 Jafa,Monk
 Jagai,Warrior
 Jagar,Cleric
@@ -8488,14 +8662,14 @@ Jaiiikar,Paladin
 Jaik,Paladin
 Jailyn,Magician
 Jaim,Ranger
-Jain,Ranger
 Jainaa,Necromancer
 Jainis,Ranger
+Jain,Ranger
 Jairu,Rogue
 Jakab,Ranger
 Jakkii,UNKNOWN
-Jako,Monk
 Jakob,Rogue
+Jako,Monk
 Jakosix,Druid
 Jakoten,Magician
 Jakov,Cleric
@@ -8539,8 +8713,9 @@ Jaquen,Cleric
 Jaques,Druid
 Jaradsmom,Monk
 Jaradyn,Wizard
-Jarda,Rogue
+Jarby,Bard
 Jardani,Wizard
+Jarda,Rogue
 Jargoni,Shaman
 Jarinecro,Necromancer
 Jarisy,Bard
@@ -8589,8 +8764,8 @@ Jeanrainne,Rogue
 Jedirey,Paladin
 Jedro,UNKNOWN
 Jedvana,Druid
-Jeeb,Wizard
 Jeebs,Ranger
+Jeeb,Wizard
 Jeepa,Shaman
 Jeeran,UNKNOWN
 Jeevees,Bard
@@ -8607,9 +8782,9 @@ Jeicara,Shaman
 Jeldorinn,Paladin
 Jelerak,Necromancer
 Jelesa,UNKNOWN
-Jelly,Warrior
 Jellyfilled,Druid
 Jellytoast,Druid
+Jelly,Warrior
 Jemal,Necromancer
 Jemni,Enchanter
 Jenar,Shaman
@@ -8617,18 +8792,19 @@ Jendar,Warrior
 Jendia,Enchanter
 Jenember,Enchanter
 Jeneveve,Magician
-Jeni,Monk
 Jenifurry,Druid
+Jeni,Monk
 Jenina,Shaman
 Jenitals,Enchanter
-Jenla,UNKNOWN
 Jenlain,UNKNOWN
+Jenla,UNKNOWN
 Jennatolls,Bard
 Jennay,Magician
 Jennica,Cleric
 Jenr,Druid
 Jentle,Enchanter
 Jeoff,Warrior
+Jeoseungsaja,Necromancer
 Jeps,Cleric
 Jeptha,Bard
 Jepu,Cleric
@@ -8646,12 +8822,12 @@ Jerribeth,Druid
 Jerricoe,Cleric
 Jerrimiah,Warrior
 Jerrypotter,Wizard
-Jers,Magician
 Jersiey,Shadow Knight
+Jers,Magician
 Jertt,Wizard
 Jeskiar,Bard
-Jessic,Wizard
 Jessicas,UNKNOWN
+Jessic,Wizard
 Jesstyr,Cleric
 Jeston,Druid
 Jesuislapourtoi,Cleric
@@ -8679,9 +8855,9 @@ Jhivuk,UNKNOWN
 Jhova,Necromancer
 Jhulee,Enchanter
 Jibartik,Enchanter
-Jibb,Shaman
 Jibberish,Magician
 Jibbi,Rogue
+Jibb,Shaman
 Jibobtik,Necromancer
 Jibontik,Shadow Knight
 Jibrail,Enchanter
@@ -8693,8 +8869,8 @@ Jigglebilly,Druid
 Jiggsaw,Bard
 Jigmit,Druid
 Jilelle,Druid
-Jill,Druid
 Jilla,Bard
+Jill,Druid
 Jiltasit,Paladin
 Jimiko,Druid
 Jimmathy,Paladin
@@ -8717,8 +8893,10 @@ Jinmu,Bard
 Jino,Shaman
 Jinsu,Enchanter
 Jinth,Magician
+Jintle,Ranger
 Jinxey,Wizard
 Jinxnoctem,Shadow Knight
+Jinxya,Rogue
 Jiph,Shaman
 Jipples,Cleric
 Jiranger,Ranger
@@ -8728,8 +8906,8 @@ Jishin,UNKNOWN
 Jitsumo,Necromancer
 Jittery,Druid
 Jiuu,Monk
-Jizard,Wizard
 Jizardee,Wizard
+Jizard,Wizard
 Jizi,UNKNOWN
 Jjar,Necromancer
 Jjhude,Necromancer
@@ -8752,6 +8930,7 @@ Joebobb,Rogue
 Joeliu,Druid
 Joeness,Monk
 Joethegrey,Druid
+Joeyjpaper,Druid
 Joeythetatv,Enchanter
 Joggingpants,Shaman
 Johana,Magician
@@ -8775,6 +8954,7 @@ Jondalar,Enchanter
 Jondo,Druid
 Jones,Necromancer
 Jongle,UNKNOWN
+Jonh,Ranger
 Jonjon,Paladin
 Jonlittlefoot,Druid
 Jonnei,Druid
@@ -8792,8 +8972,8 @@ Jooly,Enchanter
 Joorts,Necromancer
 Joppa,Cleric
 Jopps,UNKNOWN
-Jore,Paladin
 Joredorf,Shaman
+Jore,Paladin
 Jorin,Druid
 Jorins,UNKNOWN
 Jorious,Druid
@@ -8804,12 +8984,12 @@ Josetxo,Monk
 Joshaz,Enchanter
 Joshfin,Shaman
 Joshported,Druid
-Josi,UNKNOWN
 Josie,Ranger
 Josiph,UNKNOWN
+Josi,UNKNOWN
 Josslin,Monk
-Josy,Druid
 Josya,Wizard
+Josy,Druid
 Jotnar,Shaman
 Jotok,Shaman
 Jotter,Enchanter
@@ -8821,12 +9001,13 @@ Jovani,Ranger
 Jovann,Wizard
 Jovincia,Paladin
 Jowee,Rogue
+Joyehn,Ranger
 Joyi,Monk
 Jozlyn,Shadow Knight
 Jquan,Wizard
 Jrea,Ranger
-Jroc,Rogue
 Jrock,Bard
+Jroc,Rogue
 Jrodd,UNKNOWN
 Jrox,Enchanter
 Jsid,Shaman
@@ -8861,6 +9042,7 @@ Julisha,Shadow Knight
 Juliuz,Enchanter
 Julzyk,Shaman
 Jumbuh,Shaman
+Jumdumpster,UNKNOWN
 Jumi,Necromancer
 Jumjumshot,Cleric
 Jumlum,Warrior
@@ -8961,8 +9143,8 @@ Kainy,Druid
 Kaiot,Wizard
 Kairenn,Magician
 Kairin,Magician
-Kairos,UNKNOWN
 Kairosi,UNKNOWN
+Kairos,UNKNOWN
 Kaisa,Monk
 Kaisren,Enchanter
 Kaita,Cleric
@@ -9009,11 +9191,12 @@ Kalle,Druid
 Kalleena,Monk
 Kallen,Druid
 Kallith,Enchanter
+Kalmaar,Bard
 Kalmor,Paladin
 Kalmya,Enchanter
 Kalnayael,Cleric
-Kalod,Cleric
 Kalodan,Druid
+Kalod,Cleric
 Kalora,Druid
 Kalsicar,Paladin
 Kalsto,Magician
@@ -9025,8 +9208,8 @@ Kaludar,Druid
 Kaluppo,Druid
 Kaluvill,Enchanter
 Kalvik,Ranger
-Kalwe,Ranger
 Kalwen,Druid
+Kalwe,Ranger
 Kalys,Paladin
 Kalyst,UNKNOWN
 Kamaboko,Enchanter
@@ -9034,8 +9217,8 @@ Kamash,Warrior
 Kambam,Bard
 Kamdarye,Druid
 Kameilia,Druid
-Kamill,Shaman
 Kamillean,Enchanter
+Kamill,Shaman
 Kamiwaru,Necromancer
 Kamlan,Warrior
 Kamlor,Necromancer
@@ -9047,6 +9230,7 @@ Kanamits,Enchanter
 Kanary,Enchanter
 Kanata,Cleric
 Kandain,Ranger
+Kandayan,Cleric
 Kandian,Druid
 Kaneca,UNKNOWN
 Kaneh,Magician
@@ -9054,23 +9238,23 @@ Kaneras,Monk
 Kangaskhan,Magician
 Kania,Rogue
 Kanjien,Ranger
-Kanl,Enchanter
 Kanlar,Necromancer
+Kanl,Enchanter
 Kanluwen,Druid
 Kanmil,Necromancer
-Kann,Shaman
 Kanne,Druid
 Kannibull,Necromancer
 Kannichhabensow,Druid
+Kann,Shaman
 Kanrek,Warrior
 Kanrok,Shaman
-Kant,Shaman
 Kantari,Shaman
 Kantaxia,Druid
 Kanthela,Warrior
 Kantok,UNKNOWN
 Kantrips,Wizard
 Kantsell,UNKNOWN
+Kant,Shaman
 Kanuvas,Bard
 Kanweyen,Druid
 Kanzas,UNKNOWN
@@ -9105,6 +9289,7 @@ Karffon,Rogue
 Kargab,Shaman
 Kargon,Cleric
 Karine,Magician
+Karir,UNKNOWN
 Karjajuht,Necromancer
 Karklay,Magician
 Karkos,Druid
@@ -9112,9 +9297,10 @@ Karkulus,Shaman
 Karkzei,Cleric
 Karlfeldt,Ranger
 Karlhorst,Paladin
-Karloth,UNKNOWN
-Karm,Druid
+Karloth,Druid
+Karltoo,Shaman
 Karmaturkey,UNKNOWN
+Karm,Druid
 Karmee,Druid
 Karmen,Monk
 Karmmuh,Enchanter
@@ -9123,7 +9309,7 @@ Karolice,Enchanter
 Karolinax,Necromancer
 Karolinus,Enchanter
 Karolus,Warrior
-Karoro,UNKNOWN
+Karoro,Enchanter
 Karos,Enchanter
 Karote,Monk
 Karp,Shadow Knight
@@ -9139,8 +9325,8 @@ Karus,Necromancer
 Kasani,Druid
 Kasari,Enchanter
 Kasben,Magician
-Kashan,Rogue
 Kashandi,Enchanter
+Kashan,Rogue
 Kashe,Enchanter
 Kashel,Wizard
 Kashino,Druid
@@ -9170,9 +9356,9 @@ Katasha,Cleric
 Katastro,Ranger
 Katayla,Necromancer
 Kate,Ranger
-Kath,Necromancer
 Kathaylea,Druid
 Katheryna,Warrior
+Kath,Necromancer
 Kathranis,Ranger
 Katinka,Shaman
 Katiras,Ranger
@@ -9183,6 +9369,7 @@ Katss,Bard
 Kauzi,Monk
 Kavan,Rogue
 Kavax,Warrior
+Kavija,Enchanter
 Kavinci,Rogue
 Kavion,Druid
 Kavorka,Paladin
@@ -9195,8 +9382,8 @@ Kaycha,Bard
 Kayena,Wizard
 Kayenne,Rogue
 Kaylauna,Ranger
-Kaylea,UNKNOWN
 Kayleaf,Druid
+Kaylea,UNKNOWN
 Kayleh,Bard
 Kaymind,Shaman
 Kaymir,Wizard
@@ -9247,15 +9434,18 @@ Kefa,Ranger
 Keftka,Necromancer
 Kegareta,Enchanter
 Kegbunk,Shaman
+Kegdaen,Druid
 Kegisk,Bard
 Kegstandz,Cleric
 Keiggan,Warrior
 Keightlyn,Bard
 Keik,Monk
 Keimo,Necromancer
+Keinec,UNKNOWN
 Keines,Druid
 Keinokk,Enchanter
 Keira,Warrior
+Keirra,Shaman
 Keitaro,Druid
 Keithp,Ranger
 Kela,Bard
@@ -9271,14 +9461,14 @@ Keleus,Ranger
 Kelian,Magician
 Keliannx,Magician
 Keliannz,Druid
-Kelimyr,UNKNOWN
+Kelimyr,Druid
 Kelkim,Bard
 Kellandrel,Druid
 Kellara,Paladin
 Kellax,Warrior
 Kellben,Enchanter
-Kelles,Paladin
 Kellesk,Necromancer
+Kelles,Paladin
 Kelleyjean,Cleric
 Kellie,Druid
 Kellijean,Enchanter
@@ -9315,20 +9505,22 @@ Kendoren,Monk
 Kendras,UNKNOWN
 Kendruh,Druid
 Kendry,Enchanter
-Kene,Necromancer
 Kenea,Enchanter
+Kene,Necromancer
 Kenest,Druid
 Kenfoong,UNKNOWN
 Kengar,Shaman
 Kengi,Monk
 Kengly,Magician
+Kengo,Warrior
 Kenia,UNKNOWN
-Kenie,Ranger
 Kenien,Druid
+Kenie,Ranger
 Kenif,Bard
 Kenjero,Paladin
 Kenju,Enchanter
 Kenkari,Wizard
+Kenkin,Monk
 Kenlaian,Ranger
 Kenmei,Monk
 Kenolith,Bard
@@ -9345,11 +9537,13 @@ Kenzie,Ranger
 Keoda,Druid
 Keokuk,Ranger
 Keraborn,Enchanter
+Kerasbane,Bard
 Kerf,Cleric
 Kerin,Bard
 Kerkoros,Shadow Knight
 Kerlis,Necromancer
 Kernel,Warrior
+Kero,UNKNOWN
 Kerrai,Druid
 Kerraptis,Necromancer
 Kerrit,UNKNOWN
@@ -9396,6 +9590,7 @@ Khalsa,Ranger
 Khammi,Shadow Knight
 Khampa,Cleric
 Khanibus,Druid
+Khanis,Ranger
 Khannabis,UNKNOWN
 Khantok,Shadow Knight
 Khanvikt,Rogue
@@ -9438,6 +9633,7 @@ Khotag,Rogue
 Khuak,Shadow Knight
 Khujjal,Monk
 Khulan,Ranger
+Khuldar,Ranger
 Khuorin,Druid
 Khurnus,Druid
 Khyrr,Enchanter
@@ -9448,6 +9644,7 @@ Kiaora,Warrior
 Kiau,Monk
 Kibagami,Monk
 Kibbler,Druid
+Kibii,Bard
 Kibi,Necromancer
 Kibitz,Shaman
 Kibkan,Shaman
@@ -9487,6 +9684,7 @@ Kilenaa,UNKNOWN
 Kilera,Ranger
 Kilerasie,Druid
 Kilerenn,Druid
+Kilerian,Druid
 Kilerien,Druid
 Kilerinn,UNKNOWN
 Kilgone,UNKNOWN
@@ -9497,6 +9695,7 @@ Kilmania,Ranger
 Kilmayne,Shadow Knight
 Kilmor,Bard
 Kilnar,Rogue
+Kilometers,Warrior
 Kilrag,Monk
 Kilrien,Ranger
 Kilroi,Shaman
@@ -9510,9 +9709,9 @@ Kimarog,Shaman
 Kimberhall,Magician
 Kimboslice,Wizard
 Kimchee,Monk
-Kime,Magician
 Kimeira,Druid
 Kimek,Paladin
+Kime,Magician
 Kimise,Enchanter
 Kimmie,Druid
 Kimmuriell,Wizard
@@ -9530,7 +9729,7 @@ Kindall,Warrior
 Kindarien,Ranger
 Kindled,Magician
 Kinekto,Monk
-Kinelann,UNKNOWN
+Kinelann,Necromancer
 Kinetik,Monk
 Kingahano,Warrior
 Kingairbanke,Warrior
@@ -9538,7 +9737,9 @@ Kingakanon,Warrior
 Kingaroo,Ranger
 Kingcade,Magician
 Kingcandy,Enchanter
+Kingclub,Warrior
 Kingofbread,Warrior
+Kingofkings,Monk
 Kingofpain,Cleric
 Kingsealforce,Shadow Knight
 Kingsfield,Magician
@@ -9571,11 +9772,13 @@ Kirdel,Monk
 Kirec,Necromancer
 Kirenna,Rogue
 Kirex,Monk
-Kiri,Magician
 Kirika,Warrior
 Kirill,Shaman
+Kiri,Magician
 Kirlia,Necromancer
+Kirolev,Necromancer
 Kirshan,Druid
+Kiryl,Ranger
 Kissssik,Enchanter
 Kitaris,UNKNOWN
 Kitay,Ranger
@@ -9588,14 +9791,15 @@ Kitsyrah,Necromancer
 Kitsyrani,Druid
 Kitta,Enchanter
 Kittenz,Enchanter
+Kittridge,Warrior
 Kiwami,Shadow Knight
 Kiwii,Cleric
 Kiwitan,Enchanter
 Kiyarah,Necromancer
 Kizile,Warrior
 Kizu,Cleric
-Kizz,Monk
 Kizzamia,Necromancer
+Kizz,Monk
 Kjarl,Rogue
 Kjaro,Monk
 Kjarr,Warrior
@@ -9615,8 +9819,8 @@ Klayne,Rogue
 Klayvenn,Wizard
 Klayze,Enchanter
 Klaze,Cleric
-Klea,Shadow Knight
 Klearic,Cleric
+Klea,Shadow Knight
 Kleatis,Shaman
 Kleed,Shaman
 Klegork,Shaman
@@ -9650,6 +9854,7 @@ Kluo,Ranger
 Kluuvil,Ranger
 Kluya,Magician
 Knabbe,UNKNOWN
+Knapster,UNKNOWN
 Knawt,Druid
 Knecro,Necromancer
 Kneeblast,Magician
@@ -9661,8 +9866,8 @@ Knerotik,Enchanter
 Knever,Cleric
 Knickerless,Bard
 Knid,Enchanter
-Knife,UNKNOWN
 Knifeparty,Rogue
+Knife,UNKNOWN
 Knightintunisia,Warrior
 Knightmaker,Ranger
 Knightshine,Shaman
@@ -9705,6 +9910,7 @@ Kohi,Cleric
 Kohl,Druid
 Kohlt,Ranger
 Kohzar,Druid
+Koive,Warrior
 Kojiroh,Shaman
 Kokinchan,Bard
 Koldorn,Enchanter
@@ -9713,6 +9919,7 @@ Kolerix,UNKNOWN
 Kolm,Enchanter
 Kolor,Enchanter
 Kolscins,Enchanter
+Koltar,Necromancer
 Koma,Ranger
 Komodoketh,Shaman
 Komtruze,Shadow Knight
@@ -9744,10 +9951,10 @@ Korar,Cleric
 Koras,Paladin
 Koraxx,Shaman
 Korbis,Wizard
-Kord,Warrior
 Kordlin,Warrior
 Kordollmer,Warrior
 Kordus,Cleric
+Kord,Warrior
 Korebin,Druid
 Koreck,Cleric
 Korelce,Shaman
@@ -9790,8 +9997,8 @@ Kozlug,Warrior
 Kozmik,Paladin
 Kozzi,Warrior
 Kpaz,Shaman
-Krab,UNKNOWN
 Krabfarmer,Enchanter
+Krab,UNKNOWN
 Krabwin,Cleric
 Krac,Enchanter
 Kragaz,Shaman
@@ -9819,14 +10026,15 @@ Kraynk,Enchanter
 Krazaarg,Shaman
 Kraznor,Enchanter
 Kreb,Wizard
+Kreedo,UNKNOWN
 Kreepjack,Rogue
 Kreeps,Shadow Knight
 Kreepy,UNKNOWN
 Kreeta,Wizard
 Kreizenn,Ranger
 Krenkz,Paladin
-Kresh,Paladin
 Kreshendo,Bard
+Kresh,Paladin
 Krexa,Rogue
 Krexx,Rogue
 Kriast,Paladin
@@ -9848,9 +10056,11 @@ Kristin,Enchanter
 Kristofer,Monk
 Kristol,Magician
 Krisus,Druid
+Krisys,UNKNOWN
 Krixon,Magician
 Kriyate,Cleric
 Krnlgutzy,UNKNOWN
+Krogerr,Druid
 Krohm,Cleric
 Krokinou,Monk
 Krokpot,Cleric
@@ -9879,9 +10089,9 @@ Kruegheran,Cleric
 Kruppa,Necromancer
 Kryg,Shaman
 Kryonar,Enchanter
-Krypt,Necromancer
 Kryptar,Shadow Knight
 Kryptkeeper,Necromancer
+Krypt,Necromancer
 Kryptoe,Necromancer
 Krysa,Enchanter
 Krysanthemum,Cleric
@@ -9900,10 +10110,12 @@ Kuchipaku,Bard
 Kudax,Cleric
 Kuddley,Druid
 Kudgurorm,Druid
+Kudo,Druid
 Kudra,Enchanter
 Kuen,Ranger
 Kuftus,Monk
 Kugmak,Shaman
+Kuiper,UNKNOWN
 Kujos,Necromancer
 Kukap,Druid
 Kukapjr,Warrior
@@ -9935,27 +10147,28 @@ Kunhuox,UNKNOWN
 Kunlin,Druid
 Kunn,Monk
 Kuntgar,Monk
+Kunzark,Rogue
 Kuolemaa,Cleric
 Kupan,Wizard
 Kupec,Bard
 Kurakai,Necromancer
 Kuranosuke,Wizard
 Kurbee,Necromancer
-Kurbi,Warrior
 Kurbie,Bard
+Kurbi,Warrior
 Kurblobb,UNKNOWN
 Kurdain,Monk
 Kurdon,Warrior
 Kureha,Enchanter
-Kuri,Paladin
 Kurin,Rogue
 Kurio,Cleric
+Kuri,Paladin
 Kurkin,UNKNOWN
 Kurnk,Wizard
 Kurnos,Warrior
 Kurobii,Magician
-Kuroga,Shaman
 Kurogane,Warrior
+Kuroga,Shaman
 Kurokami,Necromancer
 Kuroky,Rogue
 Kurrak,Shaman
@@ -9963,14 +10176,16 @@ Kurrat,Magician
 Kurrupt,Enchanter
 Kursed,Necromancer
 Kurtana,Warrior
-Kurz,Druid
+Kurthe,Bard
 Kurzad,Enchanter
-Kush,Bard
+Kurz,Druid
 Kushbank,Bard
+Kush,Bard
+Kushow,Shadow Knight
 Kust,Monk
 Kuviniel,Warrior
-Kuyt,UNKNOWN
 Kuyte,Druid
+Kuyt,UNKNOWN
 Kvotte,Bard
 Kwak,Paladin
 Kweeki,UNKNOWN
@@ -9978,7 +10193,8 @@ Kweldulf,Enchanter
 Kwizzard,Wizard
 Kwon,Monk
 Kxxyk,Bard
-Kybantes,UNKNOWN
+Kybantes,Bard
+Kydros,Enchanter
 Kyeis,Druid
 Kyfral,Ranger
 Kygax,Monk
@@ -9990,16 +10206,16 @@ Kylash,Necromancer
 Kylia,Paladin
 Kyligan,Warrior
 Kynari,Druid
-Kynd,Magician
 Kyndig,Rogue
 Kyndle,Wizard
 Kyndlynn,Druid
+Kynd,Magician
 Kyor,Enchanter
 Kyotana,Cleric
 Kyouma,Necromancer
-Kyra,UNKNOWN
 Kyrahek,UNKNOWN
 Kyrai,Enchanter
+Kyra,UNKNOWN
 Kyren,Warrior
 Kyria,Druid
 Kyrielle,Rogue
@@ -10076,19 +10292,20 @@ Lalita,Paladin
 Lallu,Bard
 Laloren,Druid
 Lalos,Necromancer
+Lamabard,Bard
 Lamadar,Cleric
 Lamar,Enchanter
 Lamarque,Cleric
 Lambentation,Necromancer
 Lambor,Bard
-Lame,Monk
 Lamellar,Necromancer
+Lame,Monk
 Lamil,Rogue
 Lamina,Cleric
 Lamshank,Rogue
 Lanadina,UNKNOWN
-Lanan,Magician
 Lananil,Ranger
+Lanan,Magician
 Lancallot,Paladin
 Lancoern,Bard
 Landaru,Bard
@@ -10104,9 +10321,9 @@ Lankhmar,Rogue
 Lanore,Shadow Knight
 Lanowar,Ranger
 Lanpolo,Enchanter
-Lant,Magician
 Lantalern,Druid
 Lanthlen,Monk
+Lant,Magician
 Lanul,Shaman
 Lanwin,Enchanter
 Lanya,Druid
@@ -10114,8 +10331,8 @@ Laoghaire,Shaman
 Laolien,Bard
 Laoric,UNKNOWN
 Laparka,Shadow Knight
-Lapse,Magician
 Lapsed,Shaman
+Lapse,Magician
 Lapsze,Shaman
 Laquatus,Bard
 Larae,Paladin
@@ -10139,8 +10356,8 @@ Lassie,Cleric
 Lastt,UNKNOWN
 Latch,Necromancer
 Latecleric,Necromancer
-Laten,Shaman
 Latenlost,Warrior
+Laten,Shaman
 Latice,Shadow Knight
 Latronis,Ranger
 Lattitude,Enchanter
@@ -10161,12 +10378,13 @@ Lavarian,Bard
 Lavarious,Rogue
 Lavenda,Ranger
 Lavina,Bard
-Lawn,UNKNOWN
 Lawnmowerman,Bard
 Lawnorder,Paladin
 Lawns,Paladin
+Lawn,UNKNOWN
 Lawur,Druid
 Laww,Monk
+Laxas,UNKNOWN
 Layden,Ranger
 Laylaa,Warrior
 Laylith,Bard
@@ -10187,6 +10405,7 @@ Lazzary,Magician
 Lazzyka,Necromancer
 Ldilie,Necromancer
 Ldrancer,Druid
+Ldyen,Enchanter
 Leache,Necromancer
 Leadaru,Cleric
 Leadeye,Warrior
@@ -10208,6 +10427,7 @@ Learian,Ranger
 Learic,Bard
 Learnem,UNKNOWN
 Leasa,Necromancer
+Leasik,Monk
 Leaveit,Warrior
 Leavesfall,UNKNOWN
 Lebaron,Enchanter
@@ -10237,8 +10457,8 @@ Legacyy,Necromancer
 Legendary,Monk
 Legendarymonk,Monk
 Legendpunch,Monk
-Legendzap,Wizard
 Legendzapp,Druid
+Legendzap,Wizard
 Legeras,Druid
 Leggi,Ranger
 Legil,Ranger
@@ -10282,8 +10502,8 @@ Lenandor,Monk
 Lendhof,UNKNOWN
 Lenevath,Ranger
 Lenftash,Enchanter
-Lenglad,Warrior
 Lengladil,Enchanter
+Lenglad,Warrior
 Lennan,Ranger
 Lennon,Shaman
 Lenorhappiness,Enchanter
@@ -10328,6 +10548,7 @@ Lethendris,Necromancer
 Lethon,Enchanter
 Letmespktomgr,Paladin
 Letmetryit,Ranger
+Letsroll,Monk
 Letum,Necromancer
 Letus,Shadow Knight
 Leukocytosis,Magician
@@ -10340,12 +10561,12 @@ Lewda,Shaman
 Lewdus,Rogue
 Lewellyn,Enchanter
 Lewelyn,Cleric
-Lewis,UNKNOWN
 Lewiscarroll,Enchanter
+Lewis,UNKNOWN
 Lewks,Enchanter
-Lewt,Ranger
 Lewtenant,Rogue
 Lewtgawblin,Shaman
+Lewt,Ranger
 Leww,Enchanter
 Lexii,Enchanter
 Lexon,UNKNOWN
@@ -10362,6 +10583,7 @@ Lichphile,Necromancer
 Lickitysplits,UNKNOWN
 Lidara,Cleric
 Liden,Cleric
+Lidica,Rogue
 Lidrath,UNKNOWN
 Lidris,Cleric
 Liefed,Enchanter
@@ -10375,6 +10597,7 @@ Lifetakuh,Necromancer
 Lifetaps,Necromancer
 Lifetapt,Warrior
 Liftie,Druid
+Lifty,Druid
 Lighter,Bard
 Lightleaf,Druid
 Lightningfeet,Rogue
@@ -10388,9 +10611,9 @@ Likon,Magician
 Liktur,Magician
 Liladila,Warrior
 Liladriel,Cleric
-Lilb,Rogue
 Lilbiggums,Magician
 Lilbo,Druid
+Lilb,Rogue
 Lilbuns,UNKNOWN
 Lilcanis,Druid
 Lilcc,Rogue
@@ -10461,9 +10684,9 @@ Lingxioayu,Cleric
 Linila,Enchanter
 Linkz,Magician
 Linkzy,Druid
-Linn,Monk
 Linnae,Shaman
 Linnie,Magician
+Linn,Monk
 Linoleas,Paladin
 Linthelos,Shadow Knight
 Lintros,Enchanter
@@ -10492,11 +10715,12 @@ Lisbet,Shaman
 Lisbon,Druid
 Liseth,Necromancer
 Lisol,Necromancer
+Listhar,Necromancer
 Liston,Monk
 Litaf,Monk
 Literate,Cleric
-Lith,Enchanter
 Lithanie,UNKNOWN
+Lith,Enchanter
 Lithidous,Necromancer
 Litr,Druid
 Litteral,Enchanter
@@ -10511,11 +10735,12 @@ Littlemule,Bard
 Littlepet,Magician
 Littleshm,Shaman
 Littleskatey,Necromancer
-Littlethief,UNKNOWN
+Littlethief,Rogue
+Littulmana,Wizard
 Littulman,Paladin
 Litty,Ranger
-Lium,Wizard
 Liumio,Rogue
+Lium,Wizard
 Liveto,Monk
 Livh,Necromancer
 Livia,Necromancer
@@ -10527,6 +10752,7 @@ Livinlarge,Bard
 Livzy,Wizard
 Lixt,Shaman
 Lizaara,Shaman
+Lizardsnack,Bard
 Lizaruz,UNKNOWN
 Lizhard,Monk
 Lizila,Cleric
@@ -10575,15 +10801,15 @@ Lofan,Monk
 Lofer,Rogue
 Lofty,Druid
 Logan,Enchanter
-Logg,Warrior
 Loggia,Wizard
+Logg,Warrior
 Logicalidiot,UNKNOWN
 Logik,Wizard
 Logur,Ranger
 Logwan,Druid
 Loiterer,Bard
-Loka,Wizard
 Lokash,Rogue
+Loka,Wizard
 Lokbane,Shadow Knight
 Lokin,Necromancer
 Loknar,Necromancer
@@ -10620,6 +10846,7 @@ Loogey,Shaman
 Lookclose,Magician
 Lookfar,Druid
 Lookunto,Cleric
+Lookuntu,Enchanter
 Loonare,Druid
 Loooooneranger,Ranger
 Loooooong,Druid
@@ -10680,6 +10907,7 @@ Lotsa,Enchanter
 Lotsern,Druid
 Lotta,Cleric
 Lotto,Druid
+Lotusgeisha,Druid
 Lotus,Monk
 Loudobbs,Magician
 Louella,Enchanter
@@ -10712,8 +10940,8 @@ Lridori,Monk
 Lsdz,Enchanter
 Lteralus,Cleric
 Luamas,Bard
-Lubii,Druid
 Lubiianya,Ranger
+Lubii,Druid
 Lubluv,Magician
 Lubov,Rogue
 Lucaleaf,Rogue
@@ -10727,16 +10955,18 @@ Lucity,Bard
 Lucki,Enchanter
 Luckycat,Magician
 Lucylla,Wizard
+Lucyndris,Cleric
 Luddoo,Enchanter
 Luddwig,Shaman
 Ludvik,Druid
 Lueadari,Enchanter
 Luela,Enchanter
 Luethor,Bard
-Luffy,UNKNOWN
+Luffy,Monk
 Lufiron,Enchanter
 Lufniz,Monk
 Lugnir,UNKNOWN
+Lugolor,Ranger
 Luietre,Cleric
 Luithel,Magician
 Luithin,Enchanter
@@ -10763,16 +10993,16 @@ Lumellin,Paladin
 Lumenara,Magician
 Lumeria,Warrior
 Lumiel,Enchanter
-Lumin,Enchanter
 Luminar,Cleric
 Luminaro,Enchanter
+Lumin,Enchanter
 Luminia,Druid
 Luminis,Enchanter
 Lumnyil,Magician
 Lumoss,Magician
 Lumpina,Shadow Knight
-Luna,Cleric
 Lunabella,Druid
+Luna,Cleric
 Lunaleska,Cleric
 Lunamina,Enchanter
 Lunariya,Shadow Knight
@@ -10797,6 +11027,7 @@ Lupop,Bard
 Luretan,Ranger
 Lurky,Rogue
 Luro,UNKNOWN
+Lurtis,Ranger
 Lurtzz,Shaman
 Lusciously,Druid
 Lussty,Necromancer
@@ -10828,6 +11059,7 @@ Lykaden,Bard
 Lyle,Druid
 Lymen,Shaman
 Lympy,Rogue
+Lyndasha,UNKNOWN
 Lyndell,Enchanter
 Lyndsay,Enchanter
 Lyndsy,Cleric
@@ -10836,6 +11068,7 @@ Lynkee,Bard
 Lynnie,Ranger
 Lynnieta,Cleric
 Lynvingen,UNKNOWN
+Lynwood,UNKNOWN
 Lyonsong,Bard
 Lyonydas,Warrior
 Lyquid,Monk
@@ -10847,8 +11080,8 @@ Lyrix,Bard
 Lyrrical,Bard
 Lysera,Magician
 Lyserge,Enchanter
-Lysergi,Necromancer
 Lysergicc,UNKNOWN
+Lysergi,Necromancer
 Lyssea,Druid
 Lysurgia,Enchanter
 Lysurgic,Ranger
@@ -10872,6 +11105,7 @@ Mabdabus,Enchanter
 Mabien,Ranger
 Mabo,Rogue
 Mabtalten,Enchanter
+Macavelli,Shadow Knight
 Maccaronii,Enchanter
 Macek,Enchanter
 Macfly,Magician
@@ -10891,14 +11125,14 @@ Madamescarlet,Druid
 Madamscarlet,Cleric
 Madbad,Necromancer
 Madbark,Druid
-Madcow,Warrior
 Madcowcow,Druid
+Madcow,Warrior
 Maddallas,Warrior
 Maddiegirl,Magician
 Maddilyn,Paladin
 Maddness,Rogue
-Madds,Enchanter
 Maddscarlet,Necromancer
+Madds,Enchanter
 Maddus,Ranger
 Madeyes,Shaman
 Madhukar,Druid
@@ -10928,8 +11162,8 @@ Maeruuk,Magician
 Maestier,Magician
 Maestos,Bard
 Maevyn,Necromancer
-Maez,UNKNOWN
 Maezi,Magician
+Maez,UNKNOWN
 Maffo,Cleric
 Magdelein,Warrior
 Magedalf,UNKNOWN
@@ -11023,6 +11257,7 @@ Malamben,UNKNOWN
 Malanai,Shaman
 Malarel,Enchanter
 Malarkis,Shadow Knight
+Malavier,Necromancer
 Malax,Warrior
 Malayne,Wizard
 Malb,Enchanter
@@ -11041,12 +11276,15 @@ Malex,Necromancer
 Malferon,Ranger
 Malfindor,Enchanter
 Malfoy,Necromancer
-Malgor,Magician
 Malgorath,Shaman
+Malgor,Magician
 Malgorm,UNKNOWN
 Malic,Cleric
+Malifax,Wizard
 Malifex,Necromancer
 Malificente,Cleric
+Maligator,Bard
+Malignia,Necromancer
 Malikii,Wizard
 Malikou,Bard
 Malina,Necromancer
@@ -11075,8 +11313,8 @@ Malsicar,Necromancer
 Maltak,Enchanter
 Malthaeus,Wizard
 Malthorn,Cleric
-Maltin,Rogue
 Maltiniel,Enchanter
+Maltin,Rogue
 Malto,Rogue
 Maludnos,UNKNOWN
 Malugas,Shadow Knight
@@ -11144,8 +11382,8 @@ Manure,Druid
 Manuva,Wizard
 Manxy,Druid
 Maoa,Druid
-Maowi,Shadow Knight
 Maowii,Ranger
+Maowi,Shadow Knight
 Mapei,Bard
 Maquisard,Monk
 Maralesk,Enchanter
@@ -11168,6 +11406,7 @@ Marigny,Wizard
 Marika,Shadow Knight
 Mariner,Wizard
 Marinev,Paladin
+Mariposa,Ranger
 Marjan,Magician
 Markakis,Paladin
 Markar,Wizard
@@ -11184,9 +11423,9 @@ Marrakesh,UNKNOWN
 Marrios,Necromancer
 Marrisa,Cleric
 Marrissae,Cleric
-Marsai,Monk
-Marsail,Ranger
 Marsaili,Druid
+Marsail,Ranger
+Marsai,Monk
 Marsfx,Shaman
 Marsha,Monk
 Marshel,Monk
@@ -11195,10 +11434,10 @@ Marsi,Bard
 Marsid,Druid
 Marsilea,Druid
 Marsoc,Ranger
-Marten,Wizard
 Martenii,Enchanter
-Marti,Warrior
+Marten,Wizard
 Martina,Cleric
+Marti,Warrior
 Maruke,Cleric
 Maruoom,Wizard
 Marupoko,Ranger
@@ -11218,18 +11457,18 @@ Mashville,Bard
 Masiku,Monk
 Masmune,Cleric
 Masoj,Necromancer
-Masrot,Shaman
 Masroth,Necromancer
+Masrot,Shaman
 Mastergater,Magician
 Masterize,Monk
 Mastermunch,Warrior
 Mastershifu,Monk
 Mastof,Necromancer
-Mastr,Wizard
 Mastri,Rogue
+Mastr,Wizard
 Mater,UNKNOWN
-Matha,Warrior
 Mathaiux,Paladin
+Matha,Warrior
 Mathonwy,Bard
 Mathus,Magician
 Matias,Warrior
@@ -11257,8 +11496,10 @@ Mavn,Enchanter
 Mawk,Monk
 Mawzir,Enchanter
 Maxamillius,Ranger
+Maxamos,Cleric
 Maxcillimus,Warrior
 Maxed,Enchanter
+Maxgar,Paladin
 Maxnormal,Shaman
 Maxpain,Warrior
 Maxtea,UNKNOWN
@@ -11271,9 +11512,9 @@ Maxxyou,Ranger
 Mayapapaya,Magician
 Mayas,UNKNOWN
 Mayasura,Enchanter
-Mayb,Necromancer
 Maybelline,Shadow Knight
 Maybmule,UNKNOWN
+Mayb,Necromancer
 Maybnot,Druid
 Maybus,Wizard
 Mayfaira,Ranger
@@ -11296,6 +11537,7 @@ Mazk,Rogue
 Mazterace,Warrior
 Mcafxd,Druid
 Mcburnz,Magician
+Mccreary,Monk
 Mccreedy,Druid
 Mcdoc,Cleric
 Mcdualheals,Cleric
@@ -11327,6 +11569,7 @@ Meanie,Necromancer
 Meanstache,Warrior
 Meas,Ranger
 Meatbawl,Cleric
+Meatcook,Monk
 Meateronstrous,Shaman
 Meathookk,Monk
 Meathoook,Monk
@@ -11342,11 +11585,12 @@ Mecoes,Ranger
 Medacasp,Enchanter
 Medack,Cleric
 Medakit,Cleric
-Medd,Monk
 Meddaniel,Enchanter
 Meddic,Cleric
 Meddik,Cleric
 Meddling,Magician
+Medd,Monk
+Medesimo,Bard
 Medges,Cleric
 Mediaci,Bard
 Medical,Cleric
@@ -11385,13 +11629,14 @@ Meevie,Warrior
 Meevs,Necromancer
 Meew,Druid
 Megabus,Druid
+Megachad,Warrior
 Megachief,Druid
 Megacrisp,Bard
 Megadorf,Paladin
 Megadrina,Cleric
-Megal,Shadow Knight
 Megalgia,Wizard
 Megallius,Cleric
+Megal,Shadow Knight
 Megamegaman,Enchanter
 Megamind,Wizard
 Megaptera,Enchanter
@@ -11445,6 +11690,7 @@ Melkenoth,Necromancer
 Mellange,Druid
 Mellani,Bard
 Mellissa,Cleric
+Melloncollie,Bard
 Mellowchanting,Enchanter
 Melmar,Enchanter
 Melodea,Bard
@@ -11486,8 +11732,8 @@ Meneren,Rogue
 Menerva,Wizard
 Menfer,Druid
 Menic,Paladin
-Meniel,Wizard
 Meniela,Magician
+Meniel,Wizard
 Menkin,Wizard
 Menlith,UNKNOWN
 Menluian,UNKNOWN
@@ -11507,13 +11753,13 @@ Meoy,Shaman
 Mephist,Shadow Knight
 Mephysto,UNKNOWN
 Mepje,Warrior
-Mercado,UNKNOWN
 Mercadona,UNKNOWN
+Mercado,UNKNOWN
 Mercahnt,Bard
 Mercey,Cleric
 Merceyless,Necromancer
-Mercuri,Wizard
 Mercuride,UNKNOWN
+Mercuri,Wizard
 Merdoc,Cleric
 Merea,Druid
 Mereal,Cleric
@@ -11521,8 +11767,8 @@ Merena,Necromancer
 Merendith,Magician
 Mereway,Bard
 Merh,Monk
-Merian,UNKNOWN
 Meriana,Druid
+Merian,UNKNOWN
 Meridin,Enchanter
 Merigor,Enchanter
 Meritiou,Cleric
@@ -11536,8 +11782,8 @@ Merries,Enchanter
 Merril,Monk
 Merriyn,Enchanter
 Merroc,Cleric
-Merry,UNKNOWN
 Merrymed,Cleric
+Merry,UNKNOWN
 Mersaydes,Shaman
 Merseus,Monk
 Merster,Druid
@@ -11559,6 +11805,7 @@ Meteorman,UNKNOWN
 Meters,Bard
 Meticus,Bard
 Metlar,UNKNOWN
+Metran,Cleric
 Metra,UNKNOWN
 Metricbox,UNKNOWN
 Mettalus,Paladin
@@ -11566,8 +11813,8 @@ Metwo,Bard
 Metzgere,Ranger
 Metzli,Magician
 Mevil,Enchanter
-Mewle,Warrior
 Mewler,Warrior
+Mewle,Warrior
 Mewman,Enchanter
 Mewshu,Druid
 Mewull,Warrior
@@ -11575,8 +11822,8 @@ Meyghan,Druid
 Mezagain,Enchanter
 Mezaluna,Enchanter
 Mezame,Enchanter
-Mezd,Enchanter
 Mezdemeanor,Enchanter
+Mezd,Enchanter
 Mezebel,Enchanter
 Mezek,UNKNOWN
 Mezeno,Enchanter
@@ -11585,8 +11832,8 @@ Mezmeer,Enchanter
 Mezmere,Enchanter
 Mezmoreland,Enchanter
 Mezmurr,Enchanter
-Mezn,Enchanter
 Mezncharm,Enchanter
+Mezn,Enchanter
 Mezr,Enchanter
 Mezriah,Enchanter
 Mezriel,Enchanter
@@ -11597,10 +11844,11 @@ Mezzalith,Enchanter
 Mezzarella,Enchanter
 Mezzazoic,UNKNOWN
 Mezzenim,Enchanter
+Mezzero,Enchanter
 Mezzia,Enchanter
 Mezzican,Enchanter
-Mezzin,UNKNOWN
 Mezzing,Enchanter
+Mezzin,UNKNOWN
 Mezzmerrelda,Enchanter
 Mezzoberranzan,Enchanter
 Mezzothelioma,Enchanter
@@ -11624,9 +11872,9 @@ Mick,Druid
 Mickey,UNKNOWN
 Micowbay,Warrior
 Microbiologist,Druid
-Microm,Magician
 Micromacheen,Rogue
 Micromessiah,Cleric
+Microm,Magician
 Micropeen,Necromancer
 Micropew,Magician
 Microshaft,Enchanter
@@ -11643,6 +11891,7 @@ Midjetmac,Cleric
 Midnachan,Wizard
 Midnightt,UNKNOWN
 Midoly,Druid
+Midport,UNKNOWN
 Mieliki,UNKNOWN
 Mielikkki,Bard
 Miffune,Druid
@@ -11675,10 +11924,10 @@ Milar,Shaman
 Milat,Wizard
 Milchman,Enchanter
 Milcom,Necromancer
-Mile,Rogue
 Mileey,Bard
 Milench,Enchanter
 Milenium,Cleric
+Mile,Rogue
 Milfa,Monk
 Milian,Druid
 Milkfan,Cleric
@@ -11698,10 +11947,10 @@ Milnayer,Enchanter
 Milpheus,Druid
 Milphies,Magician
 Milranger,Ranger
-Milt,Rogue
 Miltank,Cleric
 Milthoz,Necromancer
 Miltin,Warrior
+Milt,Rogue
 Milwa,UNKNOWN
 Milwen,Druid
 Mimbic,Necromancer
@@ -11732,8 +11981,8 @@ Minette,Rogue
 Minia,Shadow Knight
 Minibutcher,Druid
 Minijamye,Rogue
-Minikeg,Rogue
 Minikeger,Wizard
+Minikeg,Rogue
 Minimality,Warrior
 Minimaster,Necromancer
 Minimee,Druid
@@ -11748,8 +11997,8 @@ Minkina,UNKNOWN
 Minkus,Druid
 Minlar,Paladin
 Minmatens,Wizard
-Minmax,Shaman
 Minmaxd,Warrior
+Minmax,Shaman
 Minngus,Magician
 Minniva,Enchanter
 Minoan,Bard
@@ -11777,6 +12026,7 @@ Miranda,UNKNOWN
 Mirania,Druid
 Miraseth,Warrior
 Mircea,Shaman
+Mirelanye,Enchanter
 Mirel,UNKNOWN
 Miren,Enchanter
 Mirgh,Wizard
@@ -11827,8 +12077,8 @@ Mistryst,Paladin
 Mistwalker,Druid
 Mistybuns,Druid
 Mitaz,Necromancer
-Mitchel,Cleric
 Mitchelada,Wizard
+Mitchel,Cleric
 Mithanias,Paladin
 Mithicus,Magician
 Mithodical,Ranger
@@ -11886,6 +12136,7 @@ Modac,Druid
 Modani,Enchanter
 Modarr,Cleric
 Modd,Magician
+Moderate,UNKNOWN
 Modor,Shaman
 Modus,Enchanter
 Moef,Shaman
@@ -11913,8 +12164,8 @@ Mokubokujobokob,Druid
 Molassus,Rogue
 Moldbrain,Druid
 Moldiman,Druid
-Molecule,Shaman
 Moleculer,Magician
+Molecule,Shaman
 Moleeye,Ranger
 Molgothe,UNKNOWN
 Moll,Druid
@@ -11942,8 +12193,8 @@ Moneyfraud,Cleric
 Moneyfrod,Necromancer
 Moneyshot,UNKNOWN
 Moneystore,Enchanter
-Monik,Monk
 Moniker,Necromancer
+Monik,Monk
 Monis,Druid
 Monkyman,Monk
 Monoblack,Necromancer
@@ -11981,17 +12232,17 @@ Moph,Warrior
 Mopo,Druid
 Moppie,Druid
 Moqorro,Enchanter
-Mora,Bard
 Moraalsupprt,Rogue
+Mora,Bard
 Morack,Druid
 Moragrim,Cleric
 Morainee,Shaman
 Morbidea,UNKNOWN
 Morbidecay,Necromancer
 Morbids,UNKNOWN
-Mord,Druid
 Mordaent,Enchanter
 Mordax,Necromancer
+Mord,Druid
 Mordeas,Enchanter
 Mordeekaiser,Shadow Knight
 Mordekei,Bard
@@ -12016,15 +12267,16 @@ Moresel,Druid
 Morfrom,Magician
 Morgawr,Necromancer
 Morgena,Cleric
+Morget,Druid
 Morggyn,Bard
-Morgh,Shaman
 Morghael,Shadow Knight
+Morgh,Shaman
 Morgonnah,Druid
 Morgoth,Monk
 Morgue,Shadow Knight
 Morguhel,Shadow Knight
-Morgul,Necromancer
 Morgula,Cleric
+Morgul,Necromancer
 Morhdekai,Magician
 Moriah,Enchanter
 Moribundus,Necromancer
@@ -12032,6 +12284,7 @@ Morior,Necromancer
 Moriras,Necromancer
 Moriuoka,Druid
 Morktar,Shadow Knight
+Morlious,Magician
 Mormegil,Rogue
 Mormor,Enchanter
 Morningdew,Druid
@@ -12049,8 +12302,8 @@ Morrissey,Enchanter
 Morsel,Wizard
 Mortalgate,Cleric
 Mortelles,Magician
-Morti,Magician
 Mortiferam,Necromancer
+Morti,Magician
 Mortimis,Shadow Knight
 Mortonist,Necromancer
 Mortum,Cleric
@@ -12058,6 +12311,7 @@ Mortymer,Cleric
 Moruda,UNKNOWN
 Morvigante,Wizard
 Morvoren,Enchanter
+Morxalim,Enchanter
 Morygane,Cleric
 Morygann,Wizard
 Moscowmulee,Warrior
@@ -12089,8 +12343,8 @@ Moxky,Warrior
 Moxon,Ranger
 Moxunmo,Cleric
 Moyer,Rogue
-Moze,UNKNOWN
 Mozenrath,Wizard
+Moze,UNKNOWN
 Mpeach,Enchanter
 Mraize,Magician
 Mranger,Ranger
@@ -12114,7 +12368,7 @@ Mrpink,UNKNOWN
 Mrscar,Wizard
 Mrster,Necromancer
 Mrswivels,Druid
-Mrtankypants,UNKNOWN
+Mrtankypants,Warrior
 Mrtouch,UNKNOWN
 Mrtuf,UNKNOWN
 Mrugge,Enchanter
@@ -12134,6 +12388,7 @@ Mudonk,Monk
 Mudpie,UNKNOWN
 Mudster,Rogue
 Muel,Bard
+Mufins,Cleric
 Muggan,Magician
 Muggix,Magician
 Muggzy,Shaman
@@ -12146,7 +12401,6 @@ Mujo,Necromancer
 Mukbut,Shaman
 Mukjut,Shaman
 Mukzilla,Shadow Knight
-Mule,UNKNOWN
 Muledrezen,Bard
 Muleface,Warrior
 Mulekick,Monk
@@ -12155,6 +12409,7 @@ Mulester,Warrior
 Mulesworth,UNKNOWN
 Muletar,Shadow Knight
 Muletheb,UNKNOWN
+Mule,UNKNOWN
 Mulezilla,Bard
 Mulingtonman,UNKNOWN
 Mulix,UNKNOWN
@@ -12178,11 +12433,11 @@ Mungi,Warrior
 Mungy,Druid
 Munigon,Monk
 Munt,Cleric
-Muny,Bard
 Munybank,UNKNOWN
+Muny,Bard
 Munytree,Druid
-Mura,Monk
 Murakami,Druid
+Mura,Monk
 Murci,Monk
 Murdabus,Necromancer
 Murdda,Shaman
@@ -12212,6 +12467,7 @@ Mutao,Cleric
 Muted,Magician
 Mutot,Rogue
 Muttan,UNKNOWN
+Muuffin,Bard
 Muusk,Shadow Knight
 Muuuuuule,UNKNOWN
 Muziq,Bard
@@ -12285,10 +12541,10 @@ Myuharin,Shadow Knight
 Myuri,Necromancer
 Myxnar,Magician
 Myyrdin,Shaman
-Myze,Shaman
 Myzec,Cleric
 Myzecoth,Magician
 Myzem,Monk
+Myze,Shaman
 Naala,Druid
 Naalith,Necromancer
 Naas,Enchanter
@@ -12306,16 +12562,17 @@ Nacl,Bard
 Naclone,Ranger
 Naeani,Cleric
 Naebben,Rogue
-Naedar,Necromancer
 Naedariel,Cleric
+Naedar,Necromancer
 Naedea,Ranger
 Naediian,Shaman
-Naeil,Bard
 Naeila,UNKNOWN
+Naeil,Bard
 Naelamdar,Wizard
 Naelmil,Cleric
 Naeluwen,UNKNOWN
 Naelyeh,Enchanter
+Naemian,UNKNOWN
 Naemin,Magician
 Naeshia,Necromancer
 Naethalin,Necromancer
@@ -12327,16 +12584,19 @@ Nagasane,Rogue
 Nagatoyuki,Magician
 Nagawagadeek,Cleric
 Naggim,Warrior
+Nagissugarbabi,Bard
 Nagnir,Magician
 Nahalia,Enchanter
 Nahr,Rogue
 Nahuelco,Druid
 Nahum,Magician
+Naianya,Magician
 Naias,Druid
 Naici,Druid
 Naiload,Rogue
 Nailz,Necromancer
 Nainno,Druid
+Naive,Enchanter
 Nakano,Monk
 Nakor,Warrior
 Nakunoeil,Warrior
@@ -12376,9 +12636,9 @@ Nanamana,Druid
 Nananana,Paladin
 Nanashi,Monk
 Nancymalosi,Magician
-Nand,Enchanter
 Nandar,Necromancer
 Nandarr,Druid
+Nand,Enchanter
 Naneena,Druid
 Nanek,Shaman
 Nangi,Magician
@@ -12413,8 +12673,8 @@ Narhari,Monk
 Narias,Druid
 Narik,Rogue
 Narin,Ranger
-Nark,Shaman
 Narkor,Necromancer
+Nark,Shaman
 Narles,Rogue
 Narmo,Shaman
 Narokkr,Shaman
@@ -12453,6 +12713,7 @@ Nausicaa,Cleric
 Nausicacii,Enchanter
 Navaar,Shadow Knight
 Navalia,Shaman
+Navaros,Ranger
 Navatar,Necromancer
 Navigator,Druid
 Navik,Cleric
@@ -12468,9 +12729,9 @@ Naydrexia,Paladin
 Nayper,UNKNOWN
 Naytear,Bard
 Nayvi,Shadow Knight
-Naza,Wizard
 Nazarath,Necromancer
 Nazaruul,Necromancer
+Naza,Wizard
 Nazban,Shadow Knight
 Nazcal,UNKNOWN
 Nazeroth,Bard
@@ -12485,6 +12746,7 @@ Neaffra,Ranger
 Neaggun,UNKNOWN
 Nealander,Druid
 Neanarth,Druid
+Nean,Magician
 Neara,Druid
 Nearcyde,Necromancer
 Nebbil,Rogue
@@ -12541,15 +12803,16 @@ Neenah,Enchanter
 Neenoo,Cleric
 Neeroy,Cleric
 Nefalem,Paladin
-Nefar,Magician
 Nefarias,Necromancer
+Nefar,Magician
 Nefarus,Rogue
 Nefertiri,Magician
-Neff,Necromancer
 Neffie,Enchanter
+Neff,Necromancer
+Nefia,Cleric
 Neflite,Enchanter
-Negad,Enchanter
 Negadeath,Shadow Knight
+Negad,Enchanter
 Negadien,Druid
 Negani,Ranger
 Negate,Wizard
@@ -12611,6 +12874,7 @@ Neppas,Druid
 Nerdcore,Necromancer
 Nerdy,Rogue
 Nerfbox,Magician
+Nerfromancer,UNKNOWN
 Nergel,Necromancer
 Neriakied,Ranger
 Neridor,Cleric
@@ -12628,8 +12892,8 @@ Neshal,Cleric
 Nesryn,Necromancer
 Nessalynn,Ranger
 Nessy,Warrior
-Nestle,UNKNOWN
 Nestlecrunch,Monk
+Nestle,UNKNOWN
 Nestorius,Monk
 Nestril,Cleric
 Netafaz,Necromancer
@@ -12663,9 +12927,12 @@ Newbee,Druid
 Newbnewb,Enchanter
 Newland,Warrior
 Newnec,Necromancer
+Newpert,Necromancer
 Newsal,Wizard
 Newstar,Ranger
+Nexex,Enchanter
 Nexro,Necromancer
+Nexusfare,UNKNOWN
 Neys,Druid
 Neytha,Necromancer
 Nezbeth,Paladin
@@ -12688,11 +12955,11 @@ Niargil,Enchanter
 Nias,Druid
 Niba,Magician
 Nibbie,UNKNOWN
-Nibble,Wizard
 Nibblebits,Druid
 Nibbledotz,Necromancer
 Nibbler,Wizard
 Nibblets,Necromancer
+Nibble,Wizard
 Nibiuno,Enchanter
 Nibly,Enchanter
 Nibowin,Necromancer
@@ -12767,6 +13034,7 @@ Nimua,Cleric
 Ninaar,Enchanter
 Ninaelle,Enchanter
 Ninana,Bard
+Ninan,Enchanter
 Nindarien,Ranger
 Nindawen,Cleric
 Ninde,UNKNOWN
@@ -12776,9 +13044,10 @@ Nineslot,Warrior
 Ninetales,Rogue
 Nineteenth,Shaman
 Ninex,Enchanter
-Nini,Enchanter
 Ninidain,Necromancer
 Niniea,Wizard
+Nini,Enchanter
+Niniya,Ranger
 Ninjafox,Cleric
 Ninki,Cleric
 Ninnendur,Cleric
@@ -12814,8 +13083,8 @@ Nitrocold,Druid
 Nitroman,Bard
 Nitrousoxide,Necromancer
 Nitrozeus,Bard
-Nive,Necromancer
 Nivea,Druid
+Nive,Necromancer
 Nixit,Bard
 Nixius,Rogue
 Nixsie,Necromancer
@@ -12838,9 +13107,9 @@ Nocking,Ranger
 Nocks,Druid
 Noco,Necromancer
 Noctem,Ranger
-Noctrix,UNKNOWN
-Nocturn,Enchanter
+Noctrix,Wizard
 Nocturna,Bard
+Nocturn,Enchanter
 Nodamyr,Paladin
 Noddyn,Druid
 Nodiggitty,Ranger
@@ -12929,11 +13198,12 @@ Normen,Cleric
 Norowas,Paladin
 Norpan,Enchanter
 Norra,Druid
-Norrath,Warrior
 Norraths,Bard
+Norrath,Warrior
 Norron,Druid
 Norrus,Druid
 Norther,Druid
+Northwoods,Warrior
 Norwalk,Paladin
 Norwellian,Enchanter
 Norwolf,Ranger
@@ -12955,6 +13225,7 @@ Nostrider,Ranger
 Nosum,Rogue
 Notabadguy,Cleric
 Notabank,Warrior
+Notalia,UNKNOWN
 Notcher,Druid
 Notdeadyet,Necromancer
 Notesalot,Bard
@@ -12984,8 +13255,8 @@ Nouker,Wizard
 Nource,Enchanter
 Nourse,Magician
 Novaah,Druid
-Noval,Wizard
 Novalocc,Enchanter
+Noval,Wizard
 Novaspark,Magician
 Novasplash,Ranger
 Novastar,Wizard
@@ -13002,9 +13273,9 @@ Ntwadumela,Magician
 Nuava,Druid
 Nuave,Cleric
 Nuavocado,Shaman
-Nubb,Wizard
 Nubbetta,UNKNOWN
 Nubbins,Druid
+Nubb,Wizard
 Nucks,Magician
 Nucleaire,Wizard
 Nucleo,Shaman
@@ -13017,11 +13288,11 @@ Nuguk,Shaman
 Nugzy,Druid
 Nuhggles,Bard
 Nuka,Magician
-Nuke,Wizard
 Nukebox,Wizard
 Nuketastica,Wizard
-Nuki,Wizard
+Nuke,Wizard
 Nukinn,UNKNOWN
+Nuki,Wizard
 Nukk,Monk
 Nukuki,Cleric
 Nukumm,Wizard
@@ -13041,7 +13312,7 @@ Numzab,Shaman
 Nunehi,Druid
 Nunked,Cleric
 Nunki,Cleric
-Nuons,UNKNOWN
+Nuons,Magician
 Nuova,Ranger
 Nupolar,Magician
 Nurburg,Warrior
@@ -13100,8 +13371,8 @@ Oakie,Druid
 Oakin,Druid
 Oakk,Druid
 Oakley,Druid
-Oaklyn,Rogue
 Oaklynn,Druid
+Oaklyn,Rogue
 Oakpine,Ranger
 Oakskin,Druid
 Oakswitch,Druid
@@ -13162,6 +13433,7 @@ Odush,Shaman
 Odyn,UNKNOWN
 Odyseus,Bard
 Offkeey,Bard
+Offloader,Druid
 Offtank,Shadow Knight
 Ofkolr,Shaman
 Ogadrood,Druid
@@ -13190,6 +13462,7 @@ Ohdi,Shaman
 Ohgee,Enchanter
 Ohgnobro,Magician
 Ohmat,Cleric
+Ohmelette,Rogue
 Ohpee,Enchanter
 Ohreally,Shaman
 Ohrus,Druid
@@ -13258,6 +13531,7 @@ Ololar,Druid
 Oloo,Druid
 Olora,Cleric
 Olorindalf,Wizard
+Olric,Wizard
 Olscratch,Paladin
 Olscreech,Shadow Knight
 Olsharty,Magician
@@ -13269,11 +13543,12 @@ Omegadan,Druid
 Omegan,Magician
 Omguh,Cleric
 Ommegang,Magician
+Ommin,UNKNOWN
 Ommuden,Enchanter
 Ommundan,Enchanter
-Omni,Monk
-Omnibus,UNKNOWN
+Omnibus,Wizard
 Omnicana,Enchanter
+Omni,Monk
 Omniphobiax,Druid
 Omnipot,Cleric
 Omohyoid,Bard
@@ -13359,8 +13634,8 @@ Ordinum,Monk
 Ordnir,Warrior
 Orefist,Rogue
 Orelius,Shaman
-Orent,Magician
 Orenthalx,Druid
+Orent,Magician
 Orga,Shaman
 Orgie,Shadow Knight
 Origional,Necromancer
@@ -13371,8 +13646,9 @@ Orithil,Shadow Knight
 Orkboy,Necromancer
 Orkish,Magician
 Orkoth,Shadow Knight
-Orla,UNKNOWN
 Orlando,Bard
+Orla,UNKNOWN
+Orleanian,Paladin
 Ormus,Magician
 Ornafix,Rogue
 Ornthil,Ranger
@@ -13397,8 +13673,8 @@ Oshata,Ranger
 Oshisong,Bard
 Oshkoaz,Shaman
 Oskamag,Magician
-Osmo,Necromancer
 Osmodiard,Magician
+Osmo,Necromancer
 Ospero,Wizard
 Osprey,Druid
 Ossman,Enchanter
@@ -13420,6 +13696,7 @@ Otamo,Shadow Knight
 Otasuke,Shaman
 Otemoyan,Bard
 Othrigen,UNKNOWN
+Otilah,Shaman
 Otomo,Druid
 Otoriayu,UNKNOWN
 Ottoo,Shaman
@@ -13443,6 +13720,7 @@ Overhand,Monk
 Overkill,Warrior
 Overminds,Necromancer
 Ovidia,Enchanter
+Ovulator,Cleric
 Owarukapolka,Magician
 Owenn,Druid
 Owlz,Shaman
@@ -13458,8 +13736,8 @@ Oxtail,Cleric
 Oyhoyh,Paladin
 Ozack,Ranger
 Ozama,UNKNOWN
-Ozar,Necromancer
 Ozara,Shadow Knight
+Ozar,Necromancer
 Ozcuro,Rogue
 Ozerick,Enchanter
 Ozlaen,Enchanter
@@ -13489,8 +13767,8 @@ Packsalunch,Enchanter
 Pacos,Monk
 Padishah,Cleric
 Padob,Enchanter
-Pagan,UNKNOWN
 Pagann,Cleric
+Pagan,UNKNOWN
 Pagaruk,Warrior
 Pagei,Rogue
 Pagurok,Shaman
@@ -13535,13 +13813,13 @@ Pamdoin,Shaman
 Pamelah,Enchanter
 Pamila,Bard
 Pamphlet,Enchanter
-Pampla,Shaman
 Pamplamousse,Druid
+Pampla,Shaman
 Pamudilu,Rogue
 Pamwise,Druid
 Panadyen,Bard
-Pande,Monk
 Pandemicc,Cleric
+Pande,Monk
 Pandemonlum,Bard
 Pandobra,Enchanter
 Panico,Rogue
@@ -13571,8 +13849,8 @@ Pappen,Druid
 Paps,Cleric
 Papynovas,Monk
 Paradoxical,Shaman
-Paradym,UNKNOWN
 Paradyme,Rogue
+Paradym,UNKNOWN
 Paragin,Shadow Knight
 Paralon,Bard
 Paramak,Shaman
@@ -13608,8 +13886,8 @@ Patchet,Cleric
 Patchez,Magician
 Patchie,Warrior
 Pathers,Ranger
-Pathogen,Necromancer
 Pathogenic,Necromancer
+Pathogen,Necromancer
 Pathologic,UNKNOWN
 Patientzero,Enchanter
 Patiofurn,Magician
@@ -13621,6 +13899,7 @@ Pawsome,UNKNOWN
 Pawt,Druid
 Payas,Bard
 Payce,Wizard
+Payda,Shaman
 Payejer,Necromancer
 Payerjer,Shadow Knight
 Pazbaz,Shaman
@@ -13650,6 +13929,7 @@ Pecanporter,Wizard
 Pecans,Magician
 Pecante,Cleric
 Pecon,Magician
+Pedro,Bard
 Peebletoe,Warrior
 Peeg,Druid
 Peeka,Rogue
@@ -13681,8 +13961,8 @@ Penrith,Cleric
 Pensylvester,Wizard
 Pentandra,Necromancer
 Penthea,Bard
-Pento,Wizard
 Pentor,Monk
+Pento,Wizard
 Penumbrant,Rogue
 Pepae,Druid
 Pepain,Druid
@@ -13769,6 +14049,7 @@ Pflow,Monk
 Pgdan,Druid
 Phaart,Shaman
 Phaded,Paladin
+Phaedraz,Rogue
 Phaeona,Warrior
 Phaeraonar,Paladin
 Phalen,Enchanter
@@ -13783,6 +14064,7 @@ Phaq,Enchanter
 Pharan,Monk
 Pharious,Druid
 Pharn,Enchanter
+Pharos,Enchanter
 Pharrah,Warrior
 Phasethree,Enchanter
 Phatez,Monk
@@ -13823,9 +14105,9 @@ Phlent,Ranger
 Phlim,Monk
 Phlumpus,Magician
 Phobos,Magician
-Phoe,Shadow Knight
 Phoebae,Bard
 Phoebius,Wizard
+Phoe,Shadow Knight
 Phokas,Enchanter
 Phooph,Bard
 Phootsie,Druid
@@ -13875,16 +14157,17 @@ Pict,Rogue
 Piedmont,Druid
 Piemaker,Monk
 Pierco,Rogue
-Pierre,UNKNOWN
 Pierremo,Druid
+Pierre,UNKNOWN
 Pierugo,Necromancer
 Piggle,Shadow Knight
 Piggsteecker,Rogue
 Piggum,Cleric
-Piggy,Druid
 Piggybank,Druid
+Piggy,Druid
 Pihkal,Monk
 Pihole,Druid
+Pihp,Druid
 Piill,Necromancer
 Pikealicious,Magician
 Pikel,Druid
@@ -13895,19 +14178,20 @@ Pikerexe,Shaman
 Pikertrading,Warrior
 Pikey,Shadow Knight
 Pikkle,Cleric
-Pikku,Ranger
 Pikkup,Druid
+Pikku,Ranger
 Pikled,Shaman
 Pikly,Paladin
 Pilborio,Druid
 Piledriver,Rogue
 Pilfer,Rogue
 Pilffer,Rogue
+Pillfer,Rogue
 Pillhead,Enchanter
 Pillowpants,Shaman
 Pimms,Bard
-Pina,Enchanter
 Pinaceae,Druid
+Pina,Enchanter
 Pinbien,Paladin
 Pinches,Rogue
 Pinderghast,Necromancer
@@ -13965,8 +14249,9 @@ Plano,Cleric
 Plantboi,Druid
 Planty,Ranger
 Planxton,Enchanter
-Plas,Necromancer
 Plasmasnax,Magician
+Plas,Necromancer
+Plateau,Druid
 Plato,Monk
 Playboicarti,UNKNOWN
 Playce,Ranger
@@ -14005,8 +14290,8 @@ Poaq,Rogue
 Pobloo,Bard
 Pobloodin,Paladin
 Pocahuntress,Ranger
-Pochi,Necromancer
 Pochichan,Druid
+Pochi,Necromancer
 Pockete,Rogue
 Pocketpali,Paladin
 Pocketpie,Magician
@@ -14015,6 +14300,7 @@ Pocoyo,Rogue
 Pocuscadavre,Wizard
 Pocx,Warrior
 Poems,UNKNOWN
+Poete,Bard
 Poette,Bard
 Pogohopper,UNKNOWN
 Pohato,Monk
@@ -14042,15 +14328,17 @@ Polgera,Bard
 Policoth,Magician
 Polkadot,Bard
 Polkaudio,Bard
+Pollyogo,Cleric
 Polmex,Shadow Knight
 Poltairr,Shaman
-Poly,Druid
 Polyaness,Warrior
 Polycoth,Magician
+Poly,Druid
 Polyen,UNKNOWN
 Polyfemus,Druid
 Polymnia,Enchanter
 Polyrhythmist,Bard
+Ponderr,Magician
 Ponfar,Shaman
 Poniard,Rogue
 Ponsa,Druid
@@ -14061,13 +14349,13 @@ Pooinsock,Magician
 Pookyofdoom,Necromancer
 Poolboi,UNKNOWN
 Poolboy,Bard
-Pooo,Shadow Knight
 Pooon,Necromancer
+Pooo,Shadow Knight
 Poortal,UNKNOWN
 Poortea,Wizard
 Poorts,Druid
-Poos,Necromancer
 Pooshchob,Shadow Knight
+Poos,Necromancer
 Poostickle,UNKNOWN
 Pootie,Magician
 Poouid,Druid
@@ -14101,7 +14389,7 @@ Portin,Druid
 Portingbunny,UNKNOWN
 Portjas,Druid
 Portles,Druid
-Portlia,UNKNOWN
+Portlia,Druid
 Portme,Druid
 Portmehpls,Wizard
 Portnix,UNKNOWN
@@ -14123,6 +14411,7 @@ Portzplz,Druid
 Porunga,Rogue
 Pose,Monk
 Poser,Bard
+Poshbox,Cleric
 Positive,Magician
 Possibly,Bard
 Postnut,Monk
@@ -14141,6 +14430,7 @@ Poundd,Shaman
 Poundmaker,Shaman
 Poundtown,Warrior
 Pourone,Enchanter
+Pousse,Paladin
 Pouty,Monk
 Powah,Warrior
 Powdured,Warrior
@@ -14152,6 +14442,7 @@ Powr,Magician
 Powww,Druid
 Poxcop,Necromancer
 Poxes,Necromancer
+Poxilian,Necromancer
 Poxute,Druid
 Poxxulus,Necromancer
 Poyeeto,Druid
@@ -14178,15 +14469,15 @@ Premiumdabsbra,Magician
 Preoccupied,UNKNOWN
 Prep,Druid
 Prepp,Enchanter
-Pres,Druid
 Prescient,Paladin
+Pres,Druid
 Pressen,Enchanter
 Prestid,Magician
-Pret,UNKNOWN
 Pretending,Enchanter
 Prettyevil,Druid
 Prettyfeet,Shaman
 Prettyvoice,Bard
+Pret,UNKNOWN
 Pretzell,UNKNOWN
 Prevail,Bard
 Prexum,UNKNOWN
@@ -14199,13 +14490,13 @@ Priestiss,UNKNOWN
 Prihnce,Shaman
 Primeval,Shaman
 Primordia,Druid
-Princ,Enchanter
 Princecharming,Enchanter
 Princelcharm,UNKNOWN
+Princ,Enchanter
 Princen,Enchanter
 Princesshehe,Magician
-Principio,Necromancer
 Principion,Bard
+Principio,Necromancer
 Principium,Shaman
 Prinntacular,Magician
 Printts,Enchanter
@@ -14237,12 +14528,14 @@ Prominus,UNKNOWN
 Promo,Bard
 Propain,Magician
 Prophecy,Shaman
+Prophecyshan,Bard
 Prophetess,Druid
 Prophetic,Magician
 Prophian,Magician
 Propo,Enchanter
 Propr,UNKNOWN
 Propulsion,Enchanter
+Prospering,Rogue
 Prosperity,Cleric
 Prospero,Enchanter
 Protomolecule,Paladin
@@ -14272,9 +14565,9 @@ Psyckh,Enchanter
 Psyclopse,Enchanter
 Psylaris,Cleric
 Psystem,Enchanter
-Psyth,Rogue
 Psytheguy,Monk
 Psythex,Paladin
+Psyth,Rogue
 Ptah,Enchanter
 Pterribilis,Rogue
 Ptitbras,Warrior
@@ -14312,6 +14605,7 @@ Pumpernickel,Cleric
 Punaxx,Magician
 Punchin,Monk
 Punchlizard,UNKNOWN
+Punchum,Monk
 Pungent,UNKNOWN
 Punkibrewster,Enchanter
 Punkie,Enchanter
@@ -14320,18 +14614,19 @@ Puns,Enchanter
 Punthur,Druid
 Punxz,Bard
 Pupcake,Druid
-Pupet,Necromancer
 Pupete,Necromancer
+Pupet,Necromancer
 Puppet,Enchanter
 Pupy,UNKNOWN
 Purdue,Magician
-Purest,UNKNOWN
 Puresteel,Paladin
+Purest,UNKNOWN
 Puriin,Magician
 Puripuri,Wizard
 Purple,Cleric
 Purpletrain,Shaman
 Purpstache,Magician
+Purrfection,Shaman
 Purrity,Druid
 Pursuing,Ranger
 Pururun,Druid
@@ -14346,9 +14641,9 @@ Puxton,Warrior
 Pwnpwn,Rogue
 Pwrhousse,Magician
 Pwrstab,Rogue
-Pycall,Magician
 Pycalled,Magician
 Pycallish,Magician
+Pycall,Magician
 Pycola,Warrior
 Pycorp,Necromancer
 Pygal,Bard
@@ -14365,10 +14660,11 @@ Pyriox,Wizard
 Pyroblaast,Magician
 Pyroboooze,Warrior
 Pyroman,Magician
-Pyrrh,Magician
 Pyrrha,Paladin
+Pyrrh,Magician
 Pyrron,Druid
 Pyrus,Wizard
+Pyscies,Enchanter
 Pytallen,Monk
 Pyxie,Enchanter
 Pyxxis,UNKNOWN
@@ -14425,11 +14721,14 @@ Quack,Cleric
 Quackerjacks,Cleric
 Quacksong,Bard
 Quadding,Wizard
+Quadd,Wizard
 Quadglacier,Magician
 Quadiam,Druid
 Quadporter,UNKNOWN
 Quadraticus,Wizard
 Quadratonic,Bard
+Quadsingin,UNKNOWN
+Quadstabbin,Rogue
 Quadzilla,UNKNOWN
 Quagmistro,Enchanter
 Quagrar,Monk
@@ -14457,18 +14756,20 @@ Quencie,Magician
 Quenyeon,Ranger
 Quertz,Magician
 Questie,Rogue
+Questron,Druid
 Questwic,Rogue
 Quetiapine,Cleric
 Quetinum,Enchanter
 Quetzal,Necromancer
+Queues,Cleric
 Queuetea,Shaman
 Quexos,Enchanter
 Quextal,Ranger
 Qufim,Rogue
-Quicken,Monk
 Quickened,Cleric
 Quickener,Enchanter
 Quickening,Bard
+Quicken,Monk
 Quickm,Magician
 Quickn,Wizard
 Quickr,Rogue
@@ -14507,8 +14808,8 @@ Quyyen,UNKNOWN
 Qvidki,Bard
 Qwake,Ranger
 Qwas,Rogue
-Qween,Necromancer
 Qweeni,Shaman
+Qween,Necromancer
 Qwigley,Enchanter
 Qwist,Bard
 Qyani,Magician
@@ -14533,9 +14834,9 @@ Radatat,Rogue
 Raddori,Monk
 Radga,Shadow Knight
 Radharm,Bard
-Radian,UNKNOWN
 Radiana,Ranger
 Radiantplasma,Wizard
+Radian,UNKNOWN
 Radient,Monk
 Radik,Enchanter
 Radiohead,Magician
@@ -14560,15 +14861,15 @@ Raesin,Ranger
 Raethen,Enchanter
 Raevix,Necromancer
 Raeyn,Druid
-Rafa,Enchanter
 Rafaela,Warrior
+Rafa,Enchanter
 Rafather,Warrior
 Ragaroth,Paladin
 Ragemage,Magician
 Raggae,UNKNOWN
 Raggnokk,Shadow Knight
-Raggok,Shadow Knight
 Raggokmule,Bard
+Raggok,Shadow Knight
 Ragnarokkr,Warrior
 Ragnarrok,Rogue
 Ragnarskjold,Paladin
@@ -14604,8 +14905,9 @@ Raissa,Cleric
 Raistlann,Wizard
 Raithzar,Shadow Knight
 Raiva,Wizard
-Rajo,Rogue
+Raivin,Druid
 Rajon,Bard
+Rajo,Rogue
 Rakanoth,Shaman
 Rakkari,Druid
 Rakoms,Magician
@@ -14615,8 +14917,8 @@ Ralce,Shaman
 Raldaron,Paladin
 Raldora,Monk
 Ralfawien,Enchanter
-Ralff,Rogue
 Ralffed,Necromancer
+Ralff,Rogue
 Ralia,Bard
 Ralick,Rogue
 Ralidhob,Bard
@@ -14649,20 +14951,20 @@ Ramminar,Bard
 Rampagious,Bard
 Ramza,Enchanter
 Ranchel,Druid
-Rand,Magician
 Randael,Magician
-Randall,Bard
 Randalla,Paladin
+Randall,Bard
 Randella,Rogue
 Randers,Shaman
+Rand,Magician
 Randomguy,Druid
 Randore,Warrior
 Randytrevor,Necromancer
 Rane,Druid
 Rangan,Shaman
 Ranial,Paladin
-Ranid,Enchanter
 Ranidas,Ranger
+Ranid,Enchanter
 Raniero,Druid
 Ranith,Shaman
 Ranja,Ranger
@@ -14710,7 +15012,7 @@ Ratgutz,Shaman
 Rathbarth,Enchanter
 Ratheful,Shadow Knight
 Rathena,Shaman
-Rathina,UNKNOWN
+Rathina,Druid
 Rathmarr,Shaman
 Rathmasta,Paladin
 Rathuzen,Necromancer
@@ -14748,8 +15050,9 @@ Raymin,UNKNOWN
 Raymond,UNKNOWN
 Raynell,Enchanter
 Rayone,Cleric
-Rays,Necromancer
 Raysel,Rogue
+Rays,Necromancer
+Rayste,UNKNOWN
 Raytlin,Bard
 Rayvhenn,Warrior
 Rayvon,Enchanter
@@ -14789,8 +15092,8 @@ Reas,Bard
 Rebale,Warrior
 Rebira,Enchanter
 Rebreather,Warrior
-Rebu,UNKNOWN
 Rebubula,Rogue
+Rebu,UNKNOWN
 Rebuu,Shaman
 Recap,UNKNOWN
 Receipt,Druid
@@ -14833,13 +15136,14 @@ Reesto,Necromancer
 Reeva,UNKNOWN
 Reeves,Enchanter
 Reficio,Cleric
-Reformed,Shaman
 Reformedd,Warrior
+Reformed,Shaman
 Refresh,Cleric
 Reganamnos,Warrior
 Regicide,UNKNOWN
 Regiment,Ranger
 Regnar,Ranger
+Regress,Ranger
 Regroup,UNKNOWN
 Regulator,Ranger
 Regulatorxxi,Magician
@@ -14883,8 +15187,8 @@ Relyk,Shadow Knight
 Relyn,Rogue
 Relyte,Wizard
 Remamdara,Bard
-Remby,Shaman
 Rembyena,Warrior
+Remby,Shaman
 Rememba,Cleric
 Remey,Druid
 Remienya,Ranger
@@ -14901,6 +15205,7 @@ Renan,Enchanter
 Renard,Ranger
 Renaren,Ranger
 Rendarian,Wizard
+Rendiven,Necromancer
 Rendon,Paladin
 Rendor,UNKNOWN
 Renidian,Rogue
@@ -14922,8 +15227,8 @@ Rentach,UNKNOWN
 Rentalbus,Magician
 Renza,Necromancer
 Renzo,Necromancer
-Reph,Warrior
 Rephaite,Necromancer
+Reph,Warrior
 Replica,Enchanter
 Repsol,Monk
 Repstyle,Monk
@@ -14940,8 +15245,8 @@ Resilak,Monk
 Resilience,Necromancer
 Reso,Cleric
 Resplendent,Paladin
-Respo,UNKNOWN
 Responder,UNKNOWN
+Respo,UNKNOWN
 Ressec,Ranger
 Ressed,Cleric
 Restless,UNKNOWN
@@ -14956,6 +15261,7 @@ Retlek,Shaman
 Retloc,Paladin
 Retrav,Enchanter
 Retrieval,Druid
+Retropelet,Wizard
 Retroz,Wizard
 Retsalberif,Wizard
 Reuters,UNKNOWN
@@ -14967,8 +15273,8 @@ Reveall,Rogue
 Reveka,Cleric
 Reverence,Enchanter
 Revins,Wizard
-Reviv,UNKNOWN
 Revivicor,Cleric
+Reviv,UNKNOWN
 Revolta,Shadow Knight
 Revoltin,Necromancer
 Revonel,Wizard
@@ -14982,10 +15288,11 @@ Rewtin,Bard
 Rexcision,Enchanter
 Rexril,Monk
 Reylek,Monk
-Reyn,Necromancer
 Reynald,Shaman
+Reyn,Necromancer
 Reyvn,Ranger
 Reyze,Magician
+Rezah,Cleric
 Rezarector,Cleric
 Rezek,Shaman
 Rezeno,Cleric
@@ -15002,8 +15309,10 @@ Rezstachio,Cleric
 Rezstack,Cleric
 Rezwho,Cleric
 Rezzin,Cleric
+Rezzingbunny,Cleric
 Rezzler,Cleric
 Rezzling,Cleric
+Rezzmee,Cleric
 Rezzstick,Cleric
 Rezzzme,Monk
 Rezzzzz,Cleric
@@ -15045,6 +15354,7 @@ Rhyld,Cleric
 Rhymint,Enchanter
 Rhysia,Magician
 Rhyyss,Necromancer
+Riamu,Paladin
 Ribale,UNKNOWN
 Ribbed,Necromancer
 Riblah,Monk
@@ -15061,9 +15371,9 @@ Rickky,Bard
 Rickor,Necromancer
 Rickpine,Ranger
 Rickrolling,Necromancer
-Ricks,Wizard
 Ricksar,Warrior
 Ricksha,Druid
+Ricks,Wizard
 Rickydigital,Shaman
 Rickyfitness,Shadow Knight
 Rickypp,Bard
@@ -15094,12 +15404,12 @@ Rike,Bard
 Rikerdi,Enchanter
 Rikez,Druid
 Rikke,Shaman
-Rikki,Warrior
 Rikkitik,Necromancer
+Rikki,Warrior
 Riky,Cleric
 Rilenas,Magician
-Rilla,Rogue
 Rilladar,Ranger
+Rilla,Rogue
 Rillo,Druid
 Rilna,Ranger
 Rimek,Cleric
@@ -15112,6 +15422,7 @@ Rinerino,Rogue
 Rinjani,Rogue
 Rinkin,Druid
 Rinnan,Warrior
+Rinon,Druid
 Rintaro,Bard
 Rintoro,Ranger
 Rintuki,Magician
@@ -15162,6 +15473,7 @@ Roameo,Bard
 Roana,Cleric
 Roastabotch,Wizard
 Robintaylor,Bard
+Robobank,Rogue
 Robobard,Bard
 Robocopp,Bard
 Robomancer,Necromancer
@@ -15184,8 +15496,10 @@ Rockor,Bard
 Rockpaw,Ranger
 Rockskar,Shadow Knight
 Rockwelll,Shaman
+Rockyn,Bard
 Rockyyyy,Warrior
 Rodamus,Enchanter
+Roda,UNKNOWN
 Rodax,Wizard
 Roddy,Cleric
 Rodentia,Bard
@@ -15203,13 +15517,14 @@ Roger,Druid
 Rogeur,Warrior
 Roggish,Rogue
 Roglock,UNKNOWN
-Roglorin,UNKNOWN
+Roglorin,Rogue
 Rognog,Necromancer
 Rogozhin,Rogue
 Rogyrre,Ranger
 Rohanno,Warrior
 Rohes,Ranger
 Rohhan,Druid
+Roice,Rogue
 Roisen,Ranger
 Rokar,Shaman
 Rokkyr,Wizard
@@ -15227,6 +15542,7 @@ Rolton,UNKNOWN
 Rolynd,Druid
 Rolynnd,Ranger
 Romancing,UNKNOWN
+Romberto,Ranger
 Romeoblue,Ranger
 Romtom,Magician
 Romulaz,Magician
@@ -15264,20 +15580,21 @@ Roridanie,Enchanter
 Roriddor,Shadow Knight
 Rornal,Enchanter
 Rorqual,Druid
-Rory,Monk
 Rorydemi,Warrior
+Rory,Monk
 Rorz,Shaman
 Rosalae,Cleric
 Rosare,Wizard
 Rosatomten,UNKNOWN
 Rosearia,Cleric
+Rosecutter,Rogue
 Roselee,Druid
 Rosemyne,Enchanter
 Rosenbagger,Druid
 Rosered,Druid
-Rosh,Enchanter
 Roshar,Enchanter
 Roshee,Druid
+Rosh,Enchanter
 Rosiethorn,Cleric
 Rossah,Paladin
 Rostii,Rogue
@@ -15286,17 +15603,18 @@ Rosty,Bard
 Roswaal,Enchanter
 Rosy,Druid
 Rotgrub,Shaman
-Roth,Magician
 Rothh,UNKNOWN
 Rothir,Shaman
+Roth,Magician
 Rotmonger,Shadow Knight
 Rotmongrel,Necromancer
-Roto,Shaman
 Rotoscope,Necromancer
+Roto,Shaman
 Rottensouls,Necromancer
 Rottman,Necromancer
 Rotunda,Shaman
 Rouien,Ranger
+Rounders,Cleric
 Roust,UNKNOWN
 Rouze,Cleric
 Rouzle,Bard
@@ -15311,6 +15629,7 @@ Rownaldo,Bard
 Rowsdower,Shaman
 Rowyl,Druid
 Roxby,Druid
+Roxsta,Rogue
 Roxs,Wizard
 Roxxi,Enchanter
 Royalz,Monk
@@ -15343,6 +15662,7 @@ Ruene,UNKNOWN
 Ruff,Cleric
 Ruffkin,Druid
 Ruffles,Cleric
+Ruffullen,Ranger
 Rufie,Enchanter
 Rufnut,Shaman
 Rugabuffin,Warrior
@@ -15374,6 +15694,7 @@ Rumorr,Druid
 Runar,Shaman
 Rundel,Rogue
 Rundontwalk,Druid
+Rundorig,Cleric
 Runes,Wizard
 Runicmyst,Druid
 Runie,Magician
@@ -15389,8 +15710,8 @@ Ruqus,Shaman
 Rurohs,Enchanter
 Rusalka,Cleric
 Ruscnor,Paladin
-Ruse,Shaman
 Rusell,Magician
+Ruse,Shaman
 Rushan,Ranger
 Rushi,Druid
 Rushmore,Ranger
@@ -15444,6 +15765,7 @@ Ryuh,Monk
 Ryukerr,Druid
 Ryuusei,Bard
 Ryuzoji,Monk
+Ryzerr,Paladin
 Ryzorsedge,Necromancer
 Saaden,Enchanter
 Saadez,Monk
@@ -15521,11 +15843,12 @@ Sailaway,Druid
 Saintpablo,Wizard
 Saintthomas,Cleric
 Saipress,Druid
+Saiyash,Cleric
 Saiyashinta,UNKNOWN
 Saiyn,Ranger
 Sakarri,Druid
-Saki,Ranger
 Sakin,Druid
+Saki,Ranger
 Sakkville,Rogue
 Sakrom,Monk
 Sakyan,Druid
@@ -15544,19 +15867,20 @@ Salimoneus,Warrior
 Salinity,Necromancer
 Salinna,UNKNOWN
 Saliszar,Necromancer
-Sallem,UNKNOWN
+Sallem,Wizard
+Sallen,UNKNOWN
 Salli,Cleric
 Sallie,Cleric
 Sallinger,Magician
 Sallymander,Necromancer
 Salnar,Wizard
-Salog,Shadow Knight
 Salogel,Bard
+Salog,Shadow Knight
 Salomancer,Necromancer
 Salpicon,Rogue
 Salrin,Magician
-Salro,Necromancer
 Salrog,Rogue
+Salro,Necromancer
 Salta,Cleric
 Saltaldor,UNKNOWN
 Saltheb,Shaman
@@ -15585,8 +15909,8 @@ Sanadien,Bard
 Sanadria,Necromancer
 Sanarie,Shadow Knight
 Sanctify,Cleric
-Sandi,Enchanter
 Sandia,Druid
+Sandi,Enchanter
 Sandisally,Magician
 Sandokahn,Shaman
 Sandoz,Enchanter
@@ -15600,6 +15924,7 @@ Sanguinius,Druid
 Sanguismax,Necromancer
 Sanhorn,Druid
 Sanic,Enchanter
+Sanichar,Shaman
 Sanidian,Bard
 Sanigav,Cleric
 Sanileu,Necromancer
@@ -15609,8 +15934,8 @@ Sanmen,Necromancer
 Sanpein,Bard
 Sansfear,Enchanter
 Santanah,Bard
-Sante,Shaman
 Santea,Warrior
+Sante,Shaman
 Santogrial,Paladin
 Sanvus,Paladin
 Sanyen,Enchanter
@@ -15623,8 +15948,8 @@ Saphyr,Enchanter
 Sapichor,UNKNOWN
 Sapling,Druid
 Sapodilla,Cleric
-Sapp,Necromancer
 Sapphy,Enchanter
+Sapp,Necromancer
 Sapporochan,Bard
 Sapporocyan,Druid
 Sapporodon,Shaman
@@ -15653,13 +15978,13 @@ Sarma,Necromancer
 Saroen,UNKNOWN
 Sarpidoff,Ranger
 Sarpidon,Wizard
-Sarr,Rogue
 Sarrah,Rogue
 Sarrazi,Druid
 Sarrazin,Magician
 Sarrdo,Magician
 Sarriae,Rogue
 Sarriel,Cleric
+Sarr,Rogue
 Sarryah,Magician
 Sarscovid,Cleric
 Sarsen,UNKNOWN
@@ -15671,6 +15996,7 @@ Sasakei,Enchanter
 Sasana,Rogue
 Sasette,Rogue
 Sashan,Cleric
+Sashastorm,Cleric
 Saskatoon,UNKNOWN
 Sassafras,Druid
 Sassenacc,Necromancer
@@ -15699,8 +16025,8 @@ Savahrin,Enchanter
 Savanimal,Necromancer
 Savasan,Enchanter
 Savazuule,Shadow Knight
-Save,Enchanter
 Savedge,Rogue
+Save,Enchanter
 Saver,Cleric
 Saveyor,Cleric
 Savi,Druid
@@ -15740,8 +16066,8 @@ Scarge,Druid
 Scarkis,Necromancer
 Scarlettwitch,UNKNOWN
 Scarlyt,Necromancer
-Scarp,Monk
 Scarper,Rogue
+Scarp,Monk
 Scarrab,Warrior
 Scarren,Enchanter
 Scaryteri,UNKNOWN
@@ -15754,6 +16080,7 @@ Schadite,Druid
 Scheherazade,Shadow Knight
 Schimmer,Enchanter
 Schlag,Shadow Knight
+Schleichi,Rogue
 Schlurmp,Shaman
 Schmeck,Druid
 Schmeef,Necromancer
@@ -15773,12 +16100,12 @@ Schulgixx,Shadow Knight
 Schwarmin,Bard
 Schwedy,UNKNOWN
 Sciatha,Warrior
-Sciatic,Enchanter
 Sciatica,Magician
+Sciatic,Enchanter
 Scifi,Wizard
 Sciomar,Necromancer
-Scissor,Rogue
 Scissorme,Bard
+Scissor,Rogue
 Sciurus,Ranger
 Sconk,Monk
 Scoobahsteve,Shaman
@@ -15799,12 +16126,14 @@ Scrode,Necromancer
 Scrollking,Monk
 Scrongo,Paladin
 Scrowty,Monk
+Scrubee,Ranger
 Scruffysteve,Druid
 Scrufipus,Druid
 Scrungus,Magician
 Scruple,Rogue
 Scryll,Shadow Knight
 Scubes,Enchanter
+Scuzel,Ranger
 Scuzzbucket,Shaman
 Scuzzy,Ranger
 Scyd,Bard
@@ -15878,6 +16207,7 @@ Selaniah,Ranger
 Selara,Enchanter
 Selasen,Druid
 Selenio,Shaman
+Seliant,Monk
 Selimir,Ranger
 Selise,Enchanter
 Sellamine,Warrior
@@ -15934,15 +16264,17 @@ Sensx,Cleric
 Sentha,Warrior
 Senuaa,Bard
 Senvaren,Bard
-Senzu,UNKNOWN
 Senzubean,Cleric
+Senzu,UNKNOWN
 Seoyeon,Wizard
 Sepa,UNKNOWN
 Sephera,Druid
 Sephias,Bard
 Sephier,Necromancer
+Sephimeters,Bard
 Sephiro,Enchanter
 Sephironec,Necromancer
+Sephirosa,Shaman
 Sephirosdr,Druid
 Sephirosm,Magician
 Sephisto,Druid
@@ -15995,16 +16327,18 @@ Seuvenia,Enchanter
 Sevandera,Necromancer
 Sevara,Monk
 Sevaril,Shaman
-Seven,Warrior
 Sevencrow,Wizard
 Sevens,Druid
+Seven,Warrior
 Severin,Ranger
+Severius,Magician
 Severquest,Monk
 Severroth,Shadow Knight
 Severuss,Necromancer
 Sevies,UNKNOWN
 Sevil,Enchanter
 Sevilla,Druid
+Sevone,Rogue
 Sevon,Magician
 Sevrinax,Shadow Knight
 Sevroh,Warrior
@@ -16017,12 +16351,14 @@ Seyla,Druid
 Seylan,Rogue
 Shaakti,Paladin
 Shaaktree,Druid
+Shaar,UNKNOWN
 Shabba,Enchanter
 Shackle,Necromancer
 Shaco,Wizard
 Shadaren,Necromancer
 Shadder,Shadow Knight
 Shadoe,Rogue
+Shadous,Rogue
 Shadovvs,UNKNOWN
 Shadowbeef,Shadow Knight
 Shadowblades,Rogue
@@ -16063,8 +16399,8 @@ Shalti,UNKNOWN
 Shalu,Rogue
 Shamadams,Shaman
 Shamahon,Shaman
-Shamam,Shaman
 Shamamama,Shaman
+Shamam,Shaman
 Shambala,Druid
 Shambeast,Shaman
 Shambitious,Shaman
@@ -16120,8 +16456,8 @@ Shayy,Bard
 Shazaaam,Enchanter
 Shazahra,Paladin
 Shaznas,Shaman
-Shazz,Necromancer
 Shazzle,Druid
+Shazz,Necromancer
 Sheaell,Shaman
 Sheave,Druid
 Shedrach,Warrior
@@ -16141,8 +16477,8 @@ Shendoya,Ranger
 Sheniah,Druid
 Shenlong,Enchanter
 Shenmi,Monk
-Shenn,Ranger
 Shennok,Magician
+Shenn,Ranger
 Shenok,Necromancer
 Shenronn,Shaman
 Sheny,Enchanter
@@ -16153,9 +16489,10 @@ Sheradel,Druid
 Sheridan,Cleric
 Shetii,Druid
 Shewitch,Necromancer
-Shiba,Warrior
 Shibaaz,Paladin
+Shiba,Warrior
 Shibble,Enchanter
+Shibster,Enchanter
 Shich,Necromancer
 Shiddyswashbuck,UNKNOWN
 Shieldbane,Warrior
@@ -16173,13 +16510,12 @@ Shikrah,Necromancer
 Shilekrn,Rogue
 Shilien,Monk
 Shillelah,Druid
-Shim,Shaman
 Shiman,Shaman
 Shimarin,UNKNOWN
 Shimmerdark,Wizard
 Shimmyz,Shaman
 Shimona,Enchanter
-Shin,Warrior
+Shim,Shaman
 Shinalephmem,Magician
 Shinayne,Cleric
 Shindeiru,Ranger
@@ -16192,6 +16528,7 @@ Shinouta,Bard
 Shinrin,Ranger
 Shintou,Rogue
 Shinuven,Druid
+Shin,Warrior
 Shinzzon,Necromancer
 Shiori,Paladin
 Shiris,Ranger
@@ -16222,8 +16559,8 @@ Shogz,Shaman
 Shonissa,Monk
 Shooga,Necromancer
 Shoomp,Magician
-Shoop,UNKNOWN
 Shoopuf,Necromancer
+Shoop,UNKNOWN
 Shoopyn,Ranger
 Shootzy,Ranger
 Shophish,Enchanter
@@ -16293,6 +16630,7 @@ Siffandy,UNKNOWN
 Sify,Shaman
 Sigbjorn,Shaman
 Siggard,Necromancer
+Siggird,Cleric
 Sigil,Necromancer
 Sigiyan,Enchanter
 Sigmaeta,Enchanter
@@ -16319,8 +16657,8 @@ Sileras,Bard
 Silis,Enchanter
 Silithilis,Necromancer
 Silkcuts,UNKNOWN
-Sill,Monk
 Sillena,Rogue
+Sill,Monk
 Sillyench,Enchanter
 Sillyname,Enchanter
 Silmarylyon,Necromancer
@@ -16352,17 +16690,19 @@ Sincity,Shaman
 Sindara,Enchanter
 Sindarias,Enchanter
 Sindary,Bard
+Sindel,Cleric
 Sindras,Magician
 Sindrek,Paladin
 Sindyin,Enchanter
 Sinep,Rogue
-Siner,Magician
 Sinerin,Ranger
+Siner,Magician
 Singblade,Bard
 Singdance,Bard
 Singenn,Bard
 Singler,Bard
 Singmysong,Bard
+Sinigamisan,Necromancer
 Sinisterfire,Druid
 Sinistrus,Necromancer
 Sinjin,Warrior
@@ -16403,7 +16743,9 @@ Siriius,Necromancer
 Sirio,Shadow Knight
 Sirlance,Ranger
 Sirnoble,Paladin
+Sirogan,Warrior
 Sirouxe,Paladin
+Sirpik,Shaman
 Sirporter,Druid
 Sirrann,Druid
 Sirriun,Cleric
@@ -16411,6 +16753,7 @@ Sirrus,Enchanter
 Sirthicc,UNKNOWN
 Sirtrips,Necromancer
 Sirtwerks,Wizard
+Siruss,Cleric
 Siruuan,Wizard
 Siruuvenaa,Enchanter
 Siryin,Necromancer
@@ -16436,12 +16779,14 @@ Sixgun,Cleric
 Sixhundred,UNKNOWN
 Sixotwo,Bard
 Sixpaperjoint,Rogue
+Sixpounder,Warrior
 Sixty,Necromancer
 Sixtytime,Monk
 Sizzlesizzle,Wizard
 Sizzlez,Magician
 Sizzling,Warrior
 Sjur,Necromancer
+Sjwarrior,Shaman
 Skaager,Necromancer
 Skaale,Monk
 Skaara,Rogue
@@ -16503,9 +16848,9 @@ Skizzy,Rogue
 Skogtrall,Shaman
 Skoodabwadi,Paladin
 Skookem,Monk
-Skookumchuck,UNKNOWN
-Skoshi,Magician
+Skookumchuck,Druid
 Skoshie,Enchanter
+Skoshi,Magician
 Skragrott,Shaman
 Skratches,Shaman
 Skrewb,Warrior
@@ -16559,12 +16904,12 @@ Slamm,Monk
 Slamtastic,Shaman
 Slangindem,Bard
 Slanging,Enchanter
-Slant,Rogue
 Slanter,Rogue
+Slant,Rogue
 Slapbox,Monk
 Slartey,Shaman
-Slat,Monk
 Slatebreaker,Warrior
+Slat,Monk
 Slayan,Shadow Knight
 Slayqueen,Monk
 Slays,Shaman
@@ -16576,6 +16921,7 @@ Sleeepy,Monk
 Sleek,Necromancer
 Sleepdoctor,Enchanter
 Sleepig,Magician
+Sleepindizdrag,Bard
 Sleepingsquare,Necromancer
 Sleepish,Enchanter
 Sleeps,Necromancer
@@ -16592,9 +16938,11 @@ Slicemorph,Enchanter
 Slicetak,Paladin
 Slicke,Druid
 Slickric,Ranger
+Slicksoul,UNKNOWN
 Slightest,UNKNOWN
 Slightofhand,Magician
 Sliimm,Enchanter
+Slikky,Shaman
 Sliks,Magician
 Slimbuild,Necromancer
 Slimburg,Shaman
@@ -16626,12 +16974,12 @@ Slom,Druid
 Sloofv,Wizard
 Sloop,Druid
 Slootle,Enchanter
-Slop,Shadow Knight
 Sloppyslow,Shaman
+Slop,Shadow Knight
 Slothful,Wizard
-Slow,Shaman
 Slowmow,Shaman
 Slownsow,Shaman
+Slow,Shaman
 Slowshaw,Shaman
 Slowsyaa,Shaman
 Slowwat,Shaman
@@ -16671,18 +17019,18 @@ Smallpeanut,Rogue
 Smallperson,UNKNOWN
 Smartron,Enchanter
 Smarts,Warrior
-Smash,Warrior
 Smashemsall,Shadow Knight
 Smashew,Warrior
 Smashmur,Shadow Knight
 Smashs,Enchanter
 Smashur,Warrior
+Smash,Warrior
 Smeagle,Warrior
 Smebbin,Magician
 Smeken,Enchanter
-Smelly,Shaman
 Smellydiz,Druid
 Smellypants,Shaman
+Smelly,Shaman
 Smerkle,Enchanter
 Smerti,Rogue
 Smidget,Cleric
@@ -16710,11 +17058,11 @@ Smokinnature,Druid
 Smokinon,Druid
 Smokke,Enchanter
 Smolblok,Magician
-Smole,Warrior
 Smoleports,Druid
+Smole,Warrior
 Smolfyr,Necromancer
-Smols,Shadow Knight
 Smolski,Magician
+Smols,Shadow Knight
 Smooshum,Warrior
 Smooth,Enchanter
 Smoothone,Druid
@@ -16736,9 +17084,9 @@ Snagasdad,Enchanter
 Snagasson,Rogue
 Snaggletooth,Shadow Knight
 Snailjuice,Warrior
-Snak,UNKNOWN
 Snakpacc,Cleric
 Snakseeker,Cleric
+Snak,UNKNOWN
 Snape,Enchanter
 Snappunch,Monk
 Snareandtear,Shaman
@@ -16758,6 +17106,7 @@ Snes,Rogue
 Snewp,Magician
 Snickelfritz,Druid
 Snifs,Druid
+Sniped,Enchanter
 Snitchy,UNKNOWN
 Snizzlebeak,Necromancer
 Snoek,Rogue
@@ -16765,6 +17114,7 @@ Snoggi,Rogue
 Snoggle,Druid
 Snoiche,UNKNOWN
 Snomel,Warrior
+Snoopos,Magician
 Snoots,Cleric
 Snoozer,Enchanter
 Snorkler,Magician
@@ -16795,6 +17145,7 @@ Sockfull,UNKNOWN
 Sockphone,Rogue
 Sodahh,Wizard
 Sodaron,Necromancer
+Sodden,Druid
 Sodot,Necromancer
 Sofahero,UNKNOWN
 Sofaking,Druid
@@ -16818,9 +17169,9 @@ Solaire,Cleric
 Solan,Bard
 Solanon,Rogue
 Solantium,Druid
-Solari,Paladin
 Solarin,Magician
 Solario,Enchanter
+Solari,Paladin
 Solarra,Paladin
 Solcron,Necromancer
 Soldan,Druid
@@ -16829,6 +17180,7 @@ Soldor,Warrior
 Soleny,Druid
 Soleras,Wizard
 Solerium,Druid
+Solestest,Shaman
 Soletta,Paladin
 Solfatara,Ranger
 Solina,Monk
@@ -16861,6 +17213,7 @@ Somner,UNKNOWN
 Somnicron,Necromancer
 Somren,Enchanter
 Sonaldor,Enchanter
+Sonaradar,Ranger
 Sonarr,Rogue
 Sonaseye,Enchanter
 Sonatina,Bard
@@ -16871,7 +17224,7 @@ Songlong,Bard
 Songmaster,Bard
 Songofstorms,Bard
 Songsana,Bard
-Songwriters,UNKNOWN
+Songwriters,Bard
 Sonik,Bard
 Sonnelder,Enchanter
 Sonnette,Bard
@@ -16895,9 +17248,9 @@ Soraka,Cleric
 Soramame,Cleric
 Soranlene,Rogue
 Sorco,Enchanter
-Sorgar,Warrior
 Sorgard,Necromancer
 Sorgarn,Shaman
+Sorgar,Warrior
 Sorgatani,Magician
 Sorghaghtani,Shaman
 Sorghum,Shaman
@@ -16910,6 +17263,7 @@ Sorryn,Bard
 Sorrzero,Ranger
 Sortia,Paladin
 Sorudorm,Shaman
+Soryu,Paladin
 Sorzzero,Enchanter
 Sosanna,Druid
 Sosi,Necromancer
@@ -16948,8 +17302,8 @@ Soultamer,UNKNOWN
 Soultap,Necromancer
 Soulwolf,Druid
 Soundtrack,Bard
-Soup,Shadow Knight
 Souperman,Cleric
+Soup,Shadow Knight
 Soups,UNKNOWN
 Souron,Necromancer
 Sours,Druid
@@ -16977,6 +17331,8 @@ Sozyn,Shaman
 Spaarky,Druid
 Spaetin,Druid
 Spaghettini,Rogue
+Spags,Enchanter
+Spangky,UNKNOWN
 Spanken,Bard
 Spanksy,Monk
 Sparad,Cleric
@@ -17005,6 +17361,7 @@ Spectralc,Rogue
 Speculater,UNKNOWN
 Speedballn,Bard
 Speedbro,Bard
+Speedchunk,Bard
 Speedie,Druid
 Speedygonzo,Warrior
 Speedysam,Shaman
@@ -17035,6 +17392,7 @@ Spiritpants,Shaman
 Spiritualso,Wizard
 Spitetommy,Ranger
 Splatikus,Warrior
+Splatplop,Necromancer
 Splattered,Enchanter
 Splendor,Shadow Knight
 Spliff,Bard
@@ -17058,9 +17416,9 @@ Spriket,Magician
 Springles,Druid
 Sprinkly,Druid
 Spritelygifts,Bard
-Sproc,Wizard
 Sprocki,Wizard
 Sprockle,Necromancer
+Sproc,Wizard
 Sprolly,Enchanter
 Sproos,Ranger
 Sprout,Druid
@@ -17083,8 +17441,8 @@ Squeeman,Shadow Knight
 Squeeter,Magician
 Squeezy,Shadow Knight
 Squersh,Necromancer
-Squib,Necromancer
 Squibb,Cleric
+Squib,Necromancer
 Squidmo,Cleric
 Squidrick,Warrior
 Squiid,Shaman
@@ -17116,6 +17474,7 @@ Ssoyboy,Warrior
 Sssauron,Necromancer
 Sssex,Monk
 Sssinister,Necromancer
+Sssissssko,UNKNOWN
 Sssnap,Warrior
 Staache,Warrior
 Staamn,Necromancer
@@ -17127,6 +17486,8 @@ Stabbn,Rogue
 Stabbs,Rogue
 Stabbum,Rogue
 Stabbyjess,Rogue
+Stabbyville,Rogue
+Stabinbacks,Rogue
 Stabing,Rogue
 Stabio,Druid
 Stabittle,Rogue
@@ -17143,9 +17504,9 @@ Staef,Enchanter
 Staerker,Shaman
 Staev,Ranger
 Staffmeeting,Monk
-Stag,Warrior
 Stager,Warrior
 Stagger,UNKNOWN
+Stag,Warrior
 Staind,Bard
 Stainedbottom,UNKNOWN
 Stalen,Warrior
@@ -17163,7 +17524,6 @@ Stanwick,Enchanter
 Stanwyck,Shadow Knight
 Staphy,Rogue
 Stappin,Rogue
-Star,Wizard
 Starblasta,Wizard
 Starborne,Enchanter
 Starbreeze,Ranger
@@ -17173,18 +17533,21 @@ Starchip,Enchanter
 Starfist,Monk
 Stargazey,Magician
 Starlette,Magician
+Starrlord,Cleric
 Starsky,Bard
 Startracker,Ranger
 Starvibe,Bard
 Starwark,Shaman
 Starweaver,Shaman
 Starwind,Druid
+Star,Wizard
 Starwolf,Druid
 Staryeyed,Bard
 Starz,Paladin
 Stashboxxx,Bard
 Stasher,UNKNOWN
 Stashman,UNKNOWN
+Stason,Monk
 Stasya,Necromancer
 Statik,Enchanter
 Stattler,Necromancer
@@ -17226,6 +17589,7 @@ Stevefrench,Necromancer
 Stevensmalls,Wizard
 Steveo,Enchanter
 Stew,Warrior
+Stheala,Cleric
 Stibe,Magician
 Stick,Monk
 Stickm,Rogue
@@ -17280,8 +17644,8 @@ Stormtail,Shaman
 Stormwalker,Enchanter
 Stormwatcher,Magician
 Stormwulf,Paladin
-Storn,Ranger
 Stornpar,Enchanter
+Storn,Ranger
 Stortebeker,Rogue
 Stoutclout,Cleric
 Stoutoak,Druid
@@ -17298,6 +17662,7 @@ Strangulation,Shadow Knight
 Stranjer,Ranger
 Stranos,Bard
 Stranth,Shadow Knight
+Strapped,Bard
 Strategos,Ranger
 Stratocasterr,Bard
 Stratose,Warrior
@@ -17338,6 +17703,7 @@ Stubbin,Rogue
 Stubed,Druid
 Stuber,Druid
 Stucco,Enchanter
+Stuckshed,UNKNOWN
 Stud,Shadow Knight
 Stuhmp,Druid
 Stukk,Shadow Knight
@@ -17394,6 +17760,7 @@ Summers,Druid
 Summertime,Bard
 Summery,Magician
 Summondrink,Magician
+Summonelements,Magician
 Summonn,Magician
 Summonshyte,Magician
 Summunor,Magician
@@ -17429,6 +17796,7 @@ Supernaught,Enchanter
 Superposition,Wizard
 Supersalad,Enchanter
 Supersonic,Bard
+Superwoke,Monk
 Suplatruzz,Rogue
 Suplex,UNKNOWN
 Suportflam,Enchanter
@@ -17492,14 +17860,15 @@ Sweetloot,Warrior
 Sweetmeet,Druid
 Sweetmusic,Enchanter
 Sweettunes,Bard
+Swiffles,Enchanter
 Swift,Druid
 Swiftstone,Druid
 Swiftz,Druid
 Swiggle,Magician
 Swiggy,Enchanter
 Swimming,Monk
-Swing,Monk
 Swinggin,Shaman
+Swing,Monk
 Swingn,Druid
 Swingtree,Bard
 Swingzat,Monk
@@ -17544,8 +17913,8 @@ Sylas,Bard
 Sylex,Magician
 Sylith,Wizard
 Sylky,Necromancer
-Sylli,Paladin
 Sylline,Necromancer
+Sylli,Paladin
 Syllokk,Necromancer
 Sylonis,Magician
 Sylphinja,Magician
@@ -17593,8 +17962,8 @@ Tabarnac,Warrior
 Tabasa,Necromancer
 Tabbs,Enchanter
 Tabby,Druid
-Tabe,Monk
 Tabeeb,Cleric
+Tabe,Monk
 Tabib,Cleric
 Tabien,Paladin
 Tabithaa,Rogue
@@ -17608,13 +17977,13 @@ Tabz,Enchanter
 Tacgnol,UNKNOWN
 Tachys,Monk
 Tackey,Ranger
-Taco,Druid
 Tacobelf,Druid
 Tacobella,Cleric
 Tacodemon,Ranger
+Taco,Druid
 Tacola,Druid
-Tacos,Shaman
 Tacospell,Druid
+Tacos,Shaman
 Tacostand,Bard
 Tacotaco,Monk
 Tadakatu,Shadow Knight
@@ -17632,6 +18001,7 @@ Taellail,Enchanter
 Taelman,Enchanter
 Taelorn,Paladin
 Taelyn,Ranger
+Taem,Druid
 Taephoon,Necromancer
 Taere,Warrior
 Taerreni,Necromancer
@@ -17660,10 +18030,10 @@ Tainana,Druid
 Taintalizing,Shaman
 Tainted,Shaman
 Taints,Necromancer
-Taio,Cleric
 Taiobe,Bard
-Taita,Shaman
+Taio,Cleric
 Taitano,Druid
+Taita,Shaman
 Taitfox,Druid
 Taithleach,Necromancer
 Taiyi,UNKNOWN
@@ -17681,6 +18051,7 @@ Taladil,Druid
 Talares,Ranger
 Talarus,Ranger
 Talass,Shaman
+Talbilten,Magician
 Talca,Necromancer
 Taldaien,Ranger
 Taldio,Cleric
@@ -17690,9 +18061,9 @@ Talerith,Druid
 Talerwen,Enchanter
 Talgams,Monk
 Talhen,Bard
-Tali,Necromancer
 Talian,Druid
 Taliessa,Enchanter
+Tali,Necromancer
 Talinn,Cleric
 Talisan,Ranger
 Talisyn,Bard
@@ -17717,9 +18088,9 @@ Talumn,Bard
 Taluss,Paladin
 Talvox,Shaman
 Talyrra,Rogue
-Tama,Paladin
 Tamagotchi,Wizard
 Tamahome,Enchanter
+Tama,Paladin
 Tamasan,Ranger
 Tamatdamat,Monk
 Tamen,Bard
@@ -17750,8 +18121,8 @@ Tankking,Paladin
 Tanko,Warrior
 Tankyou,Warrior
 Tanmanu,UNKNOWN
-Tanners,Cleric
 Tannersaurus,Enchanter
+Tanners,Cleric
 Tanny,Cleric
 Tanolinya,Druid
 Tanom,Druid
@@ -17759,9 +18130,10 @@ Tanotu,Druid
 Tanque,Ranger
 Tantilizer,Warrior
 Tantrix,Enchanter
-Tanu,Monk
+Tantrumz,Shadow Knight
 Tanukin,Druid
 Tanuman,Monk
+Tanu,Monk
 Tanz,Druid
 Taor,Cleric
 Taoz,UNKNOWN
@@ -17797,8 +18169,8 @@ Taru,Cleric
 Tarumaru,Druid
 Tarun,Druid
 Tarune,Druid
-Tarv,Druid
 Tarval,Enchanter
+Tarv,Druid
 Tarvis,Magician
 Taryon,Bard
 Tarzan,Druid
@@ -17817,6 +18189,7 @@ Tatalros,Cleric
 Tateha,Enchanter
 Tatekei,Bard
 Taterpuffs,Druid
+Tatersprecious,Bard
 Tatertootz,Warrior
 Tathe,Cleric
 Tatorsalad,Bard
@@ -17825,12 +18198,12 @@ Tattie,Druid
 Tatton,Rogue
 Tauntin,Warrior
 Taur,Druid
-Taure,Enchanter
 Taureau,Ranger
+Taure,Enchanter
 Tauriel,Ranger
 Taurmin,Magician
-Tavar,Ranger
 Tavaras,Bard
+Tavar,Ranger
 Taveren,Enchanter
 Tavic,Druid
 Tavii,Necromancer
@@ -17840,7 +18213,7 @@ Tawars,Bard
 Tawmpy,Shaman
 Tawnie,Rogue
 Tawxik,Monk
-Taxican,UNKNOWN
+Taxican,Druid
 Taxii,Druid
 Taxikab,UNKNOWN
 Taxious,Enchanter
@@ -17852,6 +18225,7 @@ Tayschrenn,Enchanter
 Tayshaun,Druid
 Tazeil,Magician
 Tazlaan,Warrior
+Tazlia,Shadow Knight
 Tazukal,Warrior
 Tazy,Ranger
 Tazzadir,Necromancer
@@ -17898,15 +18272,15 @@ Tegan,UNKNOWN
 Tehna,Cleric
 Teikoku,Bard
 Teinr,Druid
-Tekk,Rogue
 Tekkona,Druid
+Tekk,Rogue
 Tekkun,Rogue
 Telaraa,Enchanter
 Telas,Bard
-Tele,Wizard
 Telecaster,Bard
 Telecom,Necromancer
 Teleported,UNKNOWN
+Tele,Wizard
 Tellacia,Bard
 Tellah,Magician
 Tellarana,Wizard
@@ -17927,16 +18301,16 @@ Telwin,Enchanter
 Telziel,Enchanter
 Temaile,Magician
 Temoc,Wizard
-Temp,Ranger
 Tempista,UNKNOWN
 Templar,Cleric
 Temporion,Magician
+Temp,Ranger
 Temtayshun,Warrior
 Tenaciousd,Enchanter
 Tenaciously,Monk
 Tenatia,Enchanter
-Tenchi,UNKNOWN
 Tenchijin,Wizard
+Tenchi,UNKNOWN
 Tendo,Bard
 Tenebrius,Necromancer
 Tenedorf,Shaman
@@ -17947,6 +18321,7 @@ Tenluin,Ranger
 Tennayen,UNKNOWN
 Tennie,Monk
 Tenning,Shaman
+Tenohira,Rogue
 Tenop,Druid
 Tenorine,Bard
 Tenpo,Monk
@@ -17986,11 +18361,12 @@ Terrifyngturtle,Enchanter
 Terrik,Druid
 Terrorfist,Monk
 Terrwenn,Shaman
+Terrwen,Ranger
 Tersha,Monk
 Tertullian,Cleric
-Teru,Druid
 Terubo,Bard
 Terubou,Necromancer
+Teru,Druid
 Terunbou,Wizard
 Terver,Magician
 Tervin,Cleric
@@ -18042,9 +18418,10 @@ Tharos,Rogue
 Tharx,Enchanter
 Theavon,Paladin
 Thebster,Warrior
+Thechild,Enchanter
 Thedude,Paladin
-Thee,Magician
 Theeala,Paladin
+Thee,Magician
 Theesius,Monk
 Thefellow,UNKNOWN
 Theforest,Druid
@@ -18072,6 +18449,7 @@ Thenightking,Necromancer
 Thenothing,Bard
 Theobro,Druid
 Theodosia,Shadow Knight
+Theomac,Cleric
 Theoryy,Shadow Knight
 Thepen,Cleric
 Thepickle,Necromancer
@@ -18096,12 +18474,13 @@ Thicccc,Shaman
 Thicck,Warrior
 Thicco,Shaman
 Thiccthighs,Paladin
+Thicctok,Bard
 Thicczilla,Necromancer
 Thicket,Druid
 Thickjchik,Magician
-Thiev,Rogue
 Thieven,Rogue
 Thievery,Wizard
+Thiev,Rogue
 Thifolettum,Enchanter
 Thiicc,Ranger
 Thilsereg,Warrior
@@ -18129,6 +18508,7 @@ Thorgrid,UNKNOWN
 Thoric,Paladin
 Thorjim,Paladin
 Thorkynn,Shaman
+Thorle,Druid
 Thorneberry,Druid
 Thornfist,Druid
 Thornis,Druid
@@ -18136,6 +18516,7 @@ Thornit,UNKNOWN
 Thornn,Druid
 Thornstar,Druid
 Thornstarheals,Cleric
+Thornton,Ranger
 Thornwind,Cleric
 Thorogrim,Paladin
 Thorrgrim,Paladin
@@ -18176,6 +18557,7 @@ Thunderfoot,Monk
 Thundergun,Druid
 Thunderneck,Druid
 Thundernugget,UNKNOWN
+Thunq,Shaman
 Thuog,Shaman
 Thurl,Wizard
 Thurmn,Warrior
@@ -18268,8 +18650,8 @@ Tineu,Paladin
 Tingles,Rogue
 Tinie,UNKNOWN
 Tinkaa,Magician
-Tinkerbel,Wizard
 Tinkerbell,Enchanter
+Tinkerbel,Wizard
 Tinkerbroe,Necromancer
 Tinkered,Warrior
 Tinkerella,Magician
@@ -18283,6 +18665,7 @@ Tinolene,Bard
 Tinor,Rogue
 Tinuvana,Bard
 Tinybert,Druid
+Tinybubbles,Druid
 Tinyfry,Magician
 Tinyglort,Warrior
 Tinygun,Rogue
@@ -18331,6 +18714,7 @@ Tjen,Cleric
 Tjor,Paladin
 Tlaloc,Paladin
 Tldree,Magician
+Tlon,Wizard
 Tluamdar,Druid
 Tluen,Druid
 Tluion,Monk
@@ -18361,8 +18745,8 @@ Toehair,Druid
 Toeken,UNKNOWN
 Toeking,Shaman
 Toeknifer,Rogue
-Toestab,UNKNOWN
 Toestabber,Warrior
+Toestab,UNKNOWN
 Toffin,Druid
 Tofu,Monk
 Tofurkii,Druid
@@ -18528,14 +18912,15 @@ Trailrunner,Enchanter
 Trailsman,Ranger
 Trailwalker,Druid
 Trainstarter,Druid
+Trainwreck,Rogue
 Trais,Cleric
 Trajik,Enchanter
 Trajon,Shadow Knight
 Trakaan,Necromancer
 Trakasaur,UNKNOWN
 Trakon,Cleric
-Tram,Necromancer
 Tramek,Shaman
+Tram,Necromancer
 Tranq,Bard
 Tranqua,Bard
 Transal,UNKNOWN
@@ -18546,12 +18931,12 @@ Translink,UNKNOWN
 Transphibian,UNKNOWN
 Traplordnaefir,Cleric
 Trarin,Rogue
-Trash,UNKNOWN
 Trasha,Enchanter
 Trashe,Cleric
 Trasher,Shadow Knight
 Trashfire,Shaman
 Trashley,UNKNOWN
+Trash,UNKNOWN
 Trasko,Druid
 Traunik,Druid
 Traus,Enchanter
@@ -18595,12 +18980,13 @@ Treetre,Druid
 Treevia,Druid
 Treewatcher,Druid
 Treez,Druid
+Treezooka,Ranger
 Treezus,Druid
 Trefenwyd,UNKNOWN
 Trehd,Magician
 Trejure,Warrior
-Trek,UNKNOWN
 Trekr,Ranger
+Trek,UNKNOWN
 Treleaf,Druid
 Trellis,Druid
 Trellyy,Necromancer
@@ -18637,11 +19023,12 @@ Trilee,Bard
 Trilera,Enchanter
 Trillhoe,Druid
 Trimmy,Druid
+Trimtrasm,Bard
 Trinaxe,Warrior
 Trinex,Shadow Knight
 Trinexx,Cleric
-Trinit,Ranger
 Trinith,Monk
+Trinit,Ranger
 Trinitron,Paladin
 Trinster,Druid
 Tripleshot,Druid
@@ -18672,14 +19059,15 @@ Tromad,Bard
 Tromm,Bard
 Tromos,Bard
 Tropicaal,Druid
-Trosha,Shaman
 Troshad,Shadow Knight
+Trosha,Shaman
 Troubador,Bard
 Troubler,Rogue
 Trouser,Rogue
 Trowsers,Druid
 Troxartas,Wizard
 Troylin,Enchanter
+Trublud,Shadow Knight
 Trudie,UNKNOWN
 Trueheart,Warrior
 Truenos,Wizard
@@ -18692,22 +19080,22 @@ Trumbuk,Shaman
 Trunkss,Druid
 Trusoria,Druid
 Trusting,Warrior
-Truth,Shaman
 Truther,Monk
+Truth,Shaman
 Truumplost,UNKNOWN
 Truxa,Magician
 Truxl,Shaman
-Truz,Ranger
 Truzissus,Warrior
+Truz,Ranger
 Tryflyn,Necromancer
 Trynhard,Shaman
 Trynn,Bard
 Trype,Necromancer
 Tryredinstead,Monk
-Trys,Warrior
 Trystal,Ranger
 Trystanie,Magician
 Trystram,Paladin
+Trys,Warrior
 Tryugy,Warrior
 Tryv,Magician
 Tsaonima,Druid
@@ -18723,6 +19111,7 @@ Tssclr,Cleric
 Tssunami,Enchanter
 Tsulin,Enchanter
 Tsumari,Wizard
+Tsushima,Shadow Knight
 Tsyr,Shadow Knight
 Tuaz,Shaman
 Tubbah,UNKNOWN
@@ -18735,6 +19124,7 @@ Tuckdynasty,Bard
 Tuckified,Rogue
 Tuckk,Paladin
 Tucklers,Shaman
+Tucknorris,Shaman
 Tuddles,Magician
 Tuddy,Druid
 Tudtud,Shaman
@@ -18753,17 +19143,18 @@ Tuknor,Necromancer
 Tuko,Druid
 Tukurbuk,Warrior
 Tulamore,Ranger
+Tulassi,UNKNOWN
 Tulayze,Druid
 Tuleran,Ranger
 Tulerin,Druid
-Tuli,UNKNOWN
 Tulip,Enchanter
+Tuli,UNKNOWN
 Tulkik,Wizard
 Tullamore,Druid
 Tullaris,Paladin
 Tullon,Necromancer
-Tulo,Warrior
 Tulolas,Bard
+Tulo,Warrior
 Tulsa,Shaman
 Tulth,Shaman
 Tululi,Druid
@@ -18858,8 +19249,8 @@ Twizter,Bard
 Twoeggs,Druid
 Twofeathers,Ranger
 Twofor,Magician
-Twoha,UNKNOWN
 Twohalvesoneelf,Rogue
+Twoha,UNKNOWN
 Twoheals,Cleric
 Twolegit,Rogue
 Twomaro,Shaman
@@ -18901,8 +19292,8 @@ Tyranno,Cleric
 Tyras,Ranger
 Tyrath,Bard
 Tyrea,Ranger
-Tyren,Rogue
 Tyrendel,Ranger
+Tyren,Rogue
 Tyrex,Monk
 Tyrg,Cleric
 Tyrgrim,Warrior
@@ -18913,10 +19304,10 @@ Tyrionebrown,Cleric
 Tyrolian,UNKNOWN
 Tyronius,Necromancer
 Tyrrk,Shaman
-Tyty,Rogue
 Tytya,Druid
-Tyzan,Ranger
+Tyty,Rogue
 Tyzana,Magician
+Tyzan,Ranger
 Tzadarkath,Cleric
 Tzarik,Warrior
 Tzatziki,Ranger
@@ -18927,15 +19318,17 @@ Uaeasa,Druid
 Uaeb,Shaman
 Uaelinya,Necromancer
 Uaellail,Necromancer
+Ualadin,Shadow Knight
 Ualdaas,Ranger
 Ualerian,Ranger
 Ubee,Necromancer
 Uber,Druid
 Uberhalf,Druid
+Ubermaus,UNKNOWN
 Uberom,Ranger
 Uberports,Druid
-Ubers,Wizard
 Ubersong,Bard
+Ubers,Wizard
 Ubertrader,Warrior
 Ubnola,Magician
 Uborwompor,UNKNOWN
@@ -19039,6 +19432,7 @@ Unsure,Druid
 Untitled,Enchanter
 Untwinked,Enchanter
 Untzuntz,Necromancer
+Unwilling,Monk
 Unyverse,Bard
 Upbeatz,Bard
 Upgrademule,Warrior
@@ -19051,6 +19445,7 @@ Uratowel,Magician
 Urbrutha,Magician
 Urbs,UNKNOWN
 Ureth,UNKNOWN
+Urgent,Cleric
 Urgetahunt,Ranger
 Urgetasing,Bard
 Urgly,Shadow Knight
@@ -19100,8 +19495,8 @@ Uzdan,Magician
 Uzgak,Shadow Knight
 Uzil,Enchanter
 Uzzamo,UNKNOWN
-Uzzi,Enchanter
 Uzzibank,Warrior
+Uzzi,Enchanter
 Vaalenth,UNKNOWN
 Vaalyun,Wizard
 Vaapur,Wizard
@@ -19130,6 +19525,7 @@ Vaelmyan,UNKNOWN
 Vaeltava,Shaman
 Vaenayr,Wizard
 Vaenir,Magician
+Vaera,Warrior
 Vaeric,Cleric
 Vaerix,Magician
 Vaerker,Enchanter
@@ -19175,8 +19571,9 @@ Valian,Monk
 Validarr,Necromancer
 Validity,Monk
 Valiera,Necromancer
-Valin,Rogue
+Valijk,Rogue
 Valino,Bard
+Valin,Rogue
 Valkar,Bard
 Valkazar,Shaman
 Valkraik,Necromancer
@@ -19201,8 +19598,8 @@ Valqueen,Cleric
 Valran,Bard
 Valrane,Rogue
 Valrax,Enchanter
-Valrayn,Monk
 Valrayne,Necromancer
+Valrayn,Monk
 Valrok,Cleric
 Valros,Cleric
 Valryn,Enchanter
@@ -19238,9 +19635,9 @@ Vanishdoom,Enchanter
 Vanitee,Paladin
 Vanityy,Rogue
 Vanne,Wizard
-Vans,Magician
 Vansbank,UNKNOWN
 Vanseril,Wizard
+Vans,Magician
 Vantira,Necromancer
 Vantix,Necromancer
 Vanuurae,UNKNOWN
@@ -19258,12 +19655,12 @@ Varazsa,Enchanter
 Vardrim,Rogue
 Vargis,Enchanter
 Varguk,Shaman
-Varia,Magician
 Variabled,Enchanter
+Varia,Magician
 Varisian,Cleric
-Vark,UNKNOWN
 Varke,Druid
 Varkings,Warrior
+Vark,UNKNOWN
 Varlett,Rogue
 Varliman,Ranger
 Varook,Shaman
@@ -19283,6 +19680,7 @@ Vatos,Warrior
 Vaulh,Shadow Knight
 Vaulker,Wizard
 Vaydris,Bard
+Vaylent,Druid
 Vayren,Ranger
 Vaze,Ranger
 Vazzar,Bard
@@ -19324,6 +19722,7 @@ Velkar,Magician
 Velkyn,Magician
 Velkynn,Cleric
 Velleanna,UNKNOWN
+Velmach,Rogue
 Velmora,UNKNOWN
 Velo,Bard
 Velohtris,Cleric
@@ -19335,20 +19734,21 @@ Vemarkin,Wizard
 Vena,Necromancer
 Venatore,Wizard
 Vendar,Necromancer
+Vendidar,UNKNOWN
 Vendiinaa,Necromancer
 Vendyl,Enchanter
-Vene,Monk
-Venek,Rogue
 Venekai,Shadow Knight
+Venek,Rogue
 Venelar,Necromancer
 Venelaru,Necromancer
 Venelir,Magician
+Vene,Monk
 Veneneux,Necromancer
 Venetimnk,Monk
 Vengems,Enchanter
 Venicore,Monk
 Venixxi,Druid
-Venjer,UNKNOWN
+Venjer,Cleric
 Venli,Enchanter
 Venly,Paladin
 Venous,Rogue
@@ -19362,19 +19762,19 @@ Ventreus,Bard
 Ventura,Shadow Knight
 Venum,Necromancer
 Veola,Druid
-Vera,Wizard
 Veralia,Magician
 Veran,Bard
 Veranon,Shaman
 Veranta,Shaman
 Veranth,Enchanter
 Verathom,Bard
+Vera,Wizard
 Verax,Shaman
 Veraxx,Magician
 Verberate,Bard
 Verdura,Druid
-Vere,Wizard
 Verenoth,Wizard
+Vere,Wizard
 Veriasse,Ranger
 Verika,Druid
 Verilnak,Necromancer
@@ -19405,6 +19805,7 @@ Verumi,UNKNOWN
 Verwin,Ranger
 Veryg,Magician
 Verzaubernde,Enchanter
+Vesiroth,Magician
 Vespasian,Necromancer
 Vespin,UNKNOWN
 Vesryn,Warrior
@@ -19439,10 +19840,12 @@ Vianiyan,Necromancer
 Viark,Druid
 Vibaner,Monk
 Vibin,Bard
+Vichaya,Monk
 Vicker,Cleric
 Vickie,Magician
 Victore,Necromancer
 Victorinox,Ranger
+Vidaria,Rogue
 Videri,Enchanter
 Vidric,UNKNOWN
 Vieltreffer,Monk
@@ -19455,8 +19858,8 @@ Viivii,Druid
 Viiz,Warrior
 Vijo,Enchanter
 Vikahaku,Shaman
-Vike,Paladin
 Vikelo,Cleric
+Vike,Paladin
 Viko,Cleric
 Viktaur,Paladin
 Viktro,Cleric
@@ -19473,16 +19876,16 @@ Vilias,Enchanter
 Vill,Cleric
 Villen,UNKNOWN
 Villgeir,Rogue
-Villo,Shaman
 Villon,Monk
+Villo,Shaman
 Villus,Necromancer
 Viloe,Wizard
 Vilovar,Bard
 Vilran,Enchanter
 Vilro,Druid
 Vilrux,Wizard
-Vilu,Necromancer
 Vilulle,Shaman
+Vilu,Necromancer
 Vimana,Druid
 Vimz,Magician
 Vinamist,Bard
@@ -19491,8 +19894,8 @@ Vincentvalor,Wizard
 Vincentwice,Magician
 Vindarii,Shadow Knight
 Vindayr,Enchanter
-Vinde,Necromancer
 Vindeca,UNKNOWN
+Vinde,Necromancer
 Vinderril,UNKNOWN
 Vindidar,Necromancer
 Vineblade,Ranger
@@ -19521,6 +19924,7 @@ Virruk,Enchanter
 Virtuosity,Bard
 Virulan,Necromancer
 Visam,Shadow Knight
+Vishalla,Necromancer
 Vishes,Rogue
 Visionary,Magician
 Visita,Monk
@@ -19607,6 +20011,7 @@ Voluro,Bard
 Volvox,Cleric
 Vonder,Warrior
 Vonert,Druid
+Vonnegut,Bard
 Vonpanzer,Monk
 Vonze,Monk
 Voodoohex,Necromancer
@@ -19630,9 +20035,9 @@ Vorothian,Shadow Knight
 Vorsath,Necromancer
 Vorsch,Shaman
 Vossal,Shadow Knight
-Vostt,Rogue
 Vosttok,Shaman
-Vouri,UNKNOWN
+Vostt,Rogue
+Vouri,Necromancer
 Voxfire,Magician
 Voxilious,Monk
 Voyante,Enchanter
@@ -19653,9 +20058,10 @@ Vukarr,Warrior
 Vuki,Monk
 Vulfe,Enchanter
 Vulini,Magician
-Vult,Warrior
 Vultures,Magician
 Vultureteamlift,Druid
+Vult,Warrior
+Vulur,Ranger
 Vulwrath,Necromancer
 Vuri,Magician
 Vurk,Shadow Knight
@@ -19674,7 +20080,7 @@ Vyolence,Bard
 Vyre,Rogue
 Vyrlene,Paladin
 Vyrokk,Magician
-Vysceral,UNKNOWN
+Vysceral,Rogue
 Vytara,Necromancer
 Vytek,Bard
 Vytor,Enchanter
@@ -19708,8 +20114,8 @@ Walamine,Shaman
 Walbrin,UNKNOWN
 Walgaani,Ranger
 Walit,Rogue
-Walker,UNKNOWN
 Walkerrtexas,Ranger
+Walker,UNKNOWN
 Walkingbody,UNKNOWN
 Wallstreetbets,Enchanter
 Wallyteeth,Shaman
@@ -19748,6 +20154,7 @@ Warcriminal,Magician
 Warcrushar,Shadow Knight
 Wardnar,Wizard
 Wardner,Cleric
+Wardonky,Warrior
 Wardru,Druid
 Warfists,Monk
 Warik,Cleric
@@ -19763,8 +20170,8 @@ Warpigs,Bard
 Warppin,Bard
 Warpriest,Cleric
 Warracon,Warrior
-Warran,Magician
 Warrand,Shaman
+Warran,Magician
 Warrihobe,Bard
 Warrin,Druid
 Warriv,Bard
@@ -19774,6 +20181,7 @@ Warrok,Warrior
 Warrr,Warrior
 Wartoad,Warrior
 Warufuzake,Bard
+Wasatch,Ranger
 Waskuh,Shaman
 Watcha,Rogue
 Watcherz,Rogue
@@ -19811,6 +20219,7 @@ Weebull,Necromancer
 Weefrostber,UNKNOWN
 Weejee,UNKNOWN
 Weels,Cleric
+Weenerwolf,Druid
 Weeny,Necromancer
 Weeporter,UNKNOWN
 Weery,Cleric
@@ -19832,6 +20241,7 @@ Weller,Druid
 Welliam,Shaman
 Wellsom,Bard
 Wellspring,Enchanter
+Welton,Ranger
 Wema,Cleric
 Wendeez,UNKNOWN
 Wendeir,Rogue
@@ -19848,6 +20258,7 @@ Weran,Ranger
 Werb,Shaman
 Werda,Cleric
 Werris,Warrior
+Werwolf,Bard
 Wesemkgo,Bard
 Weshadoo,Shaman
 Wesim,Monk
@@ -19855,6 +20266,7 @@ Wesing,Bard
 Wesswyn,Druid
 Westorik,Magician
 Westwestyo,Magician
+Weth,Monk
 Wetmarket,Necromancer
 Wetpaper,Enchanter
 Weui,Enchanter
@@ -19907,8 +20319,8 @@ Whyldon,Enchanter
 Whytee,Enchanter
 Wibbles,Magician
 Wickedcrow,Shaman
-Wickid,Shaman
 Wickidbot,Shadow Knight
+Wickid,Shaman
 Widdlyscuds,Necromancer
 Wide,Bard
 Widem,Druid
@@ -19932,11 +20344,10 @@ Wiladill,Druid
 Wiladwen,Bard
 Wilbarger,Enchanter
 Wilbus,UNKNOWN
-Wilce,Shaman
 Wilcee,Enchanter
+Wilce,Shaman
 Wilcombe,UNKNOWN
 Wilcoxx,Rogue
-Wild,Ranger
 Wildawen,Druid
 Wildberry,Magician
 Wildcall,Ranger
@@ -19947,13 +20358,15 @@ Wildfantasy,Enchanter
 Wildheart,Warrior
 Wildish,Ranger
 Wildjoe,Druid
+Wild,Ranger
+Wildroot,Druid
 Wildthang,Druid
 Wildwin,Druid
 Wileaf,Enchanter
 Wilis,Druid
 Wiliss,Shaman
-Willam,Ranger
 Willamette,Ranger
+Willam,Ranger
 Willardsmith,Enchanter
 Willdabee,Enchanter
 Willem,Cleric
@@ -19965,8 +20378,8 @@ Willibik,Wizard
 Willijuana,Shaman
 Willium,Paladin
 Willon,UNKNOWN
-Willowin,Druid
 Willowind,Magician
+Willowin,Druid
 Willowjack,Enchanter
 Willowranghel,Ranger
 Willowuffgood,Druid
@@ -20037,8 +20450,8 @@ Wizittery,Wizard
 Wizmit,Wizard
 Wizpor,Wizard
 Wizzloco,Wizard
-Wizzo,Wizard
 Wizzospells,Bard
+Wizzo,Wizard
 Wliren,Magician
 Woadface,Shaman
 Woadkin,Shaman
@@ -20085,8 +20498,8 @@ Woodwind,Bard
 Woodze,Druid
 Woodzee,Druid
 Wookey,UNKNOWN
-Woolfe,UNKNOWN
 Woolfen,Ranger
+Woolfe,UNKNOWN
 Woon,Enchanter
 Woops,Cleric
 Wooran,Ranger
@@ -20113,6 +20526,7 @@ Wred,Magician
 Wrekd,Necromancer
 Wrencall,Paladin
 Wrenkle,Magician
+Wrexall,Magician
 Wriley,Wizard
 Wrinklles,Wizard
 Wrongway,UNKNOWN
@@ -20123,14 +20537,15 @@ Wubiin,Ranger
 Wudan,Druid
 Wuedyyen,Enchanter
 Wugzug,Shadow Knight
+Wuji,UNKNOWN
 Wulfein,UNKNOWN
 Wulfez,UNKNOWN
 Wulfhorn,Paladin
 Wulfin,Druid
 Wulfing,Shaman
-Wuli,Rogue
 Wulia,Enchanter
 Wulil,Bard
+Wuli,Rogue
 Wulox,Magician
 Wuluvyen,Ranger
 Wulver,Shaman
@@ -20152,6 +20567,8 @@ Wybe,Cleric
 Wyek,Shaman
 Wyfu,Shadow Knight
 Wyldaer,Ranger
+Wyldebill,Druid
+Wyldra,Bard
 Wyldsong,Bard
 Wyldthorn,Ranger
 Wylian,Warrior
@@ -20170,18 +20587,18 @@ Wynona,Necromancer
 Wynters,UNKNOWN
 Wyrdgalz,Shaman
 Wyriern,Warrior
-Wyrm,UNKNOWN
 Wyrmny,Necromancer
 Wyrmo,Rogue
 Wyrmskull,Druid
 Wyrmtongue,Enchanter
+Wyrm,UNKNOWN
 Wyrthwulf,Necromancer
 Wysprs,UNKNOWN
 Wzarector,Enchanter
 Xabaner,Enchanter
-Xabi,Necromancer
 Xabian,Magician
 Xabikkin,Necromancer
+Xabi,Necromancer
 Xaepha,Wizard
 Xaeric,Enchanter
 Xagath,Necromancer
@@ -20209,9 +20626,10 @@ Xantastic,Rogue
 Xanzin,Warrior
 Xanzwey,Ranger
 Xaratik,Necromancer
-Xare,Magician
 Xarelto,Magician
+Xare,Magician
 Xartan,Bard
+Xaru,Necromancer
 Xarya,Druid
 Xaska,Shaman
 Xastenie,Necromancer
@@ -20221,6 +20639,7 @@ Xaves,Ranger
 Xaviana,Cleric
 Xaxilis,Shadow Knight
 Xdeadx,Necromancer
+Xdru,Druid
 Xealn,Enchanter
 Xeax,Necromancer
 Xebatik,Necromancer
@@ -20238,12 +20657,12 @@ Xekz,Monk
 Xelahu,Shaman
 Xeldraz,Enchanter
 Xelgany,Cleric
-Xell,UNKNOWN
 Xellenar,Enchanter
+Xell,UNKNOWN
 Xelonis,Wizard
 Xelose,Druid
-Xena,UNKNOWN
 Xenadek,Cleric
+Xena,UNKNOWN
 Xendo,Druid
 Xendojo,Necromancer
 Xendro,Druid
@@ -20268,6 +20687,7 @@ Xerousu,Bard
 Xerric,Monk
 Xersius,Shaman
 Xersyst,Necromancer
+Xerter,Shaman
 Xerxi,Necromancer
 Xessa,Wizard
 Xesttub,UNKNOWN
@@ -20275,6 +20695,7 @@ Xetan,Bard
 Xevira,Necromancer
 Xevrae,Magician
 Xexu,Magician
+Xexxccic,Necromancer
 Xeye,Ranger
 Xezel,Enchanter
 Xgirlfriend,Bard
@@ -20295,6 +20716,8 @@ Xiljian,Paladin
 Xilrn,Monk
 Xily,Cleric
 Ximenota,Shaman
+Ximi,UNKNOWN
+Ximxam,Warrior
 Xinadia,Wizard
 Xinai,Monk
 Xion,Bard
@@ -20332,8 +20755,8 @@ Xordrax,Magician
 Xordrox,Enchanter
 Xorf,Shaman
 Xoriat,Enchanter
-Xorph,Warrior
 Xorpheus,Enchanter
+Xorph,Warrior
 Xorsha,Rogue
 Xoto,Shaman
 Xoul,Necromancer
@@ -20406,8 +20829,8 @@ Yakan,Cleric
 Yakie,Paladin
 Yakinaiko,Enchanter
 Yakinec,UNKNOWN
-Yakk,Warrior
 Yakkin,Wizard
+Yakk,Warrior
 Yaksa,Necromancer
 Yaladan,Wizard
 Yaldaren,Necromancer
@@ -20415,9 +20838,11 @@ Yalilay,Enchanter
 Yallith,Paladin
 Yalson,Druid
 Yaltik,Necromancer
+Yamamushi,Druid
 Yamanba,Shaman
 Yambik,Necromancer
 Yambis,Enchanter
+Yambusa,Necromancer
 Yamede,UNKNOWN
 Yanan,Rogue
 Yancha,Enchanter
@@ -20452,8 +20877,9 @@ Yebb,Rogue
 Yebisu,Enchanter
 Yeddan,Rogue
 Yedrin,Magician
-Yeef,Shaman
 Yeefly,Wizard
+Yeef,Shaman
+Yeetdaddy,Cleric
 Yeetfist,Monk
 Yeetus,Magician
 Yeizad,Necromancer
@@ -20463,9 +20889,9 @@ Yemen,Wizard
 Yemic,Wizard
 Yemong,Magician
 Yenam,Magician
-Yendor,Ranger
 Yendorian,Warrior
 Yendorina,Shadow Knight
+Yendor,Ranger
 Yennon,Monk
 Yentin,Magician
 Yeop,Monk
@@ -20475,6 +20901,7 @@ Yeslick,Cleric
 Yesno,Warrior
 Yessi,Enchanter
 Yetanother,Shadow Knight
+Yetmah,UNKNOWN
 Yeven,Paladin
 Yevin,Magician
 Yexim,Magician
@@ -20487,8 +20914,8 @@ Yidbik,Rogue
 Yider,Enchanter
 Yieep,Monk
 Yiki,Magician
-Yile,UNKNOWN
 Yilean,Enchanter
+Yile,UNKNOWN
 Yilye,Enchanter
 Yindein,Paladin
 Yinlong,Monk
@@ -20500,9 +20927,11 @@ Yirruzen,Paladin
 Yishai,Enchanter
 Yismet,Magician
 Yiuman,Enchanter
-Yiumanii,Shadow Knight
 Yiumaniii,Bard
+Yiumanii,Shadow Knight
 Yiuninja,Monk
+Yiushotme,Ranger
+Yizerno,Necromancer
 Yizzaman,Magician
 Yliana,Druid
 Yllith,Wizard
@@ -20511,6 +20940,7 @@ Ylsahn,Bard
 Ylyndar,Magician
 Ymmasoo,Enchanter
 Ynaria,Druid
+Yndrac,Enchanter
 Yngwie,Bard
 Yobb,Warrior
 Yober,Magician
@@ -20636,6 +21066,7 @@ Zakar,UNKNOWN
 Zakkath,Monk
 Zalarai,UNKNOWN
 Zalcar,Enchanter
+Zalea,Ranger
 Zales,Unknown
 Zalich,Necromancer
 Zalkestna,Monk
@@ -20656,6 +21087,7 @@ Zanedruid,Druid
 Zanek,Warrior
 Zanemonk,UNKNOWN
 Zanenchanter,Enchanter
+Zaneshadoknight,UNKNOWN
 Zanetrade,Bard
 Zangi,Shaman
 Zanicor,Druid
@@ -20672,6 +21104,7 @@ Zaoc,Necromancer
 Zapbrannigan,Cleric
 Zapity,Magician
 Zappatos,Wizard
+Zappie,Magician
 Zappity,Wizard
 Zapples,Druid
 Zappo,Magician
@@ -20689,15 +21122,15 @@ Zarfon,Enchanter
 Zargonis,Necromancer
 Zargoz,Cleric
 Zarh,Shadow Knight
-Zari,UNKNOWN
 Zariella,Cleric
 Zaris,Enchanter
-Zark,Shadow Knight
+Zari,UNKNOWN
 Zarkis,Shaman
+Zark,Shadow Knight
 Zaropti,Enchanter
 Zarov,Wizard
-Zarr,Druid
 Zarrana,Paladin
+Zarr,Druid
 Zarriz,Necromancer
 Zarron,Druid
 Zarthrili,Shadow Knight
@@ -20719,6 +21152,7 @@ Zaug,Bard
 Zaugrishak,Paladin
 Zavanna,Cleric
 Zaviana,Cleric
+Zavie,Bard
 Zaviel,Bard
 Zavira,Cleric
 Zaxbee,Necromancer
@@ -20749,8 +21183,8 @@ Zedikus,Wizard
 Zeebz,UNKNOWN
 Zeedz,Paladin
 Zeeke,Druid
-Zeel,Druid
 Zeelah,Necromancer
+Zeel,Druid
 Zeelo,Ranger
 Zeepher,Enchanter
 Zeeria,Enchanter
@@ -20775,6 +21209,7 @@ Zelnasty,Shaman
 Zelra,Ranger
 Zeltrak,Cleric
 Zelys,Cleric
+Zemack,UNKNOWN
 Zemil,Druid
 Zemmenar,Paladin
 Zemmi,Necromancer
@@ -20821,8 +21256,8 @@ Zerroh,Enchanter
 Zertnac,Cleric
 Zeryuken,Monk
 Zesvyr,UNKNOWN
-Zeth,UNKNOWN
 Zethlem,Cleric
+Zeth,UNKNOWN
 Zeush,Druid
 Zevour,Ranger
 Zevras,Necromancer
@@ -20865,8 +21300,10 @@ Zikasiku,Monk
 Zikazl,Warrior
 Zikie,Shadow Knight
 Zikkies,Rogue
+Zikz,Monk
 Zilbo,Druid
 Ziler,Enchanter
+Zililia,Magician
 Zillo,Druid
 Zilore,Warrior
 Ziltanix,Necromancer
@@ -20880,8 +21317,8 @@ Zinbis,Wizard
 Zincha,Enchanter
 Zingo,Druid
 Zingzang,Enchanter
-Zink,UNKNOWN
 Zinks,UNKNOWN
+Zink,UNKNOWN
 Zinlulyth,Druid
 Zinsha,Shaman
 Zintaltik,Wizard
@@ -20915,8 +21352,8 @@ Zlokan,Magician
 Zlott,Necromancer
 Zlowxp,Wizard
 Zmzmm,UNKNOWN
-Znap,Monk
 Znapcaster,Magician
+Znap,Monk
 Znapple,Cleric
 Zoby,Cleric
 Zodarah,Magician
@@ -20927,6 +21364,8 @@ Zoeth,Enchanter
 Zofran,Druid
 Zogrul,Warrior
 Zogruul,Shaman
+Zoketra,Warrior
+Zoku,Shaman
 Zolander,Wizard
 Zolend,Bard
 Zoller,Magician
@@ -20937,8 +21376,8 @@ Zolyn,Enchanter
 Zonga,Warrior
 Zonkers,Magician
 Zookamule,Warrior
-Zookeezooooo,Wizard
 Zookeezoooooo,Necromancer
+Zookeezooooo,Wizard
 Zookie,Ranger
 Zoonn,Magician
 Zoop,Magician
